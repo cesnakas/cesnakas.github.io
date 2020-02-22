@@ -2,7 +2,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML-99%25-orange)
 
-[www.cesnakas.com](https://cesnakas.github.io/{:target="_blank"})
+<a href="https://cesnakas.github.io/" target="_blank">www.cesnakas.com</a>
 
 ## Work:
 
