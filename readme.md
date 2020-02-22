@@ -1,9 +1,9 @@
 # Česnakas
 
-![HTML5](https://img.shields.io/badge/HTML_5-99%25-orange)
-![CSS3](https://img.shields.io/badge/CSS_3-90%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow)
-![PHP](https://img.shields.io/badge/PHP-75%25-purple)
+![HTML5](https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f26525)
+![CSS3](https://img.shields.io/badge/CSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-379dd7)
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-f7e017)
+![PHP](https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-787cb5)
 
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
