@@ -1,8 +1,9 @@
 # Česnakas
 
-![HTML5](https://img.shields.io/badge/HTML-99%25-orange)
+![HTML5](https://img.shields.io/badge/HTML_5-99%25-orange)
+![CSS3](https://img.shields.io/badge/CSS_3-90%25-blue)
 
-<a href="https://cesnakas.github.io/" target="_blank">www.cesnakas.com</a>
+<a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
 ## Work:
 
