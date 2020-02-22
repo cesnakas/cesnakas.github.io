@@ -2,6 +2,8 @@
 
 ![HTML5](https://img.shields.io/badge/HTML_5-99%25-orange)
 ![CSS3](https://img.shields.io/badge/CSS_3-90%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow)
+![PHP](https://img.shields.io/badge/PHP-75%25-purple)
 
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
