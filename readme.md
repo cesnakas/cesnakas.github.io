@@ -1,6 +1,8 @@
 # Česnakas
 
-[www.cesnakas.com](https://cesnakas.github.io/)
+![HTML5](https://img.shields.io/badge/HTML-99%25-orange)
+
+[www.cesnakas.com](https://cesnakas.github.io/{:target="_blank"})
 
 ## Work:
 
