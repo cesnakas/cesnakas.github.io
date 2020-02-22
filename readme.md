@@ -1,4 +1,6 @@
-# [Česnakas](https://cesnakas.github.io/)
+# Česnakas
+---
+[www.cesnakas.com](https://cesnakas.github.io/)
 
 ## Work:
 - TermoClick
