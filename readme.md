@@ -4,6 +4,9 @@
 ![CSS3](https://img.shields.io/badge/CSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-379dd7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-f7e017)
 ![PHP](https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-787cb5)
+![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-4479a1)
+
+![1С-Битрикс](https://img.shields.io/badge/Bitrix-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-c8042c)
 
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
