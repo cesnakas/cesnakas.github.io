@@ -1,12 +1,10 @@
 # Česnakas
 
-![HTML5](https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f26525)
-![CSS3](https://img.shields.io/badge/CSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-379dd7)
-![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-f7e017)
-![PHP](https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-787cb5)
-![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-4479a1)
-
-![1С-Битрикс](https://img.shields.io/badge/Bitrix-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-c8042c)
+![HTML5](https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-555?logo=html5&logoColor=fff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-555?logo=javascript&logoColor=fff&labelColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-555?logo=javascript&logoColor=fff&labelColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-555?logo=php&logoColor=fff&labelColor=777BB4)
+![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-555?logo=mysql&logoColor=fff&labelColor=4479A1)
 
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
