@@ -42,3 +42,7 @@
 - zuweb.ru
 - zu63.ru
 - termoclick.ru
+
+2013
+---
+<a target="_blank" href="www.site.com">«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»</a>
