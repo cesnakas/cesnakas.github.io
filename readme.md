@@ -43,6 +43,10 @@
 - zu63.ru
 - termoclick.ru
 
+2014
+---
+<a target="_blank" href="https://dev.1c-bitrix.ru/learning/certificate.php?user=260995&course=34&student=c9080ffb56c86eb3fb71057930a85971">«1С-Битрикс: Управление сайтом, Контент-менеджер»</a>
+
 2013
 ---
-<a target="_blank" href="www.site.com">«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»</a>
+<a target="_blank" href="http://www.site.com">«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»</a>
