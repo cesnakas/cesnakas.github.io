@@ -6,6 +6,10 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
+![1С-Битрикс](https://img.shields.io/badge/1С--Битрикс-c7042c)
+![WordPress](https://img.shields.io/badge/WordPress-21759a)
+![OpenCart](https://img.shields.io/badge/OpenCart-2ebfec)
+
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
 ## Work:
