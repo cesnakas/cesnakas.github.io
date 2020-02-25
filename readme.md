@@ -131,7 +131,7 @@
 - [«Битрикс24, Пользователь корпоративного портала (дизайн Lite)»](https://dev.1c-bitrix.ru/learning/certificate.php?user=260995&course=45&student=8a342c1aa13a8726eace7da1cd9b2ca6)
 - [«1С-Битрикс: Управление сайтом, Контент-менеджер»](https://dev.1c-bitrix.ru/learning/certificate.php?user=260995&course=34&student=c9080ffb56c86eb3fb71057930a85971)
 
-### 2012-2013
+2013
 ---
 ![cPanel](https://img.shields.io/badge/cPanel-555?logo=cpanel)
 ![HTML](https://img.shields.io/badge/HTML-555)
@@ -143,3 +143,6 @@
 ![MODX](https://img.shields.io/badge/MODX-555)
 
 - [«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»](http://www.site.com)
+
+2012
+---
