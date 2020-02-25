@@ -74,15 +74,17 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-555?logo=adobe-illustrator)
 ![SVG](https://img.shields.io/badge/SVG-555?logo=svg)
 ![CodePen](https://img.shields.io/badge/CodePen-555?logo=codepen)
+![HTML5](https://img.shields.io/badge/HTML5-555?logo=html5)
 
 
 2014
 ---
 ![Linux](https://img.shields.io/badge/Linux-555?logo=linux)
 ![Photoshop](https://img.shields.io/badge/Photoshop-555?logo=adobe-photoshop)
-![HTML5](https://img.shields.io/badge/HTML_5-555?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS_3-555?logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-555?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-555?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-555?logo=javascript)
+![JQuery](https://img.shields.io/badge/JQuery-555?logo=jquery)
 ![PHP](https://img.shields.io/badge/PHP-555?logo=php)
 ![WordPress](https://img.shields.io/badge/WordPress-555?logo=wordpress)
 ![MODX](https://img.shields.io/badge/MODX-555)
@@ -104,6 +106,7 @@
 ![CSS](https://img.shields.io/badge/CSS-555)
 ![PHP](https://img.shields.io/badge/PHP-555?logo=php)
 ![Joomla](https://img.shields.io/badge/Joomla-555?logo=joomla)
+![OpenCart](https://img.shields.io/badge/OpenCart-555?logo=opencart)
 ![MODX](https://img.shields.io/badge/MODX-555)
 
 - [«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»](http://www.site.com)
