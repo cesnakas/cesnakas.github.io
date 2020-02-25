@@ -67,6 +67,8 @@
 ---
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-555?logo=ubuntu)
 ![Debian](https://img.shields.io/badge/Debian-555?logo=debian)
+![CentOS](https://img.shields.io/badge/CentOS-555?logo=centos)
+![macOS](https://img.shields.io/badge/macOS-555?logo=apple)
 ![Apache](https://img.shields.io/badge/Apache-555?logo=apache)
 ![NGINX](https://img.shields.io/badge/NGINX-555?logo=nginx)
 ![Inkscape](https://img.shields.io/badge/Inkscape-555?logo=inkscape)
@@ -83,9 +85,12 @@
 ![1С-Битрикс](https://img.shields.io/badge/1С--Битрикс-555?logo=bitrix)
 ![Битрикс24](https://img.shields.io/badge/Битрикс24-555?logo=bitrix24)
 
+- []()
+
 2014
 ---
 ![Linux](https://img.shields.io/badge/Linux-555?logo=linux)
+![Windows](https://img.shields.io/badge/Windows-555?logo=windows)
 ![Photoshop](https://img.shields.io/badge/Photoshop-555?logo=adobe-photoshop)
 ![HTML5](https://img.shields.io/badge/HTML5-555?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-555?logo=css3)
@@ -108,6 +113,7 @@
 
 2012-2013
 ---
+![cPanel](https://img.shields.io/badge/cPanel-555?logo=cpanel)
 ![HTML](https://img.shields.io/badge/HTML-555)
 ![CSS](https://img.shields.io/badge/CSS-555)
 ![PHP](https://img.shields.io/badge/PHP-555?logo=php)
