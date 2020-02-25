@@ -9,6 +9,8 @@
 ![1С-Битрикс](https://img.shields.io/badge/1С--Битрикс-c7042c)
 ![WordPress](https://img.shields.io/badge/WordPress-21759a)
 ![OpenCart](https://img.shields.io/badge/OpenCart-2ebfec)
+![MODX](https://img.shields.io/badge/MODX-6eb244)
+![Joomla](https://img.shields.io/badge/Joomla-1b3c5c)
 
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
