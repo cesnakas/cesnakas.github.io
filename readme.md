@@ -12,6 +12,10 @@
 ![MODX](https://img.shields.io/badge/MODX-6eb244)
 ![Joomla](https://img.shields.io/badge/Joomla-1b3c5c)
 
+![Photoshop](https://img.shields.io/badge/Photoshop-555?logo=adobe-photoshop)
+![Sketch](https://img.shields.io/badge/Sketch-555?logo=sketch)
+![Figma](https://img.shields.io/badge/Figma-555?logo=figma)
+
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
 ## Work:
@@ -45,18 +49,23 @@
 
 2019
 ---
+–
 
 2018
 ---
+–
 
 2017
 ---
+–
 
 2016
 ---
+–
 
 2015
 ---
+–
 
 2014
 ---
@@ -71,4 +80,9 @@
 
 2012-2013
 ---
+![HTML](https://img.shields.io/badge/HTML-555)
+![CSS](https://img.shields.io/badge/CSS-555)
+![Joomla](https://img.shields.io/badge/Joomla-555?logo=joomla)
+![MODX](https://img.shields.io/badge/MODX-555)
+
 - [«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»](http://www.site.com)
