@@ -75,7 +75,13 @@
 ![SVG](https://img.shields.io/badge/SVG-555?logo=svg)
 ![CodePen](https://img.shields.io/badge/CodePen-555?logo=codepen)
 ![HTML5](https://img.shields.io/badge/HTML5-555?logo=html5)
-
+![CSS3](https://img.shields.io/badge/CSS3-555?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-555?logo=javascript)
+![JQuery](https://img.shields.io/badge/JQuery-555?logo=jquery)
+![PHP](https://img.shields.io/badge/PHP-555?logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-555?logo=mysql)
+![1С-Битрикс](https://img.shields.io/badge/1С--Битрикс-555?logo=bitrix)
+![Битрикс24](https://img.shields.io/badge/Битрикс24-555?logo=bitrix24)
 
 2014
 ---
