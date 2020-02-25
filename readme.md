@@ -85,7 +85,9 @@
 ![1С-Битрикс](https://img.shields.io/badge/1С--Битрикс-555?logo=bitrix)
 ![Битрикс24](https://img.shields.io/badge/Битрикс24-555?logo=bitrix24)
 
-- []()
+- [«Курс "Создание блога на Wordpress"»](https://geekbrains.ru/certificates/39568)
+- [«Основы веб-дизайна»](https://design.highlights.guru/courses/view/26)
+- [«Основы проектирования и веб-дизайна»](http://www.site.ru)
 
 2014
 ---
