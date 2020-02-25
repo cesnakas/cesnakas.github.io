@@ -69,6 +69,15 @@
 
 2014
 ---
+![Linux](https://img.shields.io/badge/Linux-555?logo=linux)
+![HTML5](https://img.shields.io/badge/HTML_5-555?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS_3-555?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-555?logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-555?logo=php)
+![1С-Битрикс](https://img.shields.io/badge/1С--Битрикс-555)
+![Битрикс24](https://img.shields.io/badge/Битрикс24-555)
+![WordPress](https://img.shields.io/badge/WordPress-555?logo=wordpress)
+
 - [«1С-Битрикс: Управление сайтом, Разработчик Bitrix Framework»](https://dev.1c-bitrix.ru/learning/certificate.php?user=260995&course=43&student=0fa939316888bf951735e178a7c59211)
 - [«1С-Битрикс: Управление сайтом, Администратор. Бизнес»](https://dev.1c-bitrix.ru/learning/certificate.php?user=260995&course=42&student=0565fdda5489400dfa7cc99da2eb49e2)
 - [«1С-Битрикс: Управление сайтом, Администратор. Модули»](https://dev.1c-bitrix.ru/learning/certificate.php?user=260995&course=41&student=4f13dedc42893847e85ee736cfcb32b4)
@@ -82,6 +91,7 @@
 ---
 ![HTML](https://img.shields.io/badge/HTML-555)
 ![CSS](https://img.shields.io/badge/CSS-555)
+![PHP](https://img.shields.io/badge/PHP-555?logo=php)
 ![Joomla](https://img.shields.io/badge/Joomla-555?logo=joomla)
 ![MODX](https://img.shields.io/badge/MODX-555)
 
