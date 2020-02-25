@@ -39,5 +39,6 @@
 - siven.ru
 - kinup.ru
 - marrakesh.kinup.ru
+- zuweb.ru
 - zu63.ru
 - termoclick.ru
