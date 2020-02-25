@@ -6,7 +6,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
-![1С-Битрикс](https://img.shields.io/badge/1С--Битрикс-c7042c)
+<a href="https://1c-bitrix.ru/" target="_blank">![1С-Битрикс](https://img.shields.io/badge/1С--Битрикс-c7042c)</a>
+
 ![WordPress](https://img.shields.io/badge/WordPress-21759a)
 ![OpenCart](https://img.shields.io/badge/OpenCart-2ebfec)
 ![MODX](https://img.shields.io/badge/MODX-6eb244)
