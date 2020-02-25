@@ -102,6 +102,8 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-555?logo=adobe-illustrator)
 ![SVG](https://img.shields.io/badge/SVG-555?logo=svg)
 ![CodePen](https://img.shields.io/badge/CodePen-555?logo=codepen)
+![Git](https://img.shields.io/badge/Git-555?logo=git)
+![GitLab](https://img.shields.io/badge/GitLab-555?logo=gitlab)
 
 - [«Курс "Создание блога на Wordpress"»](https://geekbrains.ru/certificates/39568)
 - [«Основы веб-дизайна»](https://design.highlights.guru/courses/view/26)
