@@ -74,8 +74,8 @@
 ![CSS3](https://img.shields.io/badge/CSS_3-555?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-555?logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-555?logo=php)
-![1С-Битрикс](https://img.shields.io/badge/1С--Битрикс-555)
-![Битрикс24](https://img.shields.io/badge/Битрикс24-555)
+![1С-Битрикс](https://img.shields.io/badge/1С--Битрикс-555?link=https://1c-bitrix.ru/)
+![Битрикс24](https://img.shields.io/badge/Битрикс24-555?link=https://bitrix24.ru/)
 ![WordPress](https://img.shields.io/badge/WordPress-555?logo=wordpress)
 
 - [«1С-Битрикс: Управление сайтом, Разработчик Bitrix Framework»](https://dev.1c-bitrix.ru/learning/certificate.php?user=260995&course=43&student=0fa939316888bf951735e178a7c59211)
