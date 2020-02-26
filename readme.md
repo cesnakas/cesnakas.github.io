@@ -140,7 +140,7 @@
 ![Joomla](https://img.shields.io/badge/Joomla-555?logo=joomla)
 ![OpenCart](https://img.shields.io/badge/OpenCart-555?logo=opencart)
 
-- [«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»](http://www.site.com)
+- [«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»](//cesnakas.github.io/images/certificates)
 
 2012
 ---
@@ -148,6 +148,7 @@
 ![Chrome](https://img.shields.io/badge/Chrome-555?logo=google-chrome)
 ![Opera](https://img.shields.io/badge/Opera-555?logo=opera)
 ![Firefox](https://img.shields.io/badge/Firefox-555?logo=mozilla-firefox)
+![Internet Explorer](https://img.shields.io/badge/Internet_Explorer-555?logo=internet-explorer)
 ![HTML](https://img.shields.io/badge/HTML-555)
 ![CSS](https://img.shields.io/badge/CSS-555)
 ![MODX](https://img.shields.io/badge/MODX-555)
