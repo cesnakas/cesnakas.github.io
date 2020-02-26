@@ -112,7 +112,6 @@
 2014
 ---
 ![Linux](https://img.shields.io/badge/Linux-555?logo=linux)
-![Windows](https://img.shields.io/badge/Windows-555?logo=windows)
 ![Photoshop](https://img.shields.io/badge/Photoshop-555?logo=adobe-photoshop)
 ![HTML5](https://img.shields.io/badge/HTML5-555?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-555?logo=css3)
@@ -146,3 +145,12 @@
 
 2012
 ---
+![Windows](https://img.shields.io/badge/Windows-555?logo=windows)
+![Chrome](https://img.shields.io/badge/Chrome-555?logo=google-chrome)
+![Opera](https://img.shields.io/badge/Opera-555?logo=opera)
+![Firefox](https://img.shields.io/badge/Firefox-555?logo=mozilla-firefox)
+![HTML](https://img.shields.io/badge/HTML-555)
+![CSS](https://img.shields.io/badge/CSS-555)
+
+zu63.ru
+|---|
