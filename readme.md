@@ -44,8 +44,8 @@
 - kinup.ru
 - marrakesh.kinup.ru
 - zuweb.ru
-- zu63.ru
 - termoclick.ru
+- [zu63.ru](#2012)
 
 2019
 ---
