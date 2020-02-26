@@ -139,7 +139,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-555?logo=mysql)
 ![Joomla](https://img.shields.io/badge/Joomla-555?logo=joomla)
 ![OpenCart](https://img.shields.io/badge/OpenCart-555?logo=opencart)
-![MODX](https://img.shields.io/badge/MODX-555)
 
 - [«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»](http://www.site.com)
 
@@ -151,6 +150,4 @@
 ![Firefox](https://img.shields.io/badge/Firefox-555?logo=mozilla-firefox)
 ![HTML](https://img.shields.io/badge/HTML-555)
 ![CSS](https://img.shields.io/badge/CSS-555)
-
-zu63.ru
-|---|
+![MODX](https://img.shields.io/badge/MODX-555)
