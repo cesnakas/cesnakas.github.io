@@ -43,8 +43,8 @@
 - siven.ru
 - kinup.ru
 - marrakesh.kinup.ru
-- zuweb.ru
-- termoclick.ru
+- [zuweb.ru](#2013)
+- [termoclick.ru](#2013)
 - [zu63.ru](#2012)
 
 2019
@@ -140,7 +140,7 @@
 ![Joomla](https://img.shields.io/badge/Joomla-555?logo=joomla)
 ![OpenCart](https://img.shields.io/badge/OpenCart-555?logo=opencart)
 
-- [«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»](//cesnakas.github.io/images/certificates)
+- [«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»](//cesnakas.github.io/images/certificates/)
 
 2012
 ---
