@@ -1,17 +1,14 @@
 # Česnakas
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff)
-![CCS3](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
+![CCS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff&style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
 <a href="https://1c-bitrix.ru/" ::target="_blank">![1С-Битрикс](https://img.shields.io/badge/1С--Битрикс-c7042c)</a>
 ![WordPress](https://img.shields.io/badge/WordPress-21759a)
 ![OpenCart](https://img.shields.io/badge/OpenCart-2ebfec)
 ![MODX](https://img.shields.io/badge/MODX-6eb244)
 ![Joomla](https://img.shields.io/badge/Joomla-1b3c5c)
-
 ![Photoshop](https://img.shields.io/badge/Photoshop-555?logo=adobe-photoshop)
 ![Sketch](https://img.shields.io/badge/Sketch-555?logo=sketch)
 ![Figma](https://img.shields.io/badge/Figma-555?logo=figma)
