@@ -142,6 +142,9 @@
 
 - [«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»](//cesnakas.github.io/images/certificates/)
 
+[TermoClick](http://termoclick.ru)
+|---|
+
 2012
 ---
 ![Windows](https://img.shields.io/badge/Windows-555?logo=windows)
@@ -152,3 +155,6 @@
 ![HTML](https://img.shields.io/badge/HTML-555)
 ![CSS](https://img.shields.io/badge/CSS-555)
 ![MODX](https://img.shields.io/badge/MODX-555)
+
+[zu63.ru](http://zu63.ru)
+|---|
