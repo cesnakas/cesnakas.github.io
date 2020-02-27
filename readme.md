@@ -4,15 +4,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff&style=flat-square)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
-<a href="https://1c-bitrix.ru/" ::target="_blank">![1С-Битрикс](https://img.shields.io/badge/1С--Битрикс-c7042c)</a>
-![WordPress](https://img.shields.io/badge/WordPress-21759a)
-![OpenCart](https://img.shields.io/badge/OpenCart-2ebfec)
-![MODX](https://img.shields.io/badge/MODX-6eb244)
-![Joomla](https://img.shields.io/badge/Joomla-1b3c5c)
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-gray?logo=adobe-photoshop)
 ![Sketch](https://img.shields.io/badge/Sketch-gray?logo=sketch)
 ![Figma](https://img.shields.io/badge/Figma-gray?logo=figma)
+![JQuery](https://img.shields.io/badge/JQuery-gray?logo=jquery)
+![Joomla](https://img.shields.io/badge/Joomla-gray?logo=joomla)
+![WordPress](https://img.shields.io/badge/WordPress-gray?logo=wordpress)
 
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
