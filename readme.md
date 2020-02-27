@@ -140,11 +140,9 @@
 ![Joomla](https://img.shields.io/badge/Joomla-555?logo=joomla)
 ![OpenCart](https://img.shields.io/badge/OpenCart-555?logo=opencart)
 
-- [«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»](//cesnakas.github.io/images/certificates/)
+<a href="http://termoclick.ru">![TermoClick](https://img.shields.io/badge/termoclick.ru-eCommerce-orange)</a>
 
-|TermoClick|
-|:---:|
-|<a href="http://termoclick.ru" target="_blank"><img src="https://github.com/cesnakas/cesnakas.com/blob/master/images/work/termoclick/home.png" alt="TermoClick" width="290"></a>|
+- [«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»](//cesnakas.github.io/images/certificates/)
 
 2012
 ---
