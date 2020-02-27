@@ -19,10 +19,10 @@
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
 ## Work:
-![Samara-Soft](https://img.shields.io/badge/samara--soft.ru-gray?style=for-the-badge)
-![InfoPro](https://img.shields.io/badge/info--pro.ru-gray?style=for-the-badge)
-![Energo Vympel](https://img.shields.io/badge/lk.energo--vympel.ru-gray?style=for-the-badge)
-![OneFit](https://img.shields.io/badge/one--fit-.ru-blue?style=for-the-badge?style=for-the-badge)
+![Samara-Soft](https://img.shields.io/badge/samara--soft-.ru-blue?style=for-the-badge)
+![InfoPro](https://img.shields.io/badge/info--pro-.ru-blue?style=for-the-badge)
+![Energo Vympel](https://img.shields.io/badge/lk.energo--vympel-.ru-blue?style=for-the-badge)
+![OneFit](https://img.shields.io/badge/one--fit-.ru-blue?style=for-the-badge)
 ![SamKarniz](https://img.shields.io/badge/samkarniz-.ru-purple?style=for-the-badge)
 ![GazPromBank](https://img.shields.io/badge/gazprombank-.ru-blue?style=for-the-badge)
 ![Redsoft](https://img.shields.io/badge/redsoft-.ru-blue?style=for-the-badge)
