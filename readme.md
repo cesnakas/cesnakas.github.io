@@ -9,9 +9,10 @@
 ![OpenCart](https://img.shields.io/badge/OpenCart-2ebfec)
 ![MODX](https://img.shields.io/badge/MODX-6eb244)
 ![Joomla](https://img.shields.io/badge/Joomla-1b3c5c)
-![Photoshop](https://img.shields.io/badge/Photoshop-555?logo=adobe-photoshop)
-![Sketch](https://img.shields.io/badge/Sketch-555?logo=sketch)
-![Figma](https://img.shields.io/badge/Figma-555?logo=figma)
+
+![Photoshop](https://img.shields.io/badge/Photoshop-gray?logo=adobe-photoshop)
+![Sketch](https://img.shields.io/badge/Sketch-gray?logo=sketch)
+![Figma](https://img.shields.io/badge/Figma-gray?logo=figma)
 
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
