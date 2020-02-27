@@ -5,12 +5,12 @@
 ![PHP](https://img.shields.io/badge/PHP-gray?style=flat-square&labelColor=777BB4&logo=php&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-gray?style=flat-square&labelColor=4479A1&logo=mysql&logoColor=fff)
 
-![Photoshop](https://img.shields.io/badge/Photoshop-gray?logo=adobe-photoshop)
-![Sketch](https://img.shields.io/badge/Sketch-gray?logo=sketch)
-![Figma](https://img.shields.io/badge/Figma-gray?logo=figma)
-![JQuery](https://img.shields.io/badge/JQuery-gray?logo=jquery)
-![Joomla](https://img.shields.io/badge/Joomla-gray?logo=joomla)
-![WordPress](https://img.shields.io/badge/WordPress-gray?logo=wordpress)
+![Photoshop](https://img.shields.io/badge/Photoshop-gray?labelColor=333&logo=adobe-photoshop)
+![Sketch](https://img.shields.io/badge/Sketch-gray?labelColor=333&logo=sketch)
+![Figma](https://img.shields.io/badge/Figma-gray?labelColor=333&logo=figma)
+![JQuery](https://img.shields.io/badge/JQuery-gray?labelColor=333&logo=jquery)
+![Joomla](https://img.shields.io/badge/Joomla-gray?labelColor=333&logo=joomla)
+![WordPress](https://img.shields.io/badge/WordPress-gray?labelColor=333&logo=wordpress)
 
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
