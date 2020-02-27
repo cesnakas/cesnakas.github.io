@@ -142,8 +142,9 @@
 
 - [«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»](//cesnakas.github.io/images/certificates/)
 
-[TermoClick](http://termoclick.ru)
+|TermoClick|
 |---|
+|<img src="https://github.com/cesnakas/cesnakas.com/blob/master/images/work/termoclick/home.png" width="290">|
 
 2012
 ---
