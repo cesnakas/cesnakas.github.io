@@ -19,6 +19,14 @@
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
 ## Work:
+![TehnoProject](https://img.shields.io/badge/tehnoprojekt-.ru-blue)
+![Paluba Cafe](https://img.shields.io/badge/palubacafe-.ru-blue)
+![Delta](https://img.shields.io/badge/delta--eco-.ru-blue)
+![SiVen](https://img.shields.io/badge/siven-.ru-orange)
+![KINUP](https://img.shields.io/badge/kinup-.ru-green)
+![Marrakesh](https://img.shields.io/badge/marrakesh.kinup-.ru-green)
+![TermoClick](https://img.shields.io/badge/termoclick-.ru-orange)
+![zu63](https://img.shields.io/badge/zu63-.ru-blue)
 
 - samara-soft.ru
 - info-pro.ru
@@ -37,15 +45,6 @@
 - la-parisienne.ru
 - justsmile.club
 - fitness.kinup.ru
-- tehnoprojekt.ru
-- palubacafe.ru
-- delta-eco.ru
-- siven.ru
-- kinup.ru
-- marrakesh.kinup.ru
-- [zuweb.ru](#2013)
-- [termoclick.ru](#2013)
-- [zu63.ru](#2012)
 
 2019
 ---
@@ -140,8 +139,6 @@
 ![Joomla](https://img.shields.io/badge/Joomla-555?logo=joomla)
 ![OpenCart](https://img.shields.io/badge/OpenCart-555?logo=opencart)
 
-<a href="http://termoclick.ru">![TermoClick](https://img.shields.io/badge/termoclick.ru-eCommerce-orange)</a>
-
 - [«Web-мастеринг. Создание сайтов на CMS Joomla и других платформах»](//cesnakas.github.io/images/certificates/)
 
 2012
@@ -154,6 +151,3 @@
 ![HTML](https://img.shields.io/badge/HTML-555)
 ![CSS](https://img.shields.io/badge/CSS-555)
 ![MODX](https://img.shields.io/badge/MODX-555)
-
-[zu63.ru](http://zu63.ru)
-|---|
