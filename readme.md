@@ -2,8 +2,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-gray?style=flat-square&labelColor=E34F26&logo=html5&logoColor=fff)
 ![CCS3](https://img.shields.io/badge/CSS3-gray?style=flat-square&labelColor=1572B6&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=flat-square&labelColor=F7DF1E&logo=javascript&logoColor=fff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-gray?style=flat-square&labelColor=777BB4&logo=php&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-gray?style=flat-square&labelColor=4479A1&logo=mysql&logoColor=fff)
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-gray?logo=adobe-photoshop)
 ![Sketch](https://img.shields.io/badge/Sketch-gray?logo=sketch)
