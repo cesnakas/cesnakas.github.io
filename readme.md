@@ -19,6 +19,15 @@
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
 ## Work:
+![Eric the Red](https://img.shields.io/badge/ericthered-.ru-yellow)
+![Good Time 555](https://img.shields.io/badge/goodtime555-.ru-orange)
+![YaLab](https://img.shields.io/badge/ya--lab-.ru-blue)
+![Argo Samara](https://img.shields.io/badge/sam--argo-.ru-orange)
+![Zolotoy Kod](https://img.shields.io/badge/zolotoykod-.ru-blue)
+![Botek Fitness](https://img.shields.io/badge/botek--fitness-.club-purple)
+![La Parisienne](https://img.shields.io/badge/la--parisienne-.ru-orange)
+![Just Smile](https://img.shields.io/badge/justsmile-.club-purple)
+![KINUP Fitness](https://img.shields.io/badge/fitness.kinup-.ru-blue)
 ![TehnoProject](https://img.shields.io/badge/tehnoprojekt-.ru-blue)
 ![Paluba Cafe](https://img.shields.io/badge/palubacafe-.ru-blue)
 ![Delta](https://img.shields.io/badge/delta--eco-.ru-blue)
@@ -36,15 +45,6 @@
 - gazprombank.ru
 - redsoft.ru
 - megasmokers.ru
-- ericthered.ru
-- goodtime555.ru
-- ya-lab.ru
-- sam-argo.ru
-- zolotoykod.ru
-- botek-fitness.club
-- la-parisienne.ru
-- justsmile.club
-- fitness.kinup.ru
 
 2019
 ---
