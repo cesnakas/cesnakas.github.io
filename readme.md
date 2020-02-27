@@ -19,6 +19,14 @@
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
 ## Work:
+![Samara-Soft](https://img.shields.io/badge/samara--soft-.ru-blue)
+![InfoPro](https://img.shields.io/badge/info--pro-.ru-blue)
+![Energo Vympel](https://img.shields.io/badge/lk.energo--vympel-.ru-blue)
+![OneFit](https://img.shields.io/badge/one--fit-.ru-blue)
+![SamKarniz](https://img.shields.io/badge/samkarniz-.ru-purple)
+![GazPromBank](https://img.shields.io/badge/gazprombank-.ru-blue)
+![Redsoft](https://img.shields.io/badge/redsoft-.ru-blue)
+![MegaSmokers](https://img.shields.io/badge/megasmokers-.ru-orange)
 ![Eric the Red](https://img.shields.io/badge/ericthered-.ru-yellow)
 ![Good Time 555](https://img.shields.io/badge/goodtime555-.ru-orange)
 ![YaLab](https://img.shields.io/badge/ya--lab-.ru-blue)
@@ -36,15 +44,6 @@
 ![Marrakesh](https://img.shields.io/badge/marrakesh.kinup-.ru-green)
 ![TermoClick](https://img.shields.io/badge/termoclick-.ru-orange)
 ![zu63](https://img.shields.io/badge/zu63-.ru-blue)
-
-- samara-soft.ru
-- info-pro.ru
-- lk.energo-vympel.ru
-- one-fit.ru
-- samkarniz.ru
-- gazprombank.ru
-- redsoft.ru
-- megasmokers.ru
 
 2019
 ---
