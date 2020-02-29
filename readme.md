@@ -16,20 +16,20 @@
 <a target="_blank" href="https://cesnakas.github.io/">www.cesnakas.com</a>
 
 ## Work:
-![Samara-Soft](https://img.shields.io/badge/samara--soft-.ru-blue?style=for-the-badge)
-![InfoPro](https://img.shields.io/badge/info--pro-.ru-blue?style=for-the-badge)
-![Energo Vympel](https://img.shields.io/badge/lk.energo--vympel-.ru-blue?style=for-the-badge)
-![OneFit](https://img.shields.io/badge/one--fit-.ru-blue?style=for-the-badge)
-![SamKarniz](https://img.shields.io/badge/samkarniz-.ru-purple?style=for-the-badge)
-![GazPromBank](https://img.shields.io/badge/gazprombank-.ru-blue?style=for-the-badge)
-![Redsoft](https://img.shields.io/badge/redsoft-.ru-blue?style=for-the-badge)
-![MegaSmokers](https://img.shields.io/badge/megasmokers-.ru-orange?style=for-the-badge)
-![Eric the Red](https://img.shields.io/badge/ericthered-.ru-yellow?style=for-the-badge)
-![Good Time 555](https://img.shields.io/badge/goodtime555-.ru-orange?style=for-the-badge)
-![YaLab](https://img.shields.io/badge/ya--lab-.ru-blue?style=for-the-badge)
-![Argo Samara](https://img.shields.io/badge/sam--argo-.ru-orange?style=for-the-badge)
-![Zolotoy Kod](https://img.shields.io/badge/zolotoykod-.ru-blue?style=for-the-badge)
-![Botek Fitness](https://img.shields.io/badge/botek--fitness-.club-purple?style=for-the-badge)
+[samara-soft.ru](https://samara-soft.ru),
+[info-pro.ru](https://info-pro.ru),
+[lk.energo-vympel.ru](https://lk.energo-vympel.ru),
+[one-fit.ru](https://one-fit.ru),
+[samkarniz.ru](https://samkarniz.ru),
+[gazprombank.ru](https://gazprombank.ru),
+[redsoft.ru](https://redsoft.ru),
+[megasmokers.ru](https://megasmokers.ru),
+[ericthered.ru](https://ericthered.ru),
+[goodtime555.ru](https://goodtime555.ru),
+[ya-lab.ru](https://ya-lab.ru),
+[argo-samara.ru](https://sam-argo.ru),
+[zolotoykod.ru](https://zolotoykod.ru),
+[botek-fitness.club](https://botek-fitness.club),
 ![La Parisienne](https://img.shields.io/badge/la--parisienne-.ru-orange?style=for-the-badge)
 ![Just Smile](https://img.shields.io/badge/justsmile-.club-purple?style=for-the-badge)
 ![KINUP Fitness](https://img.shields.io/badge/fitness.kinup-.ru-blue?style=for-the-badge)
