@@ -1,0 +1,48 @@
+.section {
+	position: relative;
+	margin: 3rem auto;
+}
+
+#portfolio {
+	// margin: 5rem auto;
+}
+
+.portfolio {
+
+	&-item {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		min-height: 25vh;
+		margin-bottom: 1.75rem;
+		border: $border-dashed;
+		border-radius: $border-radius;
+		overflow: hidden;
+		transition: $transition;
+
+		&:hover {
+			box-shadow: $shadow;
+		}
+	}
+}
+
+.link {
+	color: #f0f0f0;
+	transition: $transition;
+
+	&:hover {
+		color: #f0f0f0;
+	}
+
+	&::after {
+		content: '';
+		position: absolute;
+		top: 0;
+		right: 0;
+		left: 0;
+		bottom: 0;
+		z-index: 1;
+		background-color: rgba(0,0,0,0);
+		pointer-events: auto;
+	}
+}

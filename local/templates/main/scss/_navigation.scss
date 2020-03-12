@@ -16,8 +16,8 @@
 		transition: .75s;
 
 		&:hover {
-			color: #808080;
 			text-decoration: none;
+			opacity: .5;
 		}
 
 		& + a {
