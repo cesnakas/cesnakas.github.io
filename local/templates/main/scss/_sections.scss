@@ -1,26 +1,2 @@
 @import   'sections/section'; // Global Section
 @import 'sections/portfolio'; // Section Portfolio
-
-// //////////////////////////
-
-.link {
-	color: #f0f0f0;
-	text-transform: uppercase;
-	transition: $transition;
-
-	&:hover {
-		color: #f0f0f0;
-	}
-
-	&::after {
-		content: '';
-		position: absolute;
-		top: 0;
-		right: 0;
-		left: 0;
-		bottom: 0;
-		z-index: 1;
-		background-color: rgba(0,0,0,0);
-		pointer-events: auto;
-	}
-}
