@@ -1,4 +1,4 @@
-
+// Styles
 $border: 1px solid rgba(100,100,100,.25);
 $border-solid: 2px solid rgba(100,100,100,.25);
 $border-dashed: 2px dashed rgba(100,100,100,.25);
@@ -6,3 +6,5 @@ $border-dashed: 2px dashed rgba(100,100,100,.25);
 $border-radius: .5rem;
 
 $transition: .75s;
+
+@import 'assets/links';

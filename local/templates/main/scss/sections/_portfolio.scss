@@ -1,0 +1,19 @@
+.portfolio {
+
+	&-item {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		min-height: 25vh;
+		margin-bottom: 1.75rem;
+		border: $border-dashed;
+		border-radius: $border-radius;
+		overflow: hidden;
+		transition: $transition;
+
+		&:hover {
+			box-shadow: $shadow;
+		}
+	}
+}
