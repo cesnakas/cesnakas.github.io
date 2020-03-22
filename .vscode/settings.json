@@ -1,3 +1,13 @@
 {
-    "liveServer.settings.port": 5501
+	"liveSassCompile.settings.formats":[
+		{
+				"format": "compressed",
+				"extensionName": ".min.css",
+				"savePath": "~/../css/"
+		},
+	],
+	"files.autoSave": "onFocusChange",
+	"editor.tabSize": 2,
+	"editor.wordWrap": "on",
+	"liveServer.settings.port": 5501
 }
