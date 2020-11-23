@@ -3,32 +3,38 @@
 
 <url>
 	<loc>https://cesnakas.github.io/</loc>
-	<priority>1.00</priority>
+</url>
+
+<url>
+	<loc>https://cesnakas.github.io/work/</loc>
+</url>
+
+<url>
+	<loc>https://cesnakas.github.io/services/</loc>
+</url>
+
+<url>
+	<loc>https://cesnakas.github.io/contact/</loc>
 </url>
 
 <url>
 	<loc>https://cesnakas.github.io/storedent.ru/</loc>
-	<priority>0.80</priority>
 </url>
 
 <url>
 	<loc>https://cesnakas.github.io/samara.dental/</loc>
-	<priority>0.80</priority>
 </url>
 
 <url>
 	<loc>https://cesnakas.github.io/ascondicioner.ru/</loc>
-	<priority>0.80</priority>
 </url>
 
 <url>
 	<loc>https://cesnakas.github.io/lk.energo-vympel.ru/</loc>
-	<priority>0.80</priority>
 </url>
 
 <url>
 	<loc>https://cesnakas.github.io/one-fit.ru/</loc>
-	<priority>0.80</priority>
 </url>
 
 </urlset>
