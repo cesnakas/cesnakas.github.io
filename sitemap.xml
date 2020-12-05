@@ -43,4 +43,10 @@
 		<lastmod>2020-12-05</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
+	<url>
+		<loc>https://cesnakas.github.io/termoclick.ru/</loc>
+		<priority>0.50</priority>
+		<lastmod>2020-12-05</lastmod>
+		<changefreq>weekly</changefreq>
+	</url>
 </urlset>
