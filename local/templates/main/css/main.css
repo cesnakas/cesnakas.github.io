@@ -1,5 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+:root {
+  --bs-font-sans-serif: 'Open Sans', sans-serif;
+}
+
 #navigation {
   background: rgba(0,0,0,.8);
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
+}
+
+main {
+  padding-top: 56px;
+}
+
+#header {
+  color: var(--bs-light);
+  background-color: var(--bs-dark);
+}
+#wrapper {
+  min-height: 50vh;
 }
