@@ -19,6 +19,12 @@
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
+		<loc>https://cesnakas.github.io/notes/</loc>
+		<priority>0.80</priority>
+		<lastmod>2020-12-05</lastmod>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
 		<loc>https://cesnakas.github.io/contact/</loc>
 		<priority>0.80</priority>
 		<lastmod>2020-12-05</lastmod>
