@@ -1,7 +1,7 @@
 body {
     color: var(--bs-white);
     background-color: var(--bs-primary);
-    background-image: url(/docs/assets/img/bg.png), var(--bs-gradient);
+    background-image: url(./docs/assets/img/bg.png), var(--bs-gradient);
     background-size: cover;
 }
 
