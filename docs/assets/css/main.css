@@ -1,0 +1,7 @@
+body {
+    color: var(--bs-white);
+}
+
+.rounded-3 {
+    border-radius: 3rem !important;
+}
