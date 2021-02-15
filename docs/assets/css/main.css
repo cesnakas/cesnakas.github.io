@@ -18,8 +18,8 @@ body {
     bottom: 0;
     border-radius: 50%;
     background: var(--bs-dark) var(--bs-gradient);
-    -webkit-animation: 10.5s linear infinite spinner-border;
-    animation: 10.5s linear infinite spinner-border;
+    -webkit-animation: 7.5s linear infinite spinner-border;
+    animation: 7.5s linear infinite spinner-border;
 }
 
 #img:after {
