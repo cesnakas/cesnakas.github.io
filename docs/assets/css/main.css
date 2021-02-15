@@ -9,6 +9,9 @@ body {
     border-radius: 3rem !important;
 }
 
+#img {
+    z-index: 1;
+}
 #img::before {
     content: '';
     position: absolute;
@@ -17,12 +20,8 @@ body {
     right: 0;
     bottom: 0;
     border-radius: 50%;
-    background: var(--bs-dark) var(--bs-gradient);
+    background-color: var(--bs-dark);
+    background-image: var(--bs-gradient);
     -webkit-animation: 7.5s linear infinite spinner-border;
     animation: 7.5s linear infinite spinner-border;
-}
-
-#img:after {
-    content: '';
-    border-radius: 50%;
 }
