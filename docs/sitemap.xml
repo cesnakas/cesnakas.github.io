@@ -7,6 +7,12 @@
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
+		<loc>https://cesnakas.github.io/ru/</loc>
+		<priority>1.00</priority>
+		<lastmod>2021-02-12</lastmod>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
 		<loc>https://cesnakas.github.io/services/</loc>
 		<priority>0.80</priority>
 		<lastmod>2021-02-12</lastmod>
