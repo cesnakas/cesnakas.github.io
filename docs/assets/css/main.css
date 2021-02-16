@@ -8,9 +8,15 @@ body {
 .rounded-3 {
     border-radius: 3rem !important;
 }
+@media (max-width: 991.98px) {
+    .rounded-3 {
+        border-radius: 0 !important;
+    }
+}
 
 #img {
     z-index: 1;
+    max-width: 460px;
 }
 #img::before {
     content: '';
