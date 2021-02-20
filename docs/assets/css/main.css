@@ -31,3 +31,7 @@ body {
     -webkit-animation: 7.5s linear infinite spinner-border;
     animation: 7.5s linear infinite spinner-border;
 }
+
+div.card.h-100.border-2 {
+    border-radius: 1.25rem;
+}
