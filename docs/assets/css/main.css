@@ -8,7 +8,10 @@ body {
     color: var(--bs-white);
     background-color: var(--bs-primary);
     background-image: url(../img/bg.png), var(--bs-gradient);
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .rounded-3 {
@@ -40,4 +43,18 @@ body {
 
 div.card.h-100.border-2 {
     border-radius: 1.25rem;
+}
+
+.progress {
+    height: 12px;
+    padding: 2px;
+    border: 2px solid var(--bs-gray-dark);
+    border-radius: 1rem;
+    background-color: transparent;
+}
+.progress-bar {
+    border-radius: 1rem;
+}
+.progress-bar + .progress-bar {
+    margin-left: 2px;
 }
