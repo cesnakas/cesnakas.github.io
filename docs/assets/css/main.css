@@ -23,6 +23,10 @@ body {
     }
 }
 
+.carousel-indicators .active {
+    background-color: var(--bs-primary);
+}
+
 #img {
     z-index: 1;
     max-width: 460px;
