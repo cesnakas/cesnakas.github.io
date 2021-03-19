@@ -3,3 +3,7 @@ if ($(window).width() < 991.98) {
 } else {
     $('body > div').addClass('container');
 };
+
+// Home
+$('body').prepend('<div class="container">' + '<div class="position-relative">');
+$('body').append('</div>' + '</div>');
