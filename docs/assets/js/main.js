@@ -18,14 +18,14 @@ if ($(window).width() < 991.98) {
     $('#pad').removeClass('p-5 rounded-3');
     $('header').addClass('fixed-top bg-dark');
     $('main').addClass('mt-5 pt-5');
-    $('#img').removeClass('w-75');
+    $('#img').removeClass('w-75').addClass('mb-4');
 } else {
     $('body').addClass('py-5');
     $('body > div').addClass('container');
     $('#pad').addClass('p-5 rounded-3');
     $('header').removeClass('fixed-top bg-dark');
     $('main').removeClass('mt-5 pt-5');
-    $('#img').addClass('w-75');
+    $('#img').addClass('w-75').removeClass('mb-4');
 };
 $(window).resize(function () {
     if ($(window).width() < 991.98) {
@@ -34,13 +34,13 @@ $(window).resize(function () {
         $('#pad').removeClass('p-5 rounded-3');
         $('header').addClass('fixed-top bg-dark');
         $('main').addClass('mt-5 pt-5');
-        $('#img').removeClass('w-75');
+        $('#img').removeClass('w-75').addClass('mb-4');
     } else {
         $('body').addClass('py-5');
         $('body > div').addClass('container');
         $('#pad').addClass('p-5 rounded-3');
         $('header').removeClass('fixed-top bg-dark');
         $('main').removeClass('mt-5 pt-5');
-        $('#img').addClass('w-75');
+        $('#img').addClass('w-75').removeClass('mb-4');
     };
 });
