@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: */index.html
-Host: cesnakas.github.io
-Sitemap: https://cesnakas.github.io/sitemap.xml
