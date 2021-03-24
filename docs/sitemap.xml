@@ -8,19 +8,19 @@
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
-		<loc>https://cesnakas.github.io/resume/</loc>
+		<loc>https://cesnakas.github.io/resume</loc>
 		<priority>0.80</priority>
 		<lastmod>2021-03-24</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
-		<loc>https://cesnakas.github.io/work/</loc>
+		<loc>https://cesnakas.github.io/work</loc>
 		<priority>0.80</priority>
 		<lastmod>2021-03-24</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
-		<loc>https://cesnakas.github.io/contact/</loc>
+		<loc>https://cesnakas.github.io/contact</loc>
 		<priority>0.80</priority>
 		<lastmod>2021-03-24</lastmod>
 		<changefreq>weekly</changefreq>
