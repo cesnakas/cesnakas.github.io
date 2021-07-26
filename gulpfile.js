@@ -26,7 +26,7 @@ const htmlBuild = () => {
             data:     'app/pages/data/'
         }))
         .pipe(plumber.stop())
-        .pipe(dest('./'))
+        .pipe(dest('./docs/'))
         .pipe(browserSync.stream())
 }
 
@@ -44,7 +44,7 @@ const stylesBuild = () => {
         }))
         .pipe(sourcemaps.write())
         .pipe(plumber.stop())
-        .pipe(dest('dist/css/'))
+        .pipe(dest('./docs/dist/css/'))
         .pipe(browserSync.stream())
 }
 
@@ -64,14 +64,14 @@ const scriptsBuild = () => {
         .pipe(uglify())
         .pipe(sourcemaps.write())
         .pipe(plumber.stop())
-        .pipe(dest('dist/js/'))
+        .pipe(dest('./docs/dist/js/'))
         .pipe(browserSync.stream())
 }
 
 // Build a Fonts
 const fontsBuild = () => {
     return src('app/fonts/**/*.*')
-        .pipe(dest('dist/fonts/'))
+        .pipe(dest('./docs/dist/fonts/'))
         .pipe(browserSync.stream())
 }
 
@@ -81,7 +81,7 @@ const imagesBuild = () => {
         .pipe(plumber())
         .pipe(imagemin())
         .pipe(plumber.stop())
-        .pipe(dest('dist/images/'))
+        .pipe(dest('./docs/dist/images/'))
         .pipe(browserSync.stream())
 }
 
@@ -96,23 +96,23 @@ const svgBuild = () => {
             }
         }))
         */
-        .pipe(dest('dist/images/'))
+        .pipe(dest('./docs/dist/images/'))
         .pipe(browserSync.stream())
 }
 
 // Clean a Build
 const cleanBuild = () => {
     return del([
-        './*.html',
-        './dist/*',
-        './dist'
+        './docs/*.html',
+        './docs/dist/*',
+        './docs/dist'
     ])
 }
 
 // Watch
 const watcher = (done) => {
     browserSync.init({
-        server: { baseDir: ['./'] },
+        server: { baseDir: ['./docs/'] },
         notify: false,
         online: false,
     })
@@ -123,12 +123,12 @@ const watcher = (done) => {
     watch('app/images/**/*', imagesBuild)
     watch('app/images/**/*.svg', svgBuild)
     watch([
-        './*.html',
-        'dist/*.*',
-        'dist/css/*.css',
-        'dist/fonts/**/*',
-        'dist/images/**/*.*',
-        'dist/js/*.js',
+        './docs/*.html',
+        './docs/dist/*.*',
+        './docs/dist/css/*.css',
+        './docs/dist/fonts/**/*',
+        './docs/dist/images/**/*.*',
+        './docs/dist/js/*.js',
     ]).on('change', browserSync.reload)
     done()
 }
