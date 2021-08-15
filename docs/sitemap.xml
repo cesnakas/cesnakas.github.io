@@ -4,50 +4,44 @@
 	<url>
 		<loc>https://cesnakas.github.io/</loc>
 		<priority>1.00</priority>
-		<lastmod>2021-03-24</lastmod>
+		<lastmod>2021-08-15</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
 		<loc>https://cesnakas.github.io/resume</loc>
-		<priority>0.80</priority>
-		<lastmod>2021-03-24</lastmod>
+		<priority>0.90</priority>
+		<lastmod>2021-08-15</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
 		<loc>https://cesnakas.github.io/work</loc>
-		<priority>0.80</priority>
-		<lastmod>2021-03-24</lastmod>
+		<priority>0.90</priority>
+		<lastmod>2021-08-15</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
 		<loc>https://cesnakas.github.io/contact</loc>
-		<priority>0.80</priority>
-		<lastmod>2021-03-24</lastmod>
+		<priority>0.90</priority>
+		<lastmod>2021-08-15</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<!-- Work -->
 	<url>
+		<loc>https://cesnakas.github.io/maconsulting.ru/</loc>
+		<priority>0.80</priority>
+		<lastmod>2021-08-15</lastmod>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
 		<loc>https://cesnakas.github.io/ascondicioner.ru/</loc>
-		<priority>0.50</priority>
-		<lastmod>2021-02-12</lastmod>
+		<priority>0.80</priority>
+		<lastmod>2021-08-15</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
 		<loc>https://cesnakas.github.io/lk.energo-vympel.ru/</loc>
-		<priority>0.50</priority>
-		<lastmod>2021-02-12</lastmod>
-		<changefreq>weekly</changefreq>
-	</url>
-	<url>
-		<loc>https://cesnakas.github.io/one-fit.ru/</loc>
-		<priority>0.50</priority>
-		<lastmod>2021-02-12</lastmod>
-		<changefreq>weekly</changefreq>
-	</url>
-	<url>
-		<loc>https://cesnakas.github.io/termoclick.ru/</loc>
-		<priority>0.50</priority>
-		<lastmod>2021-02-12</lastmod>
+		<priority>0.80</priority>
+		<lastmod>2021-08-15</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 </urlset>
