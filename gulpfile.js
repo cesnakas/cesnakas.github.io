@@ -1,5 +1,6 @@
 'use strict'
 const { src, dest, series, parallel, watch } = require('gulp')
+const gulp         = require('gulp');
 const browserSync  = require('browser-sync').create()
 const plumber      = require('gulp-plumber')
 const panini       = require('panini')
@@ -9,12 +10,16 @@ const autoprefixer = require('gulp-autoprefixer')
 const concat       = require('gulp-concat')
 const babel        = require('gulp-babel')
 const uglify       = require('gulp-uglify')
-const imagemin    = require('gulp-imagemin')
-const svgSprite    = require('gulp-svg-sprite')
+const imagemin     = require('gulp-imagemin')
+const imageminWebp = require('imagemin-webp')
+const WEBP         = require('gulp-webp')
+const cache        = require('gulp-cache')
 const del          = require('del')
+const mode         = require('gulp-mode')({modes: ['prod', 'dev'], default: 'dev', verbose: false})
 
-// Build HTML & Pages
-const htmlBuild = () => {
+
+// ========== HTML ==========
+const html = () => {
     panini.refresh()
     return src('app/pages/*.html', { base: 'app/pages/' })
         .pipe(plumber())
@@ -26,15 +31,15 @@ const htmlBuild = () => {
             data:     'app/pages/data/'
         }))
         .pipe(plumber.stop())
-        .pipe(dest('./docs/'))
+        .pipe(dest('dist/'))
         .pipe(browserSync.stream())
 }
 
-// Build a Styles
-const stylesBuild = () => {
+// ========== Styles ==========
+const styles = () => {
     return src('app/scss/**/*.scss')
         .pipe(plumber())
-        .pipe(sourcemaps.init())
+        .pipe(mode.dev(sourcemaps.init()))
         .pipe(sass.sync({
             outputStyle: 'compressed'
         }).on('error', sass.logError))
@@ -42,102 +47,112 @@ const stylesBuild = () => {
             overrideBrowserslist: ['last 10 versions'],
             cascade: false
         }))
-        .pipe(sourcemaps.write())
+        .pipe(mode.dev(sourcemaps.write()))
         .pipe(plumber.stop())
-        .pipe(dest('./docs/dist/css/'))
+        .pipe(dest('dist/css/'))
         .pipe(browserSync.stream())
 }
 
-// Build a Scripts
-const scriptsBuild = () => {
+// ========== Scripts ==========
+const scripts = () => {
     return src([
-        // 'node_modules/jquery/dist/jquery.js',
         'node_modules/bootstrap/dist/js/bootstrap.bundle.js',
         'app/js/main.js',
     ])
         .pipe(plumber())
-        .pipe(sourcemaps.init())
+        .pipe(mode.dev(sourcemaps.init()))
         .pipe(babel({
             presets: ['@babel/env']
         }))
         .pipe(concat('main.js'))
         .pipe(uglify())
-        .pipe(sourcemaps.write())
+        .pipe(mode.dev(sourcemaps.write()))
         .pipe(plumber.stop())
-        .pipe(dest('./docs/dist/js/'))
+        .pipe(dest('dist/js/'))
         .pipe(browserSync.stream())
 }
 
-// Build a Fonts
-const fontsBuild = () => {
-    return src('app/fonts/**/*.*')
-        .pipe(dest('./docs/dist/fonts/'))
+// ========== Images ==========
+const images = () => {
+    return src('app/images/**/*.{png,jpg,jpeg,gif}')
+        .pipe(cache(imagemin([
+            imagemin.optipng({ optimizationLevel: 5 }),
+            imagemin.mozjpeg({ quality: 75, progressive: true }),
+            imagemin.gifsicle({ interlaced: true }),
+        ])))
+        .pipe(dest('dist/images/'))
         .pipe(browserSync.stream())
 }
-
-// Build a Images
-const imagesBuild = () => {
-    return src('app/images/**/*.{png,jpg,jpeg,gif,webp}')
-        .pipe(plumber())
-        .pipe(imagemin())
-        .pipe(plumber.stop())
-        .pipe(dest('./docs/dist/images/'))
-        .pipe(browserSync.stream())
-}
-
-const svgBuild = () => {
+// https://github.com/svg/svgo#built-in-plugins
+const svg = () => {
     return src('app/images/**/*.svg')
-        /*
-        .pipe(svgSprite({
-            mode: {
-                stack: {
-                    sprite: '../sprite.svg'
-                }
-            }
-        }))
-        */
-        .pipe(dest('./docs/dist/images/'))
+        .pipe(cache(imagemin([
+            imagemin.svgo({
+                plugins: [
+                    { removeViewBox: false },
+                    { cleanupIDs: true },
+                    { removeRasterImages: true },
+                    { removeDimensions: true }
+                ]
+            })
+        ])))
+        .pipe(dest('dist/images/'))
+        .pipe(browserSync.stream())
+}
+const webp = () => {
+    return src('app/images/**/*.{jpg,jpeg,png}')
+        .pipe(cache(WEBP()))
+        .pipe(dest('dist/images/'))
         .pipe(browserSync.stream())
 }
 
-// Clean a Build
-const cleanBuild = () => {
+// ========== Fonts ==========
+const fonts = () => {
+    return src('app/fonts/**/*.*')
+        .pipe(dest('dist/fonts/'))
+        .pipe(browserSync.stream())
+}
+
+// ========== Clean Build ==========
+const clean = () => {
     return del([
-        './docs/*.html',
-        './docs/dist/*',
-        './docs/dist'
+        './*.html',
+        './dist/*',
+        './dist'
     ])
 }
 
-// Watch
-const watcher = (done) => {
+// ========== Clear Cache ==========
+gulp.task('clear', () =>
+    cache.clearAll()
+)
+
+// ========== BrowserSync ==========
+const watchFiles = () => {
     browserSync.init({
-        server: { baseDir: ['./docs/'] },
+        server: { baseDir: ['dist/', './'] },
         notify: false,
         online: false,
     })
-    watch('app/pages/**/*.html', htmlBuild)
-    watch('app/scss/**/*.scss', stylesBuild)
-    watch('app/js/*.js', scriptsBuild)
-    watch('app/fonts/**/*', fontsBuild)
-    watch('app/images/**/*', imagesBuild)
-    watch('app/images/**/*.svg', svgBuild)
-    watch([
-        './docs/*.html',
-        './docs/dist/*.*',
-        './docs/dist/css/*.css',
-        './docs/dist/fonts/**/*',
-        './docs/dist/images/**/*.*',
-        './docs/dist/js/*.js',
-    ]).on('change', browserSync.reload)
-    done()
 }
 
-exports.htmlBuild   = htmlBuild
-exports.stylesBuild = stylesBuild
-exports.buildScipts = scriptsBuild
-exports.buildFonts  = fontsBuild
-exports.buildImages = imagesBuild
-exports.svgBuild    = svgBuild
-exports.cleanBuild  = cleanBuild
-exports.default = series(cleanBuild, scriptsBuild, htmlBuild, stylesBuild, fontsBuild, imagesBuild, svgBuild, watcher)
+// ========== Watch ==========
+watch('app/pages/**/*.html', html)
+watch('app/scss/**/*.scss', styles)
+watch('app/js/*.js', scripts)
+watch('app/fonts/**/*', fonts)
+watch('app/images/**/*', images)
+watch('app/images/**/*.svg', svg)
+watch('app/images/**/*.webp', webp)
+
+// ========== Exports ==========
+exports.styles = styles
+exports.scipts = scripts
+exports.html   = html
+exports.fonts  = fonts
+exports.images = images
+exports.svg    = svg
+exports.webp   = webp
+exports.clean  = clean
+
+exports.default = series(clean, parallel(html, styles, scripts, fonts, images, svg), watchFiles)
