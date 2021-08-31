@@ -1,2 +1,3 @@
 # [Sergei ★ Česnakas](/)
 
+[Contact](/contact)
