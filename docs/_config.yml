@@ -1,4 +1,8 @@
 locale: 'ru'
 title: 'Sergei ★ Česnakas'
 title_separator: '—'
+author: 'Sergei ★ Česnakas'
 description: 'Web Developer'
+name: 'Sergei ★ Česnakas'
+breadcrumbs: true
+# yandex_site_verification:
