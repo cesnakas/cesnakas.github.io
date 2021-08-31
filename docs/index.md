@@ -1,6 +1,5 @@
----
-title: 'Sergei ★ Česnakas'
----
+# [Sergei ★ Česnakas](/)
+
 [Resume](/resume)
 |
 [Work](/work)

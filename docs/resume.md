@@ -1,6 +1,5 @@
 ---
-title: 'Contact'
-description: 'Sergei Česnakas'
+title: 'Resume'
 ---
 
 [Resume](/resume)

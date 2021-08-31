@@ -3,6 +3,10 @@ title: 'Work'
 description: 'My work — Sergei Česnakas'
 ---
 
-[Contact](/contact)
+[Resume](/resume)
 |
 [Work](/work)
+|
+[Notes](/notes)
+|
+[Contact](/contact)
