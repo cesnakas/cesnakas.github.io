@@ -1,9 +1,11 @@
-# [Sergei ★ Česnakas](/)
+---
+title: 'Notes'
+---
 
 [Resume](/resume)
 |
 [Work](/work)
 |
-[Notes](/notes/)
+[Notes](/notes)
 |
 [Contact](/contact)
