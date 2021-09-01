@@ -4,6 +4,7 @@ title: Проекты
 
 ## 2021
 
+- [paoloconte.ru](/work/paoloconte.ru)
 - [b2b.gauss.ru](/work/b2b.gauss.ru)
 - [eurocran.su](/work/eurocran.su)
 - [kick.game](/work/kick.game)
