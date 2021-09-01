@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Sergei ★ Česnakas
 ---
-
-# [Sergei ★ Česnakas](/)
 
 [Resume](/resume)
 |
