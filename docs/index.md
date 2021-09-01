@@ -4,9 +4,9 @@
 
 ### [Work](/work)
 
-&nbsp; | &nbsp; | &nbsp;
+![ascondicioner.ru](https://st.weblancer.net/download/4874316/) | &nbsp; | &nbsp;
 :---: | :---: | :---:
-![ascondicioner.ru](https://github.com/cesnakas/maconsulting.ru/blob/main/docs/maconsulting.ru.png) | storedent.ru | kick.game
+site | storedent.ru | kick.game
 site.ru | site.ru | site.ru 
 
 ### [Notes](/notes/)
