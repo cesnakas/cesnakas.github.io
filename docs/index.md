@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # [Sergei ★ Česnakas](/)
 
 [Resume](/resume)
