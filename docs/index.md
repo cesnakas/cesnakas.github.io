@@ -4,10 +4,8 @@
 
 ### [Work](/work)
 
-![ascondicioner.ru](https://st.weblancer.net/download/4874316/) | &nbsp; | &nbsp;
+![bitrix](https://upload.wikimedia.org/wikipedia/ru/5/51/1c_bitrix_logo.svg) | ![bitrix](https://upload.wikimedia.org/wikipedia/ru/5/51/1c_bitrix_logo.svg) | ![bitrix](https://upload.wikimedia.org/wikipedia/ru/5/51/1c_bitrix_logo.svg)
 :---: | :---: | :---:
-site | storedent.ru | kick.game
-site.ru | site.ru | site.ru 
 
 ### [Notes](/notes/)
 
