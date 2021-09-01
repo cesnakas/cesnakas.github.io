@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-	<!-- en -->
+
 	<url>
 		<loc>https://cesnakas.github.io/</loc>
 		<priority>1.00</priority>
@@ -14,18 +14,46 @@
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
-		<loc>https://cesnakas.github.io/work</loc>
-		<priority>0.90</priority>
-		<lastmod>2021-09-01</lastmod>
-		<changefreq>weekly</changefreq>
-	</url>
-	<url>
 		<loc>https://cesnakas.github.io/contact</loc>
 		<priority>0.90</priority>
 		<lastmod>2021-09-01</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
-	<!-- Work -->
+	<url>
+		<loc>https://cesnakas.github.io/work/</loc>
+		<priority>0.90</priority>
+		<lastmod>2021-09-01</lastmod>
+		<changefreq>weekly</changefreq>
+	</url>
+
+	<!-- projects -->
+	<url>
+		<loc>https://cesnakas.github.io/work/b2b.gauss.ru</loc>
+		<priority>0.90</priority>
+		<lastmod>2021-09-01</lastmod>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://cesnakas.github.io/work/eurocran.su</loc>
+		<priority>0.90</priority>
+		<lastmod>2021-09-01</lastmod>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://cesnakas.github.io/work/kick.game</loc>
+		<priority>0.90</priority>
+		<lastmod>2021-09-01</lastmod>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://cesnakas.github.io/work/rgsl.ru</loc>
+		<priority>0.90</priority>
+		<lastmod>2021-09-01</lastmod>
+		<changefreq>weekly</changefreq>
+	</url>
+	<!-- /projects -->
+
+	<!-- work -->
 	<url>
 		<loc>https://cesnakas.github.io/maconsulting.ru/</loc>
 		<priority>0.80</priority>
@@ -44,4 +72,6 @@
 		<lastmod>2021-09-01</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
+	<!-- /work -->
+
 </urlset>
