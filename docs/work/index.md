@@ -3,6 +3,7 @@ title: Проекты
 ---
 
 ## 2021
+
 - [b2b.gauss.ru](/work/b2b.gauss.ru)
 - [eurocran.su](/work/eurocran.su)
 - [kick.game](/work/kick.game)
@@ -21,7 +22,18 @@ title: Проекты
 
 ## 2020
 
+- [relaxa.ru](/work/relaxa.ru)
+- [iondom.ru](/work/iondom.ru)
+- [avionagro.ru](/work/avionagro.ru)
+- [woldom.ru](/work/woldom.ru)
+- [dentoptics.digital](/work/dentoptics.digital)
+- [malinkacapital.com](/work/malinkacapital.com)
+- [dialogdent.ru](/work/dialogdent.ru)
+
 ## 2019
+
+- [samara.dental](/work/samara.dental)
+- [storedent.ru](/work/storedent.ru)
 
 ## 2018
 
