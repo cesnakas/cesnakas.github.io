@@ -6,3 +6,5 @@ description: 'Web Developer'
 name: 'Sergei ★ Česnakas'
 breadcrumbs: 'true'
 yandex_site_verification: '70155283'
+
+theme: jekyll-theme-minimal
