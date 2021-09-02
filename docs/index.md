@@ -1,4 +1,6 @@
-# [Sergei ☆ Česnakas](/)
+---
+title: Sergei ☆ Česnakas
+---
 
 ### [Resume](/resume)
 
