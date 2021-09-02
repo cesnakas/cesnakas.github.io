@@ -2,7 +2,9 @@
 title: Sergei ☆ Česnakas
 ---
 
-### [Sergei ☆ Česnakas](/)
+[Sergei ☆ Česnakas](/)
+
+---
 
 ### [Resume](/resume)
 
