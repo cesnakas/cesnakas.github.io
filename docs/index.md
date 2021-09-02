@@ -1,12 +1,6 @@
 ---
 title: Sergei ☆ Česnakas
 ---
-<style>
-#telegram {
-    display: flex;
-    justify-content: space-between;
-}
-</style>
 
 # [Sergei ☆ Česnakas](/) [@cesnakas](https://t.me/cesnkas) {#telegram}
 

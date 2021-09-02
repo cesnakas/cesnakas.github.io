@@ -1,7 +1,15 @@
+# Base
 lang: 'ru'
-locale: 'ru'
 title: 'Sergei ☆ Česnakas'
-author: 'Sergei ☆ Česnakas'
 description: 'Web Developer'
+# OG
+locale: 'ru'
+author: 'Sergei ☆ Česnakas'
 name: 'Sergei ☆ Česnakas'
+# CSS
+css:
+  - "/assets/css/main.css"
+# RSS
+rss: true
+# Analytics
 google_analytics: G-FCN777R7BQ
