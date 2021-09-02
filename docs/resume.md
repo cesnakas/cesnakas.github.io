@@ -21,7 +21,7 @@ title: 'Resume'
 
 > ###### Частная практика / Фриланс
 > 
-> Россия, [www.cesnakas.com](www.cesnakas.com)
+> Россия, [cesnakas.com](https://www.cesnakas.com)
 > 
 > Август 2012 — май 2014
 > 
