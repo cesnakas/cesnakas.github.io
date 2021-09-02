@@ -6,7 +6,4 @@ description: 'Web Developer'
 name: 'Sergei ★ Česnakas'
 google_analytics: G-FCN777R7BQ
 yandex_site_verification: '70155283'
-
-gtag: '<script async src="https://www.googletagmanager.com/gtag/js?id=G-FCN777R7BQ"></script>'
-
-include: ["/_includes/google-analytics.html"]
+google_analytics_id: UA-50755011-1
