@@ -1,5 +1,6 @@
 ---
 title: 'Resume'
+subtitle: 'Опыт работы'
 ---
 
 ###### Fullstack Web Developer

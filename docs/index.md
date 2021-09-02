@@ -2,7 +2,7 @@
 title: Sergei ☆ Česnakas
 ---
 
-# [Sergei ☆ Česnakas](/) {#brand} [@cesnakas](https://t.me/cesnkas) {#telegram}
+# [Sergei ☆ Česnakas](/)
 
 ### [Resume](/resume)
 
