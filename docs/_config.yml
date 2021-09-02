@@ -8,10 +8,6 @@ locale: 'ru'
 author: 'Sergei ☆ Česnakas'
 name: 'Sergei ☆ Česnakas'
 
-# CSS
-css:
-  - "/assets/css/styles.css"
-
 # RSS
 rss: true
 
