@@ -5,6 +5,8 @@ description: Kick Game
 
 [← back](/work/)
 
-### KICK GAME
+<br>
+
+## KICK GAME
 
 ![kick.game](/images/kick.game.png)
