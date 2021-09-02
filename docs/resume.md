@@ -8,7 +8,7 @@ title: 'Resume'
 
 > ###### Optimal Group
 > 
-> Москва, optimalgroup.ru
+> Москва, <!-- optimalgroup.ru -->
 > 
 > Май 2015 — январь 2016
 > 
@@ -34,9 +34,7 @@ title: 'Resume'
 
 > ###### Частная практика / Фриланс
 > 
-> Россия, cesnakas.com
-> 
-> Август 2012 — май 2014
+> Россия, август 2012 — май 2014
 > 
 > Frontend-разработчик / Backend-разработчик / Fullstack-разработчик
 >
