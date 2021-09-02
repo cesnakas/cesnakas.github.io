@@ -1,12 +1,4 @@
 ---
-title: 'Contact'
-description: 'Sergei Česnakas'
+title: 'Контакты'
+description: 'Контакты — Sergei Česnakas'
 ---
-
-[Resume](/resume)
-|
-[Work](/work)
-|
-[Notes](/notes)
-|
-[Contact](/contact)
