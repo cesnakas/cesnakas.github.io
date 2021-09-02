@@ -2,6 +2,8 @@
 title: Sergei ☆ Česnakas
 ---
 
+# [Sergei ☆ Česnakas](/)
+
 ### [Resume](/resume)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. At autem consequatur quae unde veniam voluptas! Ab accusantium aliquam aperiam at consectetur, cumque dolore fugiat, illum ipsa nam nesciunt, porro voluptatum.
