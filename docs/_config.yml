@@ -9,5 +9,4 @@ yandex_site_verification: '70155283'
 
 gtag: 'G-FCN777R7BQ'
 
-include:
-  - google-analytics.html
+include: ['/_includes/google-analytics.html']
