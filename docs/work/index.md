@@ -29,16 +29,25 @@ title: Проекты
 - [woldom.ru](/work/woldom.ru)
 - [dentoptics.digital](/work/dentoptics.digital)
 - [malinkacapital.com](/work/malinkacapital.com)
-- [dialogdent.ru](/work/dialogdent.ru)
 
 ## 2019
 
+- [dialogdent.ru](/work/dialogdent.ru)
 - [samara.dental](/work/samara.dental)
 - [storedent.ru](/work/storedent.ru)
+- [ascondicioner.ru](/work/ascondicioner.ru)
 
 ## 2018
 
+- [lk.energo-vympel.ru](/work/lk.energo-vympel.ru)
+- [samara-soft.ru](/work/samara-soft.ru)
+- [tp.info-pro.ru](/work/tp.info-pro.ru)
+- [info-pro.ru](/work/info-pro.ru)
+
 ## 2017
+
+- [one-fit.ru](/work/one-fit.ru)
+- [samkarniz.ru](/work/samkarniz.ru)
 
 ## 2016
 
