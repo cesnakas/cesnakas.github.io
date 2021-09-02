@@ -4,9 +4,7 @@ title: 'Resume'
 
 ###### Fullstack Web Developer
 
-## Опыт работы
-
-<br>
+### Опыт работы
 
 > ###### Золотой Код
 > Самара, zolotoykod.ru
@@ -23,11 +21,11 @@ title: 'Resume'
 
 > ###### Частная практика / Фриланс
 > 
-> Россия, www.cesnakas.com
+> Россия, [www.cesnakas.com](www.cesnakas.com)
 > 
 > Август 2012 — май 2014
 > 
-> Веб-разработчик / Frontend-разработчик / Backend-разработчик / Fullstack-разработчик
+> Frontend-разработчик / Backend-разработчик / Fullstack-разработчик
 >
 > Верстка по PSD-макетам под различные системы управления (Joomla!, WordPress, MODX, OpenCart) с применением технологий — HTML, CSS, JavaScript, jQuery. Работа с Legacy-кодом. Оптимизация кода под поисковые системы и веб-браузеры. Разработал и внедрил более 100 страниц для заказчиков.\
 > Разработка веб-сайтов на системах управления — Joomla!, WordPress, MODX, OpenCart. Программирование на JavaScript и PHP. Разработал интернет-магазин на CMS OpenCart с выгрузкой товаров из XML-таблиц.\
