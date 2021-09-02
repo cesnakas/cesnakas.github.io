@@ -2,14 +2,18 @@
 lang: 'ru'
 title: 'Sergei ☆ Česnakas'
 description: 'Web Developer'
+
 # OG
 locale: 'ru'
 author: 'Sergei ☆ Česnakas'
 name: 'Sergei ☆ Česnakas'
+
 # CSS
-site-css:
-  - "/assets/css/main.css"
+css:
+  - "/assets/css/styles.css"
+
 # RSS
 rss: true
+
 # Analytics
 google_analytics: G-FCN777R7BQ
