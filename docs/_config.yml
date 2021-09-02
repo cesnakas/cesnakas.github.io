@@ -7,7 +7,7 @@ locale: 'ru'
 author: 'Sergei ☆ Česnakas'
 name: 'Sergei ☆ Česnakas'
 # CSS
-css:
+site-css:
   - "/assets/css/main.css"
 # RSS
 rss: true
