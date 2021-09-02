@@ -1,6 +1,7 @@
 ---
 title: Sergei ☆ Česnakas
 ---
+@import "/assets/css/styles.css";
 
 # [Sergei ☆ Česnakas](/) [@cesnakas](https://t.me/cesnkas) {#telegram}
 
