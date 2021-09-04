@@ -108,7 +108,7 @@ description: 'Опыт работы — Sergei Česnakas'
 <br>
 
 > #### Золотой Код, ООО
-> <small>zolotoykod.ru</small>\
+> <sup>zolotoykod.ru</sup>\
 > <small>Самара, май 2014 — май 2015 <!--(1 год 1 месяц)--></small>
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
