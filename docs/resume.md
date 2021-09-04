@@ -15,7 +15,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > – <small>Разработка и поддержка веб-сайтов на системе управления Битрикс. Доработка функционала на проектах.</small>
 > 
-> `HTML` `CSS` `JavaScript` `Sass` `Vue.js` `Битрикс` `PHP` `MySQL` `Битрикс24` `GitLab` `Figma`
+> `Битрикс` `PHP` `JavaScript` `Figma` `Sass` `Vue.js` `MySQL` `GitLab`
 
 <br>
 
