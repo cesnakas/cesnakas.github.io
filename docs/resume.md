@@ -23,6 +23,10 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
+> Описание\
+> Front end\
+> Back end\
+> Вывод\
 > Стек технологий: 
 
 <br>
