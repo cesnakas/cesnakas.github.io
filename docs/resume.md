@@ -8,7 +8,7 @@ description: 'Опыт работы — Sergei Česnakas'
 <br>
 
 > #### ЦИТ Факт, ООО
-> <!--<small>fact.digital</small>-->
+> <!--fact.digital-->
 > <small>СПб, август 2021 — по настоящие время</small>
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
@@ -18,6 +18,7 @@ description: 'Опыт работы — Sergei Česnakas'
 <br>
 
 > #### KICKGAME / проектная работа
+> <!--kick.game-->
 > <small>Кипр, март 2021 — по настоящее время</small>
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
@@ -32,6 +33,7 @@ description: 'Опыт работы — Sergei Česnakas'
 <br>
 
 > #### DEFA
+> <!--defa.ru-->
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
