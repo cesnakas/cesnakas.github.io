@@ -75,12 +75,13 @@ description: 'Опыт работы — Sergei Česnakas'
 <br>
 
 > #### ИнфоПро
+> <!--info-pro.ru-->
 > <small>Самара, сентябрь 2017 — май 2018</small>
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
 > – <small>Разработка веб-сайтов на системе управления 1С-Битрикс и Битрикс24; Верстка по PSD-макетам; Разработка компонентов и модулей Битрикс; Работа с Git.</small>\
-> `HTML` `CSS` `Sass` `JavaScript` `jQuery` `PHP` `MySQL` `Bootstrap` `Git` `Битрикс` `Битрикс24`
+> `HTML` `CSS` `Sass` `JavaScript` `jQuery` `PHP` `MySQL` `Bootstrap` `Git` `Битрикс` `Битрикс24` `VSCode` `SharePoint` `Material Design`
 
 <br>
 
@@ -102,9 +103,10 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > **Frontend-разработчик** / **Битрикс разработчик**
 > 
+> – <small>Верстка веб-страниц по PSD-макетам</small>
 > – <small>Разработка сайтов на системе управления 1С-Битрикс; Верстка по PSD-макетам; Интеграция верстки в систему управления Битрикс.</small>
 > 
-> `HTML` `CSS` `JavaScript` `PHP` `Битрикс` `Битрикс24`
+> `HTML` `CSS` `JavaScript` `jQuery` `LESS` `PHP` `Битрикс` `Битрикс24` `Bitbucket` `Photoshop` `PHPStorm`
 
 <br>
 
@@ -131,7 +133,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > – <small>Разработка веб-сайтов на системе управления Битрикс и Битрикс24 с применением технологий — PHP, JavaScript, AJAX, MySQL. Настройка системы управления Битрикс под требования заказчиков. Интеграция верстки в систему управления Битрикс. Разработал более 10 компонентов. Разработан модуль выгрузки и обмен данными R-Keeper и Битрикс24.</small>\
 > – <small>Научил команду работать с мокапами. Выстроил цикл разработки проектов. Сдал несколько тестов Битрикс.</small>
 >
-> `HTML` `CSS` `JavaScript` `jQuery` `FacyBox` `1С-Битрикс` `Битрикс24` `PHP` `MySQL` `Photoshop` `Inkscape` `SVG` `WordPress` `MODX` `REST` `API` `BitrixVM`
+> `HTML` `CSS` `JavaScript` `jQuery` `FacyBox` `1С-Битрикс` `Битрикс24` `PHP` `MySQL` `Photoshop` `Inkscape` `SVG` `WordPress` `MODX` `BitrixVM` `REST` `API`
 
 <br>
 
