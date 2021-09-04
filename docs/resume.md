@@ -37,7 +37,9 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> – <small>Стек технологий:</small> 
+> – <small>Стек технологий:</small>
+> 
+> `HTML` `CSS` `JavaScript` `Vue` `PHP` `MySQL` `Битрикс` `Битрикс24` `Redmine` `Jira`
 
 <br>
 
@@ -82,7 +84,7 @@ description: 'Опыт работы — Sergei Česnakas'
 
 <br>
 
-> #### Автоматические карнизы `Проектная работа`
+> #### Автоматические карнизы / Проектная работа
 > <!--samkarniz.ru-->
 > <small>Самара, январь 2017 — сентябрь 2017</small>
 > 
