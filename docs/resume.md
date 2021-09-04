@@ -13,7 +13,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> Стек технологий: **HTML, CSS, JavaScript, Sass, Vue.js, Битрикс, PHP, MySQL, Битрикс24, GitLab**
+> `HTML` `CSS` `JavaScript` `Sass` `Vue.js` `Битрикс` `PHP` `MySQL` `Битрикс24` `GitLab`
 
 <br>
 
@@ -25,8 +25,9 @@ description: 'Опыт работы — Sergei Česnakas'
 > – Описание\
 > – Front end\
 > – Back end\
-> – Вывод\
-> `HTML` `CSS` `JavaScript` `Sass` `Gulp` `Node.js` `Bootstrap` `Битрикс` `PHP` `MySQL` `Jira` `Figma` `GitLab`  
+> – Вывод
+> 
+> `HTML` `CSS` `JavaScript` `Sass` `Gulp` `NPM` `Node.js` `Bootstrap` `Битрикс` `PHP` `MySQL` `Jira` `Figma` `GitLab`  
 
 <br>
 
@@ -42,7 +43,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> Стек технологий: 
+> `HTML` `CSS` `JavaScrip` `PHP` `MySQL` `Битрикс` `Битрикс24`
 
 <br>
 
@@ -52,6 +53,8 @@ description: 'Опыт работы — Sergei Česnakas'
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
 > Проектирование и разработка веб-страниц интернет-магазина; Верстка, редактирование, модернизация и оптимизация веб-страниц; Настройка и поддержка CMS Битрикс и CRM Битрикс24.
+> 
+> `HTML` `CSS` `JavaScript` `PHP` `MySQL` `Битрикс`
 
 <br>
 
