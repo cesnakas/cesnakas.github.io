@@ -8,11 +8,12 @@ description: 'Опыт работы — Sergei Česnakas'
 <br>
 
 > #### ЦИТ Факт, ООО
-> СПб, август 2021 — по настоящие время
+> <small>fact.digital</small>\
+> СПб, <small>август 2021 — по настоящие время</small>
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> Стек технологий: **HTML, CSS, JavaScript, Битрикс24**
+> Стек технологий: **HTML, CSS, JavaScript, Битрикс, PHP, MySQL, Битрикс24, GitLab**
 
 <br>
 
