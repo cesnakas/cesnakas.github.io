@@ -9,11 +9,13 @@ description: 'Опыт работы — Sergei Česnakas'
 
 > #### ЦИТ Факт, ООО
 > <!--fact.digital-->
-> <small>СПб, август 2021 — по настоящие время</small>
+> <small>Санкт-Петербург, август 2021 — по настоящие время</small>
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> `HTML` `CSS` `JavaScript` `Sass` `Vue.js` `Битрикс` `PHP` `MySQL` `Битрикс24` `GitLab`
+> – <small>Разработка и поддержка веб-сайтов на системе управления Битрикс</small>
+> 
+> `HTML` `CSS` `JavaScript` `Sass` `Vue.js` `Битрикс` `PHP` `MySQL` `Битрикс24` `GitLab` `Figma`
 
 <br>
 
@@ -23,12 +25,12 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> – Описание\
-> – Front end\
-> – Back end\
-> – Вывод
+> – <small>Описание</small>\
+> – <small>Front end</small>\
+> – <small>Back end</small>\
+> – <small>Вывод</small>
 > 
-> `HTML` `CSS` `JavaScript` `Sass` `Gulp` `NPM` `Node.js` `Bootstrap` `Битрикс` `PHP` `MySQL` `Jira` `Figma` `GitLab`  
+> `HTML` `CSS` `JavaScript` `Sass` `Gulp` `NPM` `Node.js` `Bootstrap` `Битрикс` `PHP` `MySQL` `Jira` `Figma` `GitLab` `Figma`
 
 <br>
 
@@ -39,7 +41,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > – <small>Стек технологий:</small>
 > 
-> `HTML` `CSS` `JavaScript` `Vue` `PHP` `MySQL` `Битрикс` `Битрикс24` `Redmine` `Jira`
+> `HTML` `CSS` `JavaScript` `Vue` `PHP` `MySQL` `Битрикс` `Битрикс24` `Redmine` `Jira` `Figma`
 
 <br>
 
@@ -49,7 +51,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> `HTML` `CSS` `JavaScrip` `PHP` `MySQL` `Битрикс` `Битрикс24`
+> `HTML` `CSS` `JavaScrip` `PHP` `MySQL` `Битрикс` `Битрикс24` `Figma`
 
 <br>
 
@@ -72,22 +74,22 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > – <small>Разработка</small>
 > 
-> `HTML` `CSS` `JavaScript` `PHP`
+> `HTML` `CSS` `JavaScript` `PHP` `Figma`
 
 <br>
 
-> #### ИнфоПро
+> #### ГК ИнфоПро, ООО
 > <!--info-pro.ru-->
 > <small>Самара, сентябрь 2017 — май 2018</small>
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
 > – <small>Разработка веб-сайтов на системе управления 1С-Битрикс и Битрикс24; Верстка по PSD-макетам; Разработка компонентов и модулей Битрикс; Работа с Git.</small>\
-> `HTML` `CSS` `Sass` `JavaScript` `jQuery` `PHP` `MySQL` `Bootstrap` `Git` `Битрикс` `Битрикс24` `VSCode` `SharePoint`
+> `HTML` `CSS` `Sass` `JavaScript` `jQuery` `PHP` `MySQL` `Bootstrap` `Git` `Битрикс` `Битрикс24` `VSCode` `SharePoint` `Photoshop`
 
 <br>
 
-> #### Автоматические карнизы / Проектная работа
+> #### Проектная работа
 > <!--samkarniz.ru-->
 > <small>Самара, январь 2017 — сентябрь 2017</small>
 > 
@@ -95,11 +97,11 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > – <small>Разработка сайта на системе управления 1С-Битрикс; Верстка по PSD-макетам; Интеграция в систему управления Битрикс; Разработка компонентов и модулей Битрикс; Работа с хостингом.</small>
 > 
-> `HTML` `CSS` `JavaScript` `jQuery` `PHP` `MySQL` `Битрикс` `Bootstrap` `Swiper`
+> `HTML` `CSS` `JavaScript` `jQuery` `PHP` `MySQL` `Битрикс` `Bootstrap` `Swiper` `Photoshop`
 
 <br>
 
-> #### Редсофт
+> #### Редсофт, ООО
 > <!--redsoft.ru-->
 > <small>Москва, февраль 2016 — январь 2017</small>
 > 
@@ -135,7 +137,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > – <small>Разработка веб-сайтов на системе управления Битрикс и Битрикс24 с применением технологий — PHP, JavaScript, AJAX, MySQL. Настройка системы управления Битрикс под требования заказчиков. Интеграция верстки в систему управления Битрикс. Разработал более 10 компонентов. Разработан модуль выгрузки и обмен данными R-Keeper и Битрикс24.</small>\
 > – <small>Научил команду работать с мокапами. Выстроил цикл разработки проектов. Сдал несколько тестов Битрикс.</small>
 >
-> `HTML` `CSS` `JavaScript` `jQuery` `FacyBox` `1С-Битрикс` `Битрикс24` `PHP` `MySQL` `Photoshop` `Inkscape` `SVG` `WordPress` `MODX` `BitrixVM` `REST` `API`
+> `HTML` `CSS` `JavaScript` `jQuery` `FacyBox` `Битрикс` `Битрикс24` `PHP` `MySQL` `Photoshop` `Inkscape` `SVG` `WordPress` `MODX` `BitrixVM` `REST` `API`
 
 <br>
 
