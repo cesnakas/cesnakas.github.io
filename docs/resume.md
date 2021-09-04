@@ -8,12 +8,12 @@ description: 'Опыт работы — Sergei Česnakas'
 <br>
 
 > #### ЦИТ Факт, ООО
-> <small>август 2021 — по настоящие время</small>\
-> СПб, <small>fact.digital</small>
+> <!--<small>fact.digital</small>-->
+> СПб, <small>август 2021 — по настоящие время</small>
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> Стек технологий: **HTML, CSS, JavaScript, Битрикс, PHP, MySQL, Битрикс24, GitLab**
+> Стек технологий: **HTML, CSS, JavaScript, Sass, Vue.js, Битрикс, PHP, MySQL, Битрикс24, GitLab**
 
 <br>
 
@@ -26,7 +26,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > – Front end\
 > – Back end\
 > – Вывод\
-> – Стек технологий: **HTML, CSS, JavaScript, Gulp, Битрикс, PHP, MySQL, Jira, Figma, GitLab**  
+> – Стек технологий: **HTML, CSS, JavaScript, SASS, Gulp, Node.js, Bootstrap, Битрикс, PHP, MySQL, Jira, Figma, GitLab**  
 
 <br>
 
@@ -93,7 +93,7 @@ description: 'Опыт работы — Sergei Česnakas'
 <br>
 
 > #### Optimal Group
-> Москва, май 2015 — январь 2016 <small>(май 2015 — январь 2016)</small>
+> Москва, май 2015 — январь 2016 <!--()-->
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
@@ -103,7 +103,7 @@ description: 'Опыт работы — Sergei Česnakas'
 <br>
 
 > #### Золотой Код, ООО
-> Самара, май 2014 — май 2015 <small>(1 год 1 месяц)</small>
+> Самара, май 2014 — май 2015 <!--(1 год 1 месяц)-->
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 >
@@ -115,7 +115,7 @@ description: 'Опыт работы — Sergei Česnakas'
 <br>
 
 > #### Проектная работа / Стартапы / Фриланс
-> Россия, август 2012 — май 2014 <small>(2 года 2 месяца)</small>
+> Россия, август 2012 — май 2014 <!--(2 года 2 месяца)-->
 > 
 > **Frontend-разработчик** / **Backend-разработчик** / **Fullstack-разработчик**
 >
