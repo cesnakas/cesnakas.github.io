@@ -26,7 +26,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > – Front end\
 > – Back end\
 > – Вывод\
-> – Стек технологий: **HTML, CSS, JavaScript, SASS, Gulp, Node.js, Bootstrap, Битрикс, PHP, MySQL, Jira, Figma, GitLab**  
+> `HTML` `CSS` `JavaScript` `Sass` `Gulp` `Node.js` `Bootstrap` `Битрикс` `PHP` `MySQL` `Jira` `Figma` `GitLab`  
 
 <br>
 
@@ -70,7 +70,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
 > Разработка веб-сайтов на системе управления 1С-Битрикс и Битрикс24; Верстка по PSD-макетам; Разработка компонентов и модулей Битрикс; Работа с Git.\
-> Стек технологий: HTML, CSS, SASS, JavaScript, jQuery, PHP, MySQL, Bootstrap, Git, Битрикс, Битрикс24 (Коробка).
+> `HTML` `CSS` `Sass` `JavaScript` `jQuery` `PHP` `MySQL` `Bootstrap` `Git` `Битрикс` `Битрикс24`
 
 <br>
 
@@ -97,13 +97,15 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> Верстка по PSD-макетам под систему управления Битрикс. Используемые технологии — HTML5, CSS3, JavaScript, jQuery, LESS. Работа с Legacy-кодом.\
-> Разработка сайтов на системе управления 1С-Битрикс. Интеграция верстки в систему управления, настройка компонентов. Работа с хостингом, настройка Apache и Nginx.
+> – Верстка по PSD-макетам под систему управления Битрикс. Используемые технологии — HTML5, CSS3, JavaScript, jQuery, LESS. Работа с Legacy-кодом.\
+> – Разработка сайтов на системе управления 1С-Битрикс. Интеграция верстки в систему управления, настройка компонентов. Работа с хостингом, настройка Apache и Nginx.
+> 
+> `HTML` `CSS` `JavaScript` `PHP` `MySQL` `Битрикс` `Битрикс24`
 
 <br>
 
 > #### Золотой Код, ООО
-> <!--<small>zolotoykod.ru</small>-->
+> <small>zolotoykod.ru</small>\
 > <small>Самара, май 2014 — май 2015 <!--(1 год 1 месяц)--></small>
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
