@@ -13,7 +13,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> – <small>Разработка и поддержка веб-сайтов на системе управления Битрикс</small>
+> – <small>Разработка и поддержка веб-сайтов на системе управления Битрикс. Доработка функционала на проектах.</small>
 > 
 > `HTML` `CSS` `JavaScript` `Sass` `Vue.js` `Битрикс` `PHP` `MySQL` `Битрикс24` `GitLab` `Figma`
 
@@ -40,7 +40,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > – <small>Стек технологий:</small>
 > 
-> `HTML` `CSS` `JavaScript` `Vue` `PHP` `MySQL` `Битрикс` `Битрикс24` `Redmine` `Jira` `Figma`
+> `HTML` `CSS` `JavaScript` `Vue` `PHP` `MySQL` `Битрикс` `Redmine` `Jira` `Figma`
 
 <br>
 
@@ -50,7 +50,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> `HTML` `CSS` `JavaScrip` `PHP` `MySQL` `Битрикс` `Битрикс24` `Figma`
+> `HTML` `CSS` `JavaScrip` `PHP` `MySQL` `Битрикс` `Figma`
 
 <br>
 
@@ -71,8 +71,6 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> – <small>Разработка</small>
-> 
 > `HTML` `CSS` `JavaScript` `PHP` `Figma`
 
 <br>
@@ -84,7 +82,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
 > – <small>Разработка веб-сайтов на системе управления 1С-Битрикс и Битрикс24; Верстка по PSD-макетам; Разработка компонентов и модулей Битрикс; Работа с Git.</small>\
-> `HTML` `CSS` `Sass` `JavaScript` `jQuery` `PHP` `MySQL` `Bootstrap` `Git` `Битрикс` `Битрикс24` `VSCode` `SharePoint` `Photoshop`
+> `HTML` `CSS` `Sass` `JavaScript` `jQuery` `PHP` `MySQL` `Bootstrap` `Git` `Битрикс` `VSCode` `SharePoint` `Photoshop`
 
 <br>
 
@@ -109,7 +107,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > – <small>Верстка веб-страниц по PSD-макетам</small>
 > – <small>Разработка сайтов на системе управления 1С-Битрикс; Верстка по PSD-макетам; Интеграция верстки в систему управления Битрикс.</small>
 > 
-> `HTML` `CSS` `JavaScript` `jQuery` `LESS` `PHP` `Битрикс` `Битрикс24` `Bitbucket` `Photoshop` `PHPStorm`
+> `HTML` `CSS` `JavaScript` `jQuery` `LESS` `PHP` `Битрикс` `Bitbucket` `Photoshop` `PHPStorm`
 
 <br>
 
@@ -119,8 +117,8 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> – <small>Верстка по PSD-макетам под систему управления Битрикс. Используемые технологии — HTML5, CSS3, JavaScript, jQuery, LESS. Работа с Legacy-кодом.</small>\
-> – <small>Разработка сайтов на системе управления 1С-Битрикс. Интеграция верстки в систему управления, настройка компонентов. Работа с хостингом, настройка Apache и Nginx.</small>
+> – <small>Верстка по PSD-макетам под систему управления Битрикс. Работа с Legacy-кодом. Доработка, оптимизация и устранение ошибок. Используемые технологии — HTML5, CSS3, JavaScript, jQuery, LESS.</small>\
+> – <small>Разработка сайтов на системе управления 1С-Битрикс. Интеграция верстки в систему управления, настройка компонентов. Работа с хостингом, настройка Apache и Nginx, оптимизация под требования системы управления.</small>
 > 
 > `HTML` `CSS` `JavaScript` `jQuery` `LESS` `PHP` `MySQL` `Битрикс` `Битрикс24` `Photoshop` `Apache` `Nginx`
 
