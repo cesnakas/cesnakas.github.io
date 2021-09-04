@@ -25,10 +25,9 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> – <small>Описание</small>\
-> – <small>Front end</small>\
-> – <small>Back end</small>\
-> – <small>Вывод</small>
+> – <small>Киберспортивная платформа с рейтингами и турнирами.</small>\
+> – <small>Верстка веб-страниц по макетам.</small>\
+> – <small>Разработка английской версии сайта, настройка многосайтовости и мультиязычности. Командная разработка функционала платформы.</small>
 > 
 > `HTML` `CSS` `JavaScript` `Sass` `Gulp` `NPM` `Node.js` `Bootstrap` `Битрикс` `PHP` `MySQL` `Jira` `Figma` `GitLab` `Figma`
 
@@ -137,7 +136,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > – <small>Разработка веб-сайтов на системе управления Битрикс и Битрикс24 с применением технологий — PHP, JavaScript, AJAX, MySQL. Настройка системы управления Битрикс под требования заказчиков. Интеграция верстки в систему управления Битрикс. Разработал более 10 компонентов. Разработан модуль выгрузки и обмен данными R-Keeper и Битрикс24.</small>\
 > – <small>Научил команду работать с мокапами. Выстроил цикл разработки проектов. Сдал несколько тестов Битрикс.</small>
 >
-> `HTML` `CSS` `JavaScript` `jQuery` `FacyBox` `Битрикс` `Битрикс24` `PHP` `MySQL` `Photoshop` `Inkscape` `SVG` `WordPress` `MODX` `BitrixVM` `REST` `API`
+> `HTML` `CSS` `JavaScript` `jQuery` `FacyBox` `Битрикс` `Битрикс24` `PHP` `MySQL` `AJAX` `Photoshop` `Inkscape` `SVG` `WordPress` `MODX` `BitrixVM` `REST` `API`
 
 <br>
 
