@@ -8,8 +8,8 @@ description: 'Опыт работы — Sergei Česnakas'
 <br>
 
 > #### ЦИТ Факт, ООО
-> <small>fact.digital</small>\
-> СПб, <small>август 2021 — по настоящие время</small>
+> <small>август 2021 — по настоящие время</small>\
+> СПб, <small>fact.digital</small>
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
