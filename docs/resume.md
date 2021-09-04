@@ -44,6 +44,8 @@ description: 'Опыт работы — Sergei Česnakas'
 <br>
 
 > #### AcroWeb
+> <!--acroweb.ru-->
+> <small>Москва, апрель 2021 — май 2021</small>
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
@@ -81,7 +83,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
 > – <small>Разработка веб-сайтов на системе управления 1С-Битрикс и Битрикс24; Верстка по PSD-макетам; Разработка компонентов и модулей Битрикс; Работа с Git.</small>\
-> `HTML` `CSS` `Sass` `JavaScript` `jQuery` `PHP` `MySQL` `Bootstrap` `Git` `Битрикс` `Битрикс24` `VSCode` `SharePoint` `Material Design`
+> `HTML` `CSS` `Sass` `JavaScript` `jQuery` `PHP` `MySQL` `Bootstrap` `Git` `Битрикс` `Битрикс24` `VSCode` `SharePoint`
 
 <br>
 
