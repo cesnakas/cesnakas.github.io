@@ -35,10 +35,9 @@ description: 'Опыт работы — Sergei Česnakas'
 
 > #### DEFA
 > <!--defa.ru-->
+> <small>Москва, май 2021 — июнь 2021</small>
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
-> 
-> – <small>Стек технологий:</small>
 > 
 > `HTML` `CSS` `JavaScript` `Vue` `PHP` `MySQL` `Битрикс` `Redmine` `Jira` `Figma`
 
@@ -81,7 +80,8 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > **Fullstack-разработчик** / **Битрикс разработчик**
 > 
-> – <small>Разработка веб-сайтов на системе управления 1С-Битрикс и Битрикс24; Верстка по PSD-макетам; Разработка компонентов и модулей Битрикс; Работа с Git.</small>\
+> – <small>Разработка веб-сайтов на системе управления 1С-Битрикс и Битрикс24; Верстка по PSD-макетам; Разработка компонентов и модулей Битрикс; Работа с Git.</small>
+> 
 > `HTML` `CSS` `Sass` `JavaScript` `jQuery` `PHP` `MySQL` `Bootstrap` `Git` `Битрикс` `VSCode` `SharePoint` `Photoshop`
 
 <br>
