@@ -29,7 +29,7 @@ description: 'Опыт работы — Sergei Česnakas'
 > – <small>Верстка веб-страниц по макетам.</small>\
 > – <small>Разработка английской версии сайта, настройка многосайтовости и мультиязычности. Командная разработка функционала платформы.</small>
 > 
-> `HTML` `CSS` `JavaScript` `Sass` `Gulp` `NPM` `Node.js` `Bootstrap` `Битрикс` `PHP` `MySQL` `Jira` `Figma` `GitLab` `Figma`
+> `HTML` `CSS` `JavaScript` `Sass` `Gulp` `NPM` `Node.js` `Bootstrap` `Битрикс` `PHP` `MySQL` `Jira` `Figma` `GitLab`
 
 <br>
 
