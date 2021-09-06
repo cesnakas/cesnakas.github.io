@@ -61,6 +61,8 @@ description: 'Опыт работы — Sergei Česnakas'
 > 
 > `Битрикс` `PHP` `JavaScript` `MySQL`
 
+<br>
+
 > #### СТОРДЕНТ, ООО
 > <small>Самара, ноябрь 2019 — март 2021 <!--(1 год 5 месяцев)--></small>
 > 
