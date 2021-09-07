@@ -4,6 +4,13 @@ title: CV
 
 ### Full-stack Web Developer
 
+<table cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+</table>
+
 <br>
 
 > #### Частная практика / Проектная работа / Фриланс
