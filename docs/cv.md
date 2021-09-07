@@ -4,12 +4,13 @@ title: CV
 
 ### Full-stack Web Developer
 
-<table cellpadding="0" cellspacing="0" border="0">
-    <tr>
-        <td>1</td>
-        <td>2</td>
-    </tr>
-</table>
+<div style="display: flex">
+    <div>
+        <h4>Title</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid aperiam beatae nesciunt perferendis recusandae. Accusantium, animi cumque dolorem est hic, ipsam iste mollitia officiis provident quae quas quasi, similique vitae.</p>
+    </div>
+    <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum doloremque eveniet exercitationem facere illo nam nisi quas voluptatum! Amet beatae consequuntur iusto labore laboriosam minus nesciunt qui quos reprehenderit tenetur?</div>
+</div>
 
 <br>
 
