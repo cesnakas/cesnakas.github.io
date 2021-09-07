@@ -2,11 +2,10 @@
 title: CV
 ---
 
-### Experience
+### [Experience](/resume)
 
 > <small>Август 2021 — по настоящие время</small>
-> #### ЦИТ Факт, ООО
-> <!-- fact.digital -->
+> #### ЦИТ Факт, ООО <!-- fact.digital -->
 > 
 > **Full-stack Битрикс разработчик**
 > 
@@ -15,8 +14,7 @@ title: CV
 <br>
 
 > <small>Март 2021 — август 2021</small>
-> #### KICKGAME
-> <!-- kick.game -->
+> #### KICKGAME <!-- kick.game -->
 > 
 > **Full-stack Битрикс разработчик**
 > 
@@ -25,8 +23,7 @@ title: CV
 <br>
 
 > <small>Май 2021 — июнь 2021</small>
-> #### DEFA
-> <!-- defa.ru -->
+> #### DEFA <!-- defa.ru -->
 >
 > **Full-stack Битрикс разработчик**
 >
