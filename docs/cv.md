@@ -2,6 +2,24 @@
 title: CV
 ---
 
+### About
+
+###### `PHP` __________ ★★★★☆
+###### `JavaScript` ___ ★★★★☆
+###### ``
+
+<br>
+
+### [Work](/work)
+
+Август 2021 | Август 2021 | Июль 2021
+:---: | :---: | :---:
+Project 1 | Project 2 | Project 3
+**Август 2021** | **Август 2021** | **Август 2021**
+Project 1 | Project 1 | Project 1
+
+<br>
+
 ### [Experience](/resume)
 
 > <small>Август 2021 — по настоящие время</small>
