@@ -2,16 +2,22 @@
 title: CV
 ---
 
-### Full-stack Web Developer
+### Experience
 
-<br>
+> <small>Август 2021 — по настоящие время</small>
+> #### ЦИТ Факт, ООО
+> <sup>Санкт-Петербург, fact.digital</sup>
+> 
+> **Full-stack Битрикс разработчик**
+> 
+> `Битрикс` `PHP` `JavaScript` `MySQL`
 
-> <sub>Май 2014 — май 2015</sub>
-> #### [Золотой Код, ООО](/resume#проектная-работа--стартапы--фриланс)
-> <sup>**Full-stack Битрикс разработчик**</sup>
-
-> <sub>Август 2012 — май 2014</sub>
-> #### [Частная практика](/resume#проектная-работа--стартапы--фриланс)
-> <sup>**Full-stack разработчик**</sup>
+> <small>Март 2021 — август 2021</small>
+> #### KICKGAME
+> <sup>Кипр, kick.game</sup>
+> 
+> **Full-stack Битрикс разработчик**
+> 
+> `Битрикс` `PHP` `JavaScript` `MySQL` `HTML5` `Sass`
 
 <br><br><br>
