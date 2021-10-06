@@ -3,8 +3,6 @@ title: "Sergei Česnakas"
 description: "Web Developer"
 ---
 
-@import "assets/css/style.css";
-
 # [Sergei Česnakas](/)
 
 <br>
