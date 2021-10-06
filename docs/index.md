@@ -17,11 +17,11 @@ description: "Web Developer"
 
 ### [Experience](/experience)
 
-> <small>Август 2012 — май 2014</small>
+> <small>August 2012 — may 2014</small>
 > 
-> <h5>Проектная работа / Стартапы / Фриланс</h5>
->
 > **Frontend-разработчик** / **Backend-разработчик** / **Fullstack-разработчик**
+>
+> Проектная работа / Стартапы / Фриланс
 >
 > – <small>Верстка по PSD-макетам под различные системы управления (Joomla!, WordPress, MODX, OpenCart) с применением технологий — HTML, CSS, JavaScript, jQuery. Работа с Legacy-кодом. Оптимизация кода под поисковые системы и веб-браузеры. Разработал и внедрил более 100 страниц для заказчиков.</small>\
 > – <small>Разработка веб-сайтов на системах управления — Joomla!, WordPress, MODX, OpenCart. Программирование на JavaScript и PHP. Разработал интернет-магазин на CMS OpenCart с выгрузкой товаров из XML-таблиц.</small>\
