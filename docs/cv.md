@@ -2,22 +2,21 @@
 title: CV
 ---
 
-### About
+<br>
 
-###### ★★★★☆ `PHP`
-###### ★★★★☆ `JavaScript`
-###### ★★★★☆ `Sass`
-###### ★★☆☆☆ `TypeScript`
+### Web Developer
+— Web development\
+— Front-end development\
+— Back-end development
 
 <br>
 
-### [Work](/work)
+### About
 
-Август 2021 | Август 2021 | Июль 2021
-:---: | :---: | :---:
-Project 1 | Project 2 | Project 3
-**Август 2021** | **Август 2021** | **Август 2021**
-Project 1 | Project 1 | Project 1
+★★★★☆ `PHP`\
+★★★★☆ `JavaScript`\
+★★★★☆ `Sass`\
+★★☆☆☆ `TypeScript`
 
 <br>
 
