@@ -76,15 +76,15 @@ kick.game | kick.game | kick.game
 --- | --- | ---
 <img src="/images/kick.game.png"> | <img src="/images/kick.game.png"> | <img src="/images/kick.game.png">
 
-<table style="border: none;">
-    <tr>
-        <td>
+<table>
+    <tr style="border: none">
+        <td style="border: none">
             <img src="/images/kick.game.png">
         </td>
-        <td>
+        <td style="border: none">
             <img src="/images/kick.game.png">
         </td>
-        <td>
+        <td style="border: none">
             <img src="/images/kick.game.png">
         </td>
     </tr>
