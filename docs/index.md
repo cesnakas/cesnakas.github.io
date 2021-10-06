@@ -19,10 +19,21 @@ description: "Web Developer"
 
 <br>
 
-> **OptimalGroup**\
-> <small>*may 2015 — january 2016*</small>
+> **InfoPro**\
+> <small>*september 2017 — may 2018*</small>
 >
-> <small>**Fullstack-разработчик**</small>
+> <small>**Full Stack Developer**</small>
+>
+> – <small>Разработка веб-сайтов на системе управления 1С-Битрикс и Битрикс24; Верстка по PSD-макетам; Разработка компонентов и модулей Битрикс; Работа с Git.</small>
+>
+> `HTML` `CSS` `Sass` `JavaScript` `jQuery` `PHP` `MySQL` `Bootstrap` `Git` `Bitrix` `VSCode` `SharePoint` `Photoshop`
+
+<br>
+
+> **Project work / Freelance**\
+> <small>*may 2015 — september 2017*</small>
+>
+> <small>**Full Stack Developer**</small>
 >
 > – <small>Верстка по PSD-макетам под систему управления Битрикс. Работа с Legacy-кодом. Доработка, оптимизация и устранение ошибок. Используемые технологии — HTML5, CSS3, JavaScript, jQuery, LESS.</small>\
 > – <small>Разработка сайтов на системе управления 1С-Битрикс. Интеграция верстки в систему управления, настройка компонентов. Работа с хостингом, настройка Apache и Nginx, оптимизация под требования системы управления.</small>
