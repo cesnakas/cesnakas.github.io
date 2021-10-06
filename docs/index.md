@@ -1,8 +1,11 @@
 ---
-title: Sergei Česnakas
+title: "Sergei Česnakas"
+description: "Web Developer"
 ---
 
 # [Sergei Česnakas](/)
+
+<br>
 
 ### Web Developer
 
@@ -14,12 +17,9 @@ title: Sergei Česnakas
 
 ### [Experience](/experience)
 
-> <h4><small>Август 2012 — май 2014</small></h4>
-> 
-> <small><h4>Август 2012 — май 2014</h4></small>
+> <small>Август 2012 — май 2014</small>
 > 
 > <h5>Проектная работа / Стартапы / Фриланс</h5>
-> <small>Россия, август 2012 — май 2014</small>
 >
 > **Frontend-разработчик** / **Backend-разработчик** / **Fullstack-разработчик**
 >
