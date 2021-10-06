@@ -76,7 +76,7 @@ kick.game | kick.game | kick.game
 --- | --- | ---
 <img src="/images/kick.game.png"> | <img src="/images/kick.game.png"> | <img src="/images/kick.game.png">
 
-<table>
+<table border="0">
     <tr>
         <td>
             <img src="/images/kick.game.png">
