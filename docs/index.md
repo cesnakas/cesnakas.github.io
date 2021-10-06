@@ -17,6 +17,20 @@ description: "Web Developer"
 
 ### [Experience](/experience)
 
+> <small>May 2014 — may 2015</small>
+> 
+> **Full stack developer** / **Bitrix developer**
+> 
+> Zolotoy Kod
+> 
+> – <small>Верстка по PSD-макетам под систему управления Битрикс с применением технологий — HTML, CSS, JavaScript, jQuery, FancyBox. Создал более 100 страниц и более 30 дополнительных интерфейсов для веб-сайтов. Работа с Legacy-кодом старых проектов, оптимизирован под поисковые системы. Работа с Photoshop — нарезка макетов и прорисовка иконок. Работа с svg-файлами.</small>\
+> – <small>Разработка веб-сайтов на системе управления Битрикс и Битрикс24 с применением технологий — PHP, JavaScript, AJAX, MySQL. Настройка системы управления Битрикс под требования заказчиков. Интеграция верстки в систему управления Битрикс. Разработал более 10 компонентов. Разработан модуль выгрузки и обмен данными R-Keeper и Битрикс24.</small>\
+> – <small>Научил команду работать с мокапами. Выстроил цикл разработки проектов. Сдал несколько тестов Битрикс.</small>
+> 
+> `HTML` `CSS` `JavaScript` `jQuery` `FacyBox` `Битрикс` `Битрикс24` `PHP` `MySQL` `AJAX` `Photoshop` `Inkscape` `SVG` `WordPress` `MODX` `BitrixVM` `REST` `API`
+
+<br>
+
 > <small>August 2012 — may 2014</small>
 > 
 > **Full Stack Developer**
