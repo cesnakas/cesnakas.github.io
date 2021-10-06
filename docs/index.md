@@ -1,5 +1,5 @@
 ---
-title: Sergei ☆ Česnakas
+title: Sergei Česnakas
 ---
 
 # [Sergei ☆ Česnakas](/)
