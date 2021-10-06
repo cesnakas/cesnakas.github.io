@@ -72,6 +72,10 @@ description: "Web Developer"
 
 <br>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto asperiores assumenda at cum ex expedita, id laboriosam molestias nam, necessitatibus nihil odit pariatur placeat possimus ratione repellat sequi unde.
+<div>
+    ![kick.game](/images/kick.game.png)
+    ![kick.game](images/kick.game.png)
+    ![kick.game](/images/kick.game.png)
+</div>
 
 <br><br><br>

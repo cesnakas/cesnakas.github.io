@@ -4,19 +4,13 @@
 	<url>
 		<loc>https://cesnakas.github.io/</loc>
 		<priority>1.00</priority>
-		<lastmod>2021-09-30</lastmod>
-		<changefreq>weekly</changefreq>
-	</url>
-	<url>
-		<loc>https://cesnakas.github.io/resume</loc>
-		<priority>0.90</priority>
-		<lastmod>2021-09-30</lastmod>
+		<lastmod>2021-10-07</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
 		<loc>https://cesnakas.github.io/work/</loc>
 		<priority>0.90</priority>
-		<lastmod>2021-09-30</lastmod>
+		<lastmod>2021-10-07</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 
@@ -24,25 +18,25 @@
 	<url>
 		<loc>https://cesnakas.github.io/work/b2b.gauss.ru</loc>
 		<priority>0.90</priority>
-		<lastmod>2021-09-30</lastmod>
+		<lastmod>2021-10-07</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
 		<loc>https://cesnakas.github.io/work/eurocran.su</loc>
 		<priority>0.90</priority>
-		<lastmod>2021-09-30</lastmod>
+		<lastmod>2021-10-07</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
 		<loc>https://cesnakas.github.io/work/kick.game</loc>
 		<priority>0.90</priority>
-		<lastmod>2021-09-30</lastmod>
+		<lastmod>2021-10-07</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
 		<loc>https://cesnakas.github.io/work/rgsl.ru</loc>
 		<priority>0.90</priority>
-		<lastmod>2021-09-30</lastmod>
+		<lastmod>2021-10-07</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<!-- /projects -->
@@ -51,19 +45,19 @@
 	<url>
 		<loc>https://cesnakas.github.io/maconsulting.ru/</loc>
 		<priority>0.80</priority>
-		<lastmod>2021-09-30</lastmod>
+		<lastmod>2021-10-07</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
 		<loc>https://cesnakas.github.io/ascondicioner.ru/</loc>
 		<priority>0.80</priority>
-		<lastmod>2021-09-30</lastmod>
+		<lastmod>2021-10-07</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
 		<loc>https://cesnakas.github.io/lk.energo-vympel.ru/</loc>
 		<priority>0.80</priority>
-		<lastmod>2021-09-30</lastmod>
+		<lastmod>2021-10-07</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<!-- /work -->
