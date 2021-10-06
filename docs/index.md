@@ -17,10 +17,10 @@ description: "Web Developer"
 
 ### [Experience](/experience)
 
-> <small>May 2014 — may 2015</small>
-> 
 > **Zolotoy Kod**\
-> <small>*Full Stack Developer*</small>
+> <small>*May 2014 — may 2015*</small>
+> 
+> <small>**Full Stack Developer**</small>
 > 
 > – <small>Верстка по PSD-макетам под систему управления Битрикс с применением технологий — HTML, CSS, JavaScript, jQuery, FancyBox. Создал более 100 страниц и более 30 дополнительных интерфейсов для веб-сайтов. Работа с Legacy-кодом старых проектов, оптимизирован под поисковые системы. Работа с Photoshop — нарезка макетов и прорисовка иконок. Работа с svg-файлами.</small>\
 > – <small>Разработка веб-сайтов на системе управления Битрикс и Битрикс24 с применением технологий — PHP, JavaScript, AJAX, MySQL. Настройка системы управления Битрикс под требования заказчиков. Интеграция верстки в систему управления Битрикс. Разработал более 10 компонентов. Разработан модуль выгрузки и обмен данными R-Keeper и Битрикс24.</small>\
@@ -30,10 +30,9 @@ description: "Web Developer"
 
 <br>
 
-> <small>August 2012 — may 2014</small>
+> **Project work / Freelance**\
+> <small>*August 2012 — may 2014*</small>
 > 
-> **Project work / Freelance**
->
 > <small>**Full Stack Developer**</small>
 >
 > – <small>Верстка по PSD-макетам под различные системы управления (Joomla!, WordPress, MODX, OpenCart) с применением технологий — HTML, CSS, JavaScript, jQuery. Работа с Legacy-кодом. Оптимизация кода под поисковые системы и веб-браузеры. Разработал и внедрил более 100 страниц для заказчиков.</small>\
