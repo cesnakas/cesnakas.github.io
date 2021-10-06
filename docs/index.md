@@ -72,22 +72,8 @@ description: "Web Developer"
 
 <br>
 
-kick.game | kick.game | kick.game
+[kick.game](/work/kick.game) | [kick.game](/work/kick.game) | [kick.game](/work/kick.game)
 --- | --- | ---
 <img src="/images/kick.game.png"> | <img src="/images/kick.game.png"> | <img src="/images/kick.game.png">
-
-<table>
-    <tr style="border: none">
-        <td style="border: none">
-            <img src="/images/kick.game.png">
-        </td>
-        <td style="border: none">
-            <img src="/images/kick.game.png">
-        </td>
-        <td style="border: none">
-            <img src="/images/kick.game.png">
-        </td>
-    </tr>
-</table>
 
 <br><br><br>

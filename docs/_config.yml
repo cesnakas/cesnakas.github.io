@@ -1,7 +1,7 @@
 # Base
-lang:        'ru'
-title:       'Sergei Česnakas'
-description: 'Web Developer'
+lang        : 'ru'
+title       : 'Sergei Česnakas'
+description : 'Web Developer'
 
 # OG
 locale: 'ru'
