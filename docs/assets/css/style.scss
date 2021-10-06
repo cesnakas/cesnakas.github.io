@@ -1,9 +1,10 @@
 ---
 ---
 
-//@import "{{ site.theme }}";
 @import "jekyll-theme-primer";
 
-table {
+table,
+tr,
+td {
     border: none;
 }
