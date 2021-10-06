@@ -72,8 +72,16 @@ description: "Web Developer"
 
 <br>
 
-1 | 2 | 3
+kick.game | kick.game | kick.game
 --- | --- | ---
 <img src="/images/kick.game.png"> | <img src="/images/kick.game.png"> | <img src="/images/kick.game.png">
+
+<table>
+    <tr>
+        <td> ![kick.game](/images/kick.game.png) </td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 <br><br><br>
