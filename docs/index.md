@@ -74,11 +74,11 @@ description: "Web Developer"
 
 <div>
 
-    ![kick.game](/images/kick.game.png)
+[![kick.game](images/kick.game.png)](/)
 
-    ![kick.game](/images/kick.game.png)
+![kick.game](images/kick.game.png)
 
-    ![kick.game](/images/kick.game.png)
+![kick.game](images/kick.game.png)
 
 </div>
 
