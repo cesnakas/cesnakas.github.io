@@ -5,15 +5,21 @@ title: Sergei Česnakas
 # [Sergei Česnakas](/)
 
 ### Web Developer
+
 — Web development\
 — Front-end development\
 — Back-end development
+
 <br>
 
 ### [Experience](/experience)
 
-> #### Проектная работа / Стартапы / Фриланс
-> <small>Россия, август 2012 — май 2014 <!--(2 года 2 месяца)--></small>
+> <h4><small>Август 2012 — май 2014</small></h4>
+> 
+> <small><h4>Август 2012 — май 2014</h4></small>
+> 
+> <h5>Проектная работа / Стартапы / Фриланс</h5>
+> <small>Россия, август 2012 — май 2014</small>
 >
 > **Frontend-разработчик** / **Backend-разработчик** / **Fullstack-разработчик**
 >
