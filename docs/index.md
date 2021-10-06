@@ -4,6 +4,11 @@ title: Sergei Česnakas
 
 # [Sergei Česnakas](/)
 
+### Web Developer
+— Web development\
+— Front-end development\
+— Back-end development
+<br>
 
 ### [Resume](/resume)
 

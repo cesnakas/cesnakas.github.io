@@ -8,17 +8,16 @@ title: CV
 — Web development\
 — Front-end development\
 — Back-end development
-
 <br>
 
+<!--
 ### About
-
 ★★★★☆ `PHP`\
 ★★★★☆ `JavaScript`\
 ★★★★☆ `Sass`\
 ★★☆☆☆ `TypeScript`
-
 <br>
+-->
 
 ### [Experience](/resume)
 
