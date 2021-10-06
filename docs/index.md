@@ -72,12 +72,6 @@ description: "Web Developer"
 
 <br>
 
-<p>
-
-[![kick.game](/images/kick.game.png)](/)
-![kick.game](/images/kick.game.png)
-![kick.game](/images/kick.game.png)
-
-</p>
+[![kick.game](/images/kick.game.png)](/) ![kick.game](/images/kick.game.png) ![kick.game](/images/kick.game.png)
 
 <br><br><br>
