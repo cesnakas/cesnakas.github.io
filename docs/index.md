@@ -7,7 +7,7 @@ description: "Web Developer"
 
 <br>
 
-## Web Developer
+### Web Developer
 
 — Web development\
 — Front-end development\
@@ -19,8 +19,20 @@ description: "Web Developer"
 
 <br>
 
+> **OptimalGroup**\
+> <small>*may 2015 — january 2016*</small>
+>
+> <small>**Fullstack-разработчик**</small>
+>
+> – <small>Верстка по PSD-макетам под систему управления Битрикс. Работа с Legacy-кодом. Доработка, оптимизация и устранение ошибок. Используемые технологии — HTML5, CSS3, JavaScript, jQuery, LESS.</small>\
+> – <small>Разработка сайтов на системе управления 1С-Битрикс. Интеграция верстки в систему управления, настройка компонентов. Работа с хостингом, настройка Apache и Nginx, оптимизация под требования системы управления.</small>
+>
+> `HTML` `CSS` `JavaScript` `jQuery` `LESS` `PHP` `MySQL` `Битрикс` `Битрикс24` `Photoshop` `Apache` `Nginx`
+
+<br>
+
 > **Zolotoy Kod**\
-> <small>*May 2014 — may 2015*</small>
+> <small>*may 2014 — may 2015*</small>
 > 
 > <small>**Full Stack Developer**</small>
 > 
@@ -33,7 +45,7 @@ description: "Web Developer"
 <br>
 
 > **Project work / Freelance**\
-> <small>*August 2012 — may 2014*</small>
+> <small>*august 2012 — may 2014*</small>
 > 
 > <small>**Full Stack Developer**</small>
 >
