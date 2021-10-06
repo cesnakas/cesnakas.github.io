@@ -1,4 +1,9 @@
 ---
 ---
 
-@import "custom";
+//@import "{{ site.theme }}";
+@import "jekyll-theme-primer";
+
+table {
+    border: none;
+}
