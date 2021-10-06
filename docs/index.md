@@ -72,7 +72,7 @@ description: "Web Developer"
 
 <br>
 
-<img src="/images/kick.game.png" width="100%"> | <img src="/images/kick.game.png" width="100%"> | <img src="/images/kick.game.png" width="100%">
+<img src="/images/kick.game.png"> | <img src="/images/kick.game.png"> | <img src="/images/kick.game.png">
 --- | --- | ---
-
+1 | 2 | 3
 <br><br><br>
