@@ -77,11 +77,23 @@ kick.game | kick.game | kick.game
 <img src="/images/kick.game.png"> | <img src="/images/kick.game.png"> | <img src="/images/kick.game.png">
 
 <table>
-    <tr>
-        <td> ![kick.game](/images/kick.game.png) </td>
-        <td></td>
-        <td></td>
-    </tr>
+<tr>
+<td>
+
+![kick.game](/images/kick.game.png)
+
+</td>
+<td>
+
+![kick.game](/images/kick.game.png)
+
+</td>
+<td>
+
+![kick.game](/images/kick.game.png)
+
+</td>
+</tr>
 </table>
 
 <br><br><br>
