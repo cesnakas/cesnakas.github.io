@@ -19,7 +19,7 @@ description: "Web Developer"
 
 > <small>May 2014 — may 2015</small>
 > 
-> ##### Zolotoy Kod
+> **Zolotoy Kod**
 > 
 > ###### Full stack developer
 > 
