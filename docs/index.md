@@ -10,7 +10,7 @@ title: Sergei Česnakas
 — Back-end development
 <br>
 
-### [Resume](/resume)
+### [Experience](/experience)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. At autem consequatur quae unde veniam voluptas! Ab accusantium aliquam aperiam at consectetur, cumque dolore fugiat, illum ipsa nam nesciunt, porro voluptatum.
 
