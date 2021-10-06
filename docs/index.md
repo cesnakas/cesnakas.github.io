@@ -72,6 +72,6 @@ description: "Web Developer"
 
 <br>
 
-[![kick.game](/images/kick.game.png)](/)&nbsp;![kick.game](/images/kick.game.png)&nbsp;![kick.game](/images/kick.game.png)
+<img src="/images/kick.game.png"> <img src="/images/kick.game.png"> <img src="/images/kick.game.png">
 
 <br><br><br>
