@@ -7,7 +7,7 @@ description: "Web Developer"
 
 <br>
 
-### Web Developer
+## Web Developer
 
 — Web development\
 — Front-end development\
@@ -15,7 +15,9 @@ description: "Web Developer"
 
 <br>
 
-### [Experience](/experience)
+## [Experience](/experience)
+
+<br>
 
 > **Zolotoy Kod**\
 > <small>*May 2014 — may 2015*</small>
@@ -43,7 +45,9 @@ description: "Web Developer"
 
 <br>
 
-### [Work](/work/)
+## [Work](/work/)
+
+<br>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto asperiores assumenda at cum ex expedita, id laboriosam molestias nam, necessitatibus nihil odit pariatur placeat possimus ratione repellat sequi unde.
 
