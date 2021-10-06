@@ -19,7 +19,7 @@ description: "Web Developer"
 
 > <small>May 2014 — may 2015</small>
 > 
-> ##### Zolotoy Kod
+> **Zolotoy Kod**
 > 
 > <small>**Full stack developer**</small>
 > 
@@ -33,9 +33,9 @@ description: "Web Developer"
 
 > <small>August 2012 — may 2014</small>
 > 
-> **Full Stack Developer**
+> **Project work / Freelance**
 >
-> Project work / Freelance
+> <small>**Full Stack Developer**</small>
 >
 > – <small>Верстка по PSD-макетам под различные системы управления (Joomla!, WordPress, MODX, OpenCart) с применением технологий — HTML, CSS, JavaScript, jQuery. Работа с Legacy-кодом. Оптимизация кода под поисковые системы и веб-браузеры. Разработал и внедрил более 100 страниц для заказчиков.</small>\
 > – <small>Разработка веб-сайтов на системах управления — Joomla!, WordPress, MODX, OpenCart. Программирование на JavaScript и PHP. Разработал интернет-магазин на CMS OpenCart с выгрузкой товаров из XML-таблиц.</small>\
