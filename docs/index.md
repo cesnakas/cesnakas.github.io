@@ -55,26 +55,9 @@ description: "Web Developer"
 
 <br>
 
-> **Project work / Freelance**\
-> <small>*august 2012 — may 2014*</small>
-> 
-> <small>**Full Stack Developer**</small>
->
-> – <small>Верстка по PSD-макетам под различные системы управления (Joomla!, WordPress, MODX, OpenCart) с применением технологий — HTML, CSS, JavaScript, jQuery. Работа с Legacy-кодом. Оптимизация кода под поисковые системы и веб-браузеры. Разработал и внедрил более 100 страниц для заказчиков.</small>\
-> – <small>Разработка веб-сайтов на системах управления — Joomla!, WordPress, MODX, OpenCart. Программирование на JavaScript и PHP. Разработал интернет-магазин на CMS OpenCart с выгрузкой товаров из XML-таблиц.</small>\
-> – <small>Научился работать с заказчиками, выстраивать цикл разработки веб-сайта под ключ (написания технического задания, проектирование сайта, дизайн, верстка, программирование, тестирование, оптимизация, сдача проекта).</small>
->
-> `HTML` `CSS` `JavaScript` `PHP` `MySQL` `jQuery` `Photoshop` `Joomla!` `MODX` `WordPress` `OpenCart`
-
-<br>
-
 ## [Work](/work/)
 
 <br>
-
-[kick.game](/work/kick.game) | [kick.game](/work/kick.game) | [kick.game](/work/kick.game)
---- | --- | ---
-![kick.game](/images/kick.game.png) | ![kick.game](/images/kick.game.png) | ![kick.game](/images/kick.game.png)
 
 [kick.game](/work/kick.game) | [kick.game](/work/kick.game) | [kick.game](/work/kick.game)
 --- | --- | ---
