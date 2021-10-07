@@ -23,7 +23,7 @@ title: Experience
 > – <small>Верстка по PSD-макетам под систему управления Битрикс. Работа с Legacy-кодом. Доработка, оптимизация и устранение ошибок. Используемые технологии — HTML5, CSS3, JavaScript, jQuery, LESS.</small>\
 > – <small>Разработка сайтов на системе управления 1С-Битрикс. Интеграция верстки в систему управления, настройка компонентов. Работа с хостингом, настройка Apache и Nginx, оптимизация под требования системы управления.</small>
 >
-> `HTML5` `CSS3` `JavaScript` `jQuery` `LESS` `PHP` `MySQL` `Bitrix` `Bitrix24` `Photoshop` `Apache` `Nginx`
+> `HTML5` `CSS3` `JavaScript` `PHP` `LESS` `jQuery` `MySQL` `Bitrix` `Bitrix24` `Photoshop` `Git` `Apache` `Nginx`
 
 <br>
 
