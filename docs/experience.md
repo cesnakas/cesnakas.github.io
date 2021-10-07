@@ -23,7 +23,7 @@ title: Experience
 > – <small>Верстка по PSD-макетам под систему управления Битрикс. Работа с Legacy-кодом. Доработка, оптимизация и устранение ошибок. Используемые технологии — HTML5, CSS3, JavaScript, jQuery, LESS.</small>\
 > – <small>Разработка сайтов на системе управления 1С-Битрикс. Интеграция верстки в систему управления, настройка компонентов. Работа с хостингом, настройка Apache и Nginx, оптимизация под требования системы управления.</small>
 >
-> `HTML` `CSS` `JavaScript` `jQuery` `LESS` `PHP` `MySQL` `Битрикс` `Битрикс24` `Photoshop` `Apache` `Nginx`
+> `HTML5` `CSS3` `JavaScript` `jQuery` `LESS` `PHP` `MySQL` `Bitrix` `Bitrix24` `Photoshop` `Apache` `Nginx`
 
 <br>
 
@@ -36,7 +36,7 @@ title: Experience
 > – <small>Разработка веб-сайтов на системе управления Битрикс и Битрикс24 с применением технологий — PHP, JavaScript, AJAX, MySQL. Настройка системы управления Битрикс под требования заказчиков. Интеграция верстки в систему управления Битрикс. Разработал более 10 компонентов. Разработан модуль выгрузки и обмен данными R-Keeper и Битрикс24.</small>\
 > – <small>Научил команду работать с мокапами. Выстроил цикл разработки проектов. Сдал несколько тестов Битрикс.</small>
 >
-> `HTML` `CSS` `JavaScript` `jQuery` `FacyBox` `Битрикс` `Битрикс24` `PHP` `MySQL` `AJAX` `Photoshop` `Inkscape` `SVG` `WordPress` `MODX` `BitrixVM` `REST` `API`
+> `HTML` `CSS` `JavaScript` `jQuery` `PHP` `Bitrix` `Bitrix24` `MySQL` `AJAX` `Photoshop` `Inkscape` `SVG` `BitrixVM` `REST` `API`
 
 <br>
 
