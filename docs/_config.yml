@@ -1,10 +1,10 @@
 # Base
-lang        : 'ru'
+lang        : 'en'
 title       : 'Sergei Česnakas'
 description : 'Web Developer'
 
 # OG
-locale: 'ru'
+locale: 'en'
 author: 'Sergei Česnakas'
 name:   'Sergei Česnakas'
 
