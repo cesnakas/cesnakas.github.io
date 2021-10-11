@@ -62,6 +62,6 @@ title: Work
 
 ## 2012
 
-Site | —
---- | ---
-[termoclick.ru](/work/termoclick.ru) | eCommerce
+- [termoclick.ru](/work/termoclick.ru)
+
+<br><br><br>
