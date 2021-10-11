@@ -9,10 +9,9 @@ description: "Web Developer"
 
 ### Web Developer
 
-— Web development\
+— Web developer\
 — Front-end developer\
-— Team Lead\
-— CTO
+— Team Lead / CTO\
 
 <br>
 
