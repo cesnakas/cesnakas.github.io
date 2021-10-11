@@ -11,7 +11,7 @@ description: "Web Developer"
 
 — Web developer\
 — Front-end developer\
-— Team Lead / CTO\
+— Team Lead / CTO
 
 <br>
 
