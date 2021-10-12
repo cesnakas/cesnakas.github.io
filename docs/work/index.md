@@ -6,6 +6,8 @@ title: Work
 
 ## 2021
 
+- [archdetali.ru](/work/archdetali.ru)
+- [alphaservice24.com](/work/alphaservice24.com)
 - [keratinvolos.ru](/work/keratinvolos.ru)
 - [paoloconte.ru](/work/paoloconte.ru)
 - [b2b.gauss.ru](/work/b2b.gauss.ru)
