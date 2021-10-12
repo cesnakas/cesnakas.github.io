@@ -2,4 +2,6 @@
 title: iondom.ru
 ---
 
-[< back](/work/)
+[← back](/work/)
+
+<br>

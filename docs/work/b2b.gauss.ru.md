@@ -1,4 +1,7 @@
 ---
 title: b2b.gauss.ru
 ---
-[<=](/work/)
+
+[← back](/work/)
+
+<br>

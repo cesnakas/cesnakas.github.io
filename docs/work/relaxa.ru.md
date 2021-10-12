@@ -2,4 +2,6 @@
 title: relaxa.ru
 ---
 
-[< back](/work/)
+[← back](/work/)
+
+<br>
