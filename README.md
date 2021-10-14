@@ -3,22 +3,15 @@
 — Web developer\
 — Front-end developer
 
-## Experience
+## Certificates
 
-> **InfoPro**\
-> <small>*september 2017 — may 2018*</small>
->
-> <small>**Full Stack Developer**</small>
+#### 2021
+- [Figma. Начальный уровень](https://gb.ru/certificates/1406861.pdf)
+- [HTML/CSS. Интерактивный курс](https://gb.ru/certificates/1406914.pdf)
+- [Тест HTML5/CSS3](https://gb.ru/certificates/1411784.pdf)
 
-> **Project work / Freelance**\
-> <small>*may 2015 — september 2017*</small>
->
-> <small>**Full Stack Developer**</small>
-
-> **Zolotoy Kod**\
-> <small>*may 2014 — may 2015*</small>
->
-> <small>**Full Stack Developer**</small>
+#### 2019
+- [Интенсивное погружение в JavaScript](https://www.udemy.com/certificate/UC-BZC49YJ1/)
 
 ## Work
 
