@@ -3,7 +3,7 @@
 — Web developer\
 — Front-end developer
 
-### Experience
+## Experience
 
 > **InfoPro**\
 > <small>*september 2017 — may 2018*</small>
@@ -26,10 +26,27 @@
 >
 > `HTML` `CSS` `JavaScript` `jQuery` `FacyBox` `Bitrix` `Bitrix24` `PHP` `MySQL` `AJAX` `Photoshop` `Inkscape` `SVG` `WordPress` `MODX` `BitrixVM` `REST` `API`
 
-### Work
+## Work
 
-2021 | 2020 | 2019
---- | --- | ---
-kick.game | dentoptics.digital | dialogdent.ru
-maconsulting.ru | — | storedent.ru
-sibirthegame.ru | — | —
+#### 2021
+- kick.game
+- maconsulting.ru
+- sibirthegame.ru
+
+---
+
+#### 2020
+- relaxa.ru
+- iondom.ru
+- avionagro.ru
+- woldom.ru
+- dentoptics.digital
+- malinkacapital.com
+
+---
+
+#### 2019
+- dialogdent.ru
+- samara.dental
+- storedent.ru
+- ascondicioner.ru
