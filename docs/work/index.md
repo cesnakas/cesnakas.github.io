@@ -9,6 +9,8 @@ title: Work
 - [archdetali.ru](/work/archdetali.ru)
 - [alphaservice24.com](/work/alphaservice24.com)
 - [keratinvolos.ru](/work/keratinvolos.ru)
+- [superpirogi.ru](/work/superpirogi.ru)
+- [moscow-klining.ru](/work/moscow-klining.ru)
 - [paoloconte.ru](/work/paoloconte.ru)
 - [b2b.gauss.ru](/work/b2b.gauss.ru)
 - [eurocran.su](/work/eurocran.su)
