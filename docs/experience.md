@@ -5,7 +5,7 @@ title: Experience
 <br>
 
 > **STOREDENT**\
-> <small>*november 2019 — march 2021*</small>
+> <sub>*november 2019 — march 2021*</sub>
 >
 > **Full stack Bitrix developer**
 >
@@ -14,7 +14,7 @@ title: Experience
 <br>
 
 > **Project work**\
-> <small>*may 2018 — november 2019*</small>
+> <sub>*may 2018 — november 2019*</sub>
 >
 > <small>**Full stack Bitrix developer**</small>
 >
@@ -23,7 +23,7 @@ title: Experience
 <br>
 
 > **InfoPro**\
-> <small>*september 2017 — may 2018*</small>
+> <sub>*september 2017 — may 2018*</sub>
 >
 > <small>**Full Stack Developer**</small>
 >
@@ -34,7 +34,7 @@ title: Experience
 <br>
 
 > **Project work / Freelance**\
-> <small>*may 2015 — september 2017*</small>
+> <sub>*may 2015 — september 2017*</sub>
 >
 > <small>**Full Stack Developer**</small>
 >
@@ -46,7 +46,7 @@ title: Experience
 <br>
 
 > **Zolotoy Kod**\
-> <small>*may 2014 — may 2015*</small>
+> <sub>*may 2014 — may 2015*</sub>
 >
 > <small>**Full Stack Developer**</small>
 >
@@ -59,7 +59,7 @@ title: Experience
 <br>
 
 > **Project work / Freelance**\
-> <small>*august 2012 — may 2014*</small>
+> <sub>*august 2012 — may 2014*</sub>
 >
 > <small>**Full Stack Developer**</small>
 >
