@@ -13,6 +13,8 @@ description: "Web Developer"
 — Front-end developer\
 — Team Lead / CTO
 
+`HTML` `CSS` `JavaScript` `TypeScript` `Node.js` `Git` `React` `jQuery` `Webpack` `Vue.js` `Webpack` `Jira` `BEM` `Кроссбраузерная верстка` `Адаптивная верстка` `AJAX`
+
 <br>
 
 ## [Experience](/experience)
