@@ -5,11 +5,9 @@ title: Experience
 <br>
 
 > **STOREDENT**\
-> <small>november 2019 — march 2021</small>
+> <small>*november 2019 — march 2021*</small>
 >
-> **Fullstack-разработчик** / **Битрикс разработчик**
->
-> – <small>...</small>
+> **Full stack Bitrix developer**
 >
 > `HTML` `CSS` `JavaScript` `PHP` `MySQL` `Битрикс` `Git` `Bootstrap` `jQuery` `Figma` `Swiper`
 
@@ -18,10 +16,7 @@ title: Experience
 > **Project work**\
 > <small>*may 2018 — november 2019*</small>
 >
-> <small>**Full Stack Developer**</small>
->
-> – <small>...</small>\
-> – <small>...</small>
+> <small>**Full stack Bitrix developer**</small>
 >
 > `HTML5` `CSS3` `JavaScript` `PHP` `LESS` `jQuery` `MySQL` `Bitrix` `Bitrix24` `Photoshop` `Git` `Apache` `Nginx`
 
