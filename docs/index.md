@@ -25,39 +25,24 @@ description: "Web Developer"
 
 <br>
 
-> **InfoPro**\
-> <small>*september 2017 — may 2018*</small>
->
-> <small>**Full Stack Developer**</small>
->
-> – <small>Разработка веб-сайтов на системе управления 1С-Битрикс и Битрикс24; Верстка по PSD-макетам; Разработка компонентов и модулей Битрикс; Работа с Git.</small>
->
-> `HTML` `CSS` `Sass` `JavaScript` `jQuery` `PHP` `MySQL` `Bootstrap` `Git` `Bitrix` `VSCode` `SharePoint` `Photoshop`
-
-<br>
-
 > **Project work / Freelance**\
-> <small>*may 2015 — september 2017*</small>
+> <sub>*march 2021 — currently*</sub>
 >
-> <small>**Full Stack Developer**</small>
->
-> – <small>Верстка по PSD-макетам под систему управления Битрикс. Работа с Legacy-кодом. Доработка, оптимизация и устранение ошибок. Используемые технологии — HTML5, CSS3, JavaScript, jQuery, LESS.</small>\
-> – <small>Разработка сайтов на системе управления 1С-Битрикс. Интеграция верстки в систему управления, настройка компонентов. Работа с хостингом, настройка Apache и Nginx, оптимизация под требования системы управления.</small>
->
-> `HTML` `CSS` `JavaScript` `jQuery` `LESS` `PHP` `MySQL` `Bitrix` `Bitrix24` `Photoshop` `Apache` `Nginx`
+> <small>**Full stack Web developer**</small>
 
 <br>
 
-> **Zolotoy Kod**\
-> <small>*may 2014 — may 2015*</small>
-> 
-> <small>**Full Stack Developer**</small>
-> 
-> – <small>Верстка по PSD-макетам под систему управления Битрикс с применением технологий — HTML, CSS, JavaScript, jQuery, FancyBox. Создал более 100 страниц и более 30 дополнительных интерфейсов для веб-сайтов. Работа с Legacy-кодом старых проектов, оптимизирован под поисковые системы. Работа с Photoshop — нарезка макетов и прорисовка иконок. Работа с svg-файлами.</small>\
-> – <small>Разработка веб-сайтов на системе управления Битрикс и Битрикс24 с применением технологий — PHP, JavaScript, AJAX, MySQL. Настройка системы управления Битрикс под требования заказчиков. Интеграция верстки в систему управления Битрикс. Разработал более 10 компонентов. Разработан модуль выгрузки и обмен данными R-Keeper и Битрикс24.</small>\
-> – <small>Научил команду работать с мокапами. Выстроил цикл разработки проектов. Сдал несколько тестов Битрикс.</small>
-> 
-> `HTML` `CSS` `JavaScript` `jQuery` `FacyBox` `Bitrix` `Bitrix24` `PHP` `MySQL` `AJAX` `Photoshop` `Inkscape` `SVG` `WordPress` `MODX` `BitrixVM` `REST` `API`
+> **STOREDENT**\
+> <sub>*november 2019 — march 2021*</sub>
+>
+> <small>**Full stack Bitrix developer**</small>
+
+<br>
+
+> **Project work**\
+> <sub>*may 2018 — november 2019*</sub>
+>
+> <small>**Full stack Bitrix developer**</small>
 
 <br>
 
