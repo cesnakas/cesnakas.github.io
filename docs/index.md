@@ -1,6 +1,6 @@
 ---
 title: "Sergei Česnakas"
-description: "Web Developer"
+description: "Front-end Web Developer"
 ---
 
 # [Sergei Česnakas](/)
@@ -29,6 +29,8 @@ description: "Web Developer"
 > <sub>*march 2021 — currently*</sub>
 >
 > <small>**Full stack Web developer**</small>
+> 
+> `HTML/HTML5` `CSS/CSS3` `JavaScript` `PHP` `Bitrix` `Git`
 
 <br>
 
@@ -36,6 +38,8 @@ description: "Web Developer"
 > <sub>*november 2019 — march 2021*</sub>
 >
 > <small>**Full stack Bitrix developer**</small>
+> 
+> `HTML/HTML5` `CSS/CSS3` `JavaScript` `PHP` `Bitrix` `Git`
 
 <br>
 
@@ -43,6 +47,8 @@ description: "Web Developer"
 > <sub>*may 2018 — november 2019*</sub>
 >
 > <small>**Full stack Bitrix developer**</small>
+> 
+> `HTML/HTML5` `CSS/CSS3` `JavaScript` `PHP` `Bitrix` `Git`
 
 <br>
 
