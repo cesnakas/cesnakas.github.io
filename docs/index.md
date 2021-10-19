@@ -13,9 +13,9 @@ description: "Web Developer"
 — Front-end developer\
 — Team Lead / CTO
 
-`HTML` `CSS` `JavaScript` `TypeScript` `Node.js` `Git` `React` `jQuery` `Webpack` `Vue.js` `Webpack` `Jira` `BEM`\
-`Кроссбраузерная верстка` `Адаптивная верстка` `AJAX` `Nuxt.js` `Bootstrap` `Gulp` `Scrum` `Agile` `PHP`\
-``
+`HTML/HTML5` `CSS/CSS3` `JavaScript` `jQuery` `TypeScript` `Node.js` `Git` `React` `Webpack` `Vue.js` `Webpack` `Jira` `BEM`
+
+`AJAX` `Nuxt.js` `Bootstrap` `Gulp` `Scrum` `Agile` `PHP`
 
 <br>
 
