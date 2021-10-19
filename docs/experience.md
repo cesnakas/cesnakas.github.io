@@ -7,7 +7,7 @@ title: Experience
 > **STOREDENT**\
 > <sub>*november 2019 — march 2021*</sub>
 >
-> **Full stack Bitrix developer**
+> <small>**Full stack Bitrix developer**</small>
 >
 > `HTML` `CSS` `JavaScript` `PHP` `MySQL` `Битрикс` `Git` `Bootstrap` `jQuery` `Figma` `Swiper`
 
@@ -25,7 +25,7 @@ title: Experience
 > **InfoPro**\
 > <sub>*september 2017 — may 2018*</sub>
 >
-> <small>**Full Stack Developer**</small>
+> <small>**Full stack Bitrix developer**</small>
 >
 > – <small>Разработка веб-сайтов на системе управления 1С-Битрикс и Битрикс24; Верстка по PSD-макетам; Разработка компонентов и модулей Битрикс; Работа с Git.</small>
 >
@@ -36,7 +36,7 @@ title: Experience
 > **Project work / Freelance**\
 > <sub>*may 2015 — september 2017*</sub>
 >
-> <small>**Full Stack Developer**</small>
+> <small>**Full stack developer**</small>
 >
 > – <small>Верстка по PSD-макетам под систему управления Битрикс. Работа с Legacy-кодом. Доработка, оптимизация и устранение ошибок. Используемые технологии — HTML5, CSS3, JavaScript, jQuery, LESS.</small>\
 > – <small>Разработка сайтов на системе управления 1С-Битрикс. Интеграция верстки в систему управления, настройка компонентов. Работа с хостингом, настройка Apache и Nginx, оптимизация под требования системы управления.</small>
@@ -48,7 +48,7 @@ title: Experience
 > **Zolotoy Kod**\
 > <sub>*may 2014 — may 2015*</sub>
 >
-> <small>**Full Stack Developer**</small>
+> <small>**Full stack Bitrix developer**</small>
 >
 > – <small>Верстка по PSD-макетам под систему управления Битрикс с применением технологий — HTML, CSS, JavaScript, jQuery, FancyBox. Создал более 100 страниц и более 30 дополнительных интерфейсов для веб-сайтов. Работа с Legacy-кодом старых проектов, оптимизирован под поисковые системы. Работа с Photoshop — нарезка макетов и прорисовка иконок. Работа с svg-файлами.</small>\
 > – <small>Разработка веб-сайтов на системе управления Битрикс и Битрикс24 с применением технологий — PHP, JavaScript, AJAX, MySQL. Настройка системы управления Битрикс под требования заказчиков. Интеграция верстки в систему управления Битрикс. Разработал более 10 компонентов. Разработан модуль выгрузки и обмен данными R-Keeper и Битрикс24.</small>\
@@ -61,7 +61,7 @@ title: Experience
 > **Project work / Freelance**\
 > <sub>*august 2012 — may 2014*</sub>
 >
-> <small>**Full Stack Developer**</small>
+> <small>**Full stack developer**</small>
 >
 > – <small>Верстка по PSD-макетам под различные системы управления (Joomla!, WordPress, MODX, OpenCart) с применением технологий — HTML, CSS, JavaScript, jQuery. Работа с Legacy-кодом. Оптимизация кода под поисковые системы и веб-браузеры. Разработал и внедрил более 100 страниц для заказчиков.</small>\
 > – <small>Разработка веб-сайтов на системах управления — Joomla!, WordPress, MODX, OpenCart. Программирование на JavaScript и PHP. Разработал интернет-магазин на CMS OpenCart с выгрузкой товаров из XML-таблиц.</small>\
