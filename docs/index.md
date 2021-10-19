@@ -14,7 +14,8 @@ description: "Web Developer"
 — Team Lead / CTO
 
 `HTML` `CSS` `JavaScript` `TypeScript` `Node.js` `Git` `React` `jQuery` `Webpack` `Vue.js` `Webpack` `Jira` `BEM`\
-`Кроссбраузерная верстка` `Адаптивная верстка` `AJAX`
+`Кроссбраузерная верстка` `Адаптивная верстка` `AJAX` `Nuxt.js` `Bootstrap` `Gulp` `Scrum` `Agile` `PHP`\
+``
 
 <br>
 
