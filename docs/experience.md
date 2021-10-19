@@ -4,6 +4,15 @@ title: Experience
 
 <br>
 
+> **Project work / Freelance**\
+> <sub>*march 2021 — currently*</sub>
+>
+> <small>**Full stack Bitrix developer**</small>
+>
+> `HTML` `CSS` `JavaScript` `PHP` `MySQL` `Битрикс` `Git` `Bootstrap` `jQuery` `Figma` `Swiper`
+
+<br>
+
 > **STOREDENT**\
 > <sub>*november 2019 — march 2021*</sub>
 >
