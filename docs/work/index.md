@@ -6,6 +6,7 @@ title: Work
 
 ## 2021
 
+- [novtecas.ru](/work/novtecas.ru)
 - [archdetali.ru](/work/archdetali.ru)
 - [alphaservice24.com](/work/alphaservice24.com)
 - [keratinvolos.ru](/work/keratinvolos.ru)
