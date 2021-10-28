@@ -9,4 +9,6 @@ description: Kick Game
 
 ## KICK GAME
 
-![kick.game](/images/kick.game.png)
+![kick.game](/images/work/kick.game_01.png)
+
+<br><br>
