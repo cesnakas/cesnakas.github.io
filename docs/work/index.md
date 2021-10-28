@@ -6,8 +6,16 @@ title: Work
 
 ## 2021
 
+- [fusion-chrome.ru](/work/fusion-chrome.ru)
+- [tehnar.ru](/work/tehnar.ru)
+- [np-sp.ru](/work/np-sp.ru)
+- [mirpolovspb.ru](/work/mirpolovspb.ru)
+- [online-lowrance.ru](/work/online-lowrance.ru)
+- [fusiontech.ru](/work/fusiontech.ru)
+- [rhinodesign.ru](/work/rhinodesign.ru)
 - [novtecas.ru](/work/novtecas.ru)
 - [archdetali.ru](/work/archdetali.ru)
+- [atcgaz.ru](/work/atcgaz.ru)
 - [alphaservice24.com](/work/alphaservice24.com)
 - [keratinvolos.ru](/work/keratinvolos.ru)
 - [superpirogi.ru](/work/superpirogi.ru)

@@ -4,86 +4,20 @@
 	<url>
 		<loc>https://cesnakas.github.io/</loc>
 		<priority>1.00</priority>
-		<lastmod>2021-10-19</lastmod>
+		<lastmod>2021-10-29</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
 		<loc>https://cesnakas.github.io/experience</loc>
 		<priority>1.00</priority>
-		<lastmod>2021-10-19</lastmod>
+		<lastmod>2021-10-29</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
 		<loc>https://cesnakas.github.io/work/</loc>
 		<priority>1.00</priority>
-		<lastmod>2021-10-19</lastmod>
+		<lastmod>2021-10-29</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
-
-	<!-- projects -->
-	<url>
-		<loc>https://cesnakas.github.io/work/archdetali.ru</loc>
-		<priority>0.90</priority>
-		<lastmod>2021-10-19</lastmod>
-		<changefreq>weekly</changefreq>
-	</url>
-	<url>
-		<loc>https://cesnakas.github.io/work/alphaservice24.com</loc>
-		<priority>0.90</priority>
-		<lastmod>2021-10-19</lastmod>
-		<changefreq>weekly</changefreq>
-	</url>
-	<url>
-		<loc>https://cesnakas.github.io/work/keratinvolos.ru</loc>
-		<priority>0.90</priority>
-		<lastmod>2021-10-19</lastmod>
-		<changefreq>weekly</changefreq>
-	</url>
-	<url>
-		<loc>https://cesnakas.github.io/work/b2b.gauss.ru</loc>
-		<priority>0.90</priority>
-		<lastmod>2021-10-19</lastmod>
-		<changefreq>weekly</changefreq>
-	</url>
-	<url>
-		<loc>https://cesnakas.github.io/work/eurocran.su</loc>
-		<priority>0.90</priority>
-		<lastmod>2021-10-19</lastmod>
-		<changefreq>weekly</changefreq>
-	</url>
-	<url>
-		<loc>https://cesnakas.github.io/work/kick.game</loc>
-		<priority>0.90</priority>
-		<lastmod>2021-10-19</lastmod>
-		<changefreq>weekly</changefreq>
-	</url>
-	<url>
-		<loc>https://cesnakas.github.io/work/rgsl.ru</loc>
-		<priority>0.90</priority>
-		<lastmod>2021-10-19</lastmod>
-		<changefreq>weekly</changefreq>
-	</url>
-	<!-- /projects -->
-
-	<!-- work -->
-	<url>
-		<loc>https://cesnakas.github.io/maconsulting.ru/</loc>
-		<priority>0.80</priority>
-		<lastmod>2021-10-19</lastmod>
-		<changefreq>weekly</changefreq>
-	</url>
-	<url>
-		<loc>https://cesnakas.github.io/ascondicioner.ru/</loc>
-		<priority>0.80</priority>
-		<lastmod>2021-10-19</lastmod>
-		<changefreq>weekly</changefreq>
-	</url>
-	<url>
-		<loc>https://cesnakas.github.io/lk.energo-vympel.ru/</loc>
-		<priority>0.80</priority>
-		<lastmod>2021-10-19</lastmod>
-		<changefreq>weekly</changefreq>
-	</url>
-	<!-- /work -->
 
 </urlset>
