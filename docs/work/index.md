@@ -4,6 +4,27 @@ title: Work
 
 <br>
 
+## 2022
+
+- [plintus-hall.ru](/work/plintus-hall.ru)
+- [lorinfo.ru](/work/lorinfo.ru)
+- [dugovik.ru](/work/dugovik.ru)
+- [teswel.ru](/work/teswel.ru)
+- [pansion.life](/work/pansion.life)
+- [company-okna.ru](/work/company-okna.ru)
+- [luka-samara.ru](/work/luka-samara.ru)
+- [rus-extract.com](/work/rus-extract.com)
+- [pansionat-zabota24.ru](/work/pansionat-zabota24.ru)
+- [surdobox.ru](/work/surdobox.ru)
+- [stax-detailing.ru](/work/stax-detailing.ru)
+- [luka-samara.ru](/work/luka-samara.ru)
+- [greenbag-camp.ru](/work/greenbag-camp.ru)
+- [rus-extract.com](/work/rus-extract.com)
+- [ckbran.ru](/work/ckbran.ru)
+- [wgs-gcvep.ru](/work/wgs-gcvep.ru)
+
+<br>
+
 ## 2021
 
 - [fusion-chrome.ru](/work/fusion-chrome.ru)
