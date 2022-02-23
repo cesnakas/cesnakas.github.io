@@ -13,7 +13,6 @@ title: Work
 - [pansion.life](/work/pansion.life)
 - [company-okna.ru](/work/company-okna.ru)
 - [luka-samara.ru](/work/luka-samara.ru)
-- [rus-extract.com](/work/rus-extract.com)
 - [pansionat-zabota24.ru](/work/pansionat-zabota24.ru)
 - [surdobox.ru](/work/surdobox.ru)
 - [stax-detailing.ru](/work/stax-detailing.ru)
