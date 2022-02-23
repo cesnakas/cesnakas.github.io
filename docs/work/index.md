@@ -12,7 +12,6 @@ title: Work
 - [teswel.ru](/work/teswel.ru)
 - [pansion.life](/work/pansion.life)
 - [company-okna.ru](/work/company-okna.ru)
-- [luka-samara.ru](/work/luka-samara.ru)
 - [pansionat-zabota24.ru](/work/pansionat-zabota24.ru)
 - [surdobox.ru](/work/surdobox.ru)
 - [stax-detailing.ru](/work/stax-detailing.ru)
