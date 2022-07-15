@@ -114,7 +114,8 @@ title: Work
 
 ## 2012
 
-- [zu63.ru](/work/zu63.ru)
-- [termoclick.ru](/work/termoclick.ru)
+[zu63.ru](/work/zu63.ru) | [termoclick.ru](/work/termoclick.ru)
+--- | ---
+![zu63.ru](/work/zu63.ru) | ![termoclick.ru](/work/termoclick.ru)
 
 <br/><br/><br/>
