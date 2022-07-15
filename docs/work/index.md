@@ -117,12 +117,12 @@ title: Work
 - [zu63.ru](/work/zu63.ru)
 - [termoclick.ru](/work/termoclick.ru)
 
-<div>
-  <a href="/work/zu63.ru">
-    <img width="33.3%" src="/images/work/kick.game_preview.png" alt="zu63.ru">
+<div class="row">
+  <a class="col" href="/work/zu63.ru">
+    <img src="/images/work/kick.game_preview.png" alt="zu63.ru">
   </a>
-  <a href="/work/termoclick.ru">
-    <img width="33.3%" src="/images/work/kick.game_preview.png" alt="termoclick.ru">
+  <a class="col" href="/work/termoclick.ru">
+    <img src="/images/work/kick.game_preview.png" alt="termoclick.ru">
   </a>
 </div>
 
