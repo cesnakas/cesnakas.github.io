@@ -119,16 +119,17 @@ title: Work
 
 <div class="d-flex">
   <a href="/work/zu63.ru">
-    <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="zu63.ru">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="zu63.ru">
       <title>zu63.ru</title>
-      <rect width="100%" height="100%" fill="#868e96"></rect>
+      <rect width="100%" height="100%" fill="#777"></rect>
       <text x="50%" y="50%" fill="#dee2e6" text-anchor="middle">zu63.ru</text>
     </svg>
   </a>
+  &nbsp;
   <a href="/work/termoclick.ru">
-    <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="termoclick.ru">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="termoclick.ru">
       <title>termoclick.ru</title>
-      <rect width="100%" height="100%" fill="#868e96"></rect>
+      <rect width="100%" height="100%" fill="#777"></rect>
       <text x="50%" y="50%" fill="#dee2e6" text-anchor="middle">termoclick.ru</text>
     </svg>
   </a>
