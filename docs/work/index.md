@@ -100,10 +100,21 @@ title: Work
 
 ## 2014
 
+- [kinup.ru](/work/kinup.ru)
+- [marrakesh.kinup.ru](/work/marrakesh.kinup.ru)
+- [zolotoykod.ru](/work/zolotoykod.ru)
+
+<br/>
+
 ## 2013
+
+- [zuweb.ru](/work/zuweb.ru)
+
+<br/>
 
 ## 2012
 
+- [zu63.ru](/work/zu63.ru)
 - [termoclick.ru](/work/termoclick.ru)
 
-<br><br><br>
+<br/><br/><br/>
