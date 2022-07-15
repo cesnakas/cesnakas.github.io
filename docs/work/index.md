@@ -130,6 +130,12 @@ title: Work
       <figcaption>termoclick.ru</figcaption>
     </figure>
   </a>
+  <a href="/work/zu63.ru">
+    <figure>
+      <img src="/images/work/kick.game_preview.png" alt="zu63.ru">
+      <figcaption>zu63.ru</figcaption>
+    </figure>
+  </a>
 </div>
 
 <br/><br/><br/>
