@@ -120,7 +120,12 @@ title: Work
 <div class="d-flex">
   <a href="/work/zu63.ru">
     <figure>
-      <img src="/images/work/kick.game_preview.png" alt="zu63.ru">
+      <!-- <img src="/images/work/kick.game_preview.png" alt="zu63.ru"> -->
+      <svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="zu63.ru">
+        <title>zu63.ru</title>
+        <rect width="100%" height="100%" fill="#868e96"></rect>
+        <text x="50%" y="50%" fill="#dee2e6" text-anchor="middle">zu63.ru</text>
+      </svg>
       <figcaption>zu63.ru</figcaption>
     </figure>
   </a>
