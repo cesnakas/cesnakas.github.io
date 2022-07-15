@@ -114,8 +114,8 @@ title: Work
 
 ## 2012
 
-- [zu63.ru](/work/zu63.ru)
-- [termoclick.ru](/work/termoclick.ru)
+<!-- - [zu63.ru](/work/zu63.ru) -->
+<!-- - [termoclick.ru](/work/termoclick.ru) -->
 
 <div class="d-flex">
   <a href="/work/zu63.ru">
@@ -128,12 +128,6 @@ title: Work
     <figure>
       <img src="/images/work/kick.game_preview.png" alt="termoclick.ru">
       <figcaption>termoclick.ru</figcaption>
-    </figure>
-  </a>
-  <a href="/work/zu63.ru">
-    <figure>
-      <img src="/images/work/kick.game_preview.png" alt="zu63.ru">
-      <figcaption>zu63.ru</figcaption>
     </figure>
   </a>
 </div>
