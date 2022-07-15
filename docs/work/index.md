@@ -117,8 +117,13 @@ title: Work
 - [zu63.ru](/work/zu63.ru)
 - [termoclick.ru](/work/termoclick.ru)
 
-[zu63.ru](/work/zu63.ru) | [termoclick.ru](/work/termoclick.ru) | &nbsp;
+[zu63.ru](/work/zu63.ru) | [termoclick.ru](/work/termoclick.ru) | &nbsp;&nbsp;&nbsp;
 --- | --- | ---
-![zu63.ru](/images/work/kick.game_preview.png) | ![termoclick.ru](/images/work/kick.game_preview.png) | &nbsp;
+![zu63.ru](/images/work/kick.game_preview.png) | ![termoclick.ru](/images/work/kick.game_preview.png) | &nbsp;&nbsp;&nbsp;
+
+<div>
+  <div><img width="33.98%" src="/images/work/kick.game_preview.png" alt="zu63.ru"></div>
+  <div><img width="33.98%" src="/images/work/kick.game_preview.png" alt="termoclick.ru"></div>
+</div>
 
 <br/><br/><br/>
