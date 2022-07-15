@@ -118,17 +118,17 @@ title: Work
 - [termoclick.ru](/work/termoclick.ru)
 
 <div class="d-flex">
-  <a class="" href="/work/zu63.ru">
+  <a href="/work/zu63.ru">
     <figure>
       <img src="/images/work/kick.game_preview.png" alt="zu63.ru">
-      <figcaption>zu63.ru<figcaption>
+      <figcaption>zu63.ru</figcaption>
     </figure>
   </a>
-  <a class="" href="/work/termoclick.ru">
+  <a href="/work/termoclick.ru">
     <figure>
       <img src="/images/work/kick.game_preview.png" alt="termoclick.ru">
-      <figcaption>termoclick.ru<figcaption>
-    <figure>
+      <figcaption>termoclick.ru</figcaption>
+    </figure>
   </a>
 </div>
 
