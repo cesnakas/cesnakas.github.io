@@ -123,11 +123,11 @@ title: Work
 
 <div>
   <a align="center" href="/work/zu63.ru">
+    <small>zu63.ru</small>
     <img width="33.3%" src="/images/work/kick.game_preview.png" alt="zu63.ru">
-    <p>zu63.ru</p>
   </a>
   <a align="center" href="/work/termoclick.ru">
-    <p>termoclick.ru</p>
+    <small>termoclick.ru</small>
     <img width="33.3%" src="/images/work/kick.game_preview.png" alt="termoclick.ru">
   </a>
 </div>
