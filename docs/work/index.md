@@ -85,14 +85,14 @@ title: Work
 - [tp.info-pro.ru](/work/tp.info-pro.ru)
 - [info-pro.ru](/work/info-pro.ru)
 
-<br>
+<br/>
 
 ## 2017
 
 - [one-fit.ru](/work/one-fit.ru)
 - [samkarniz.ru](/work/samkarniz.ru)
 
-<br>
+<br/>
 
 ## 2016
 
@@ -114,8 +114,7 @@ title: Work
 
 ## 2012
 
-[zu63.ru](/work/zu63.ru) | [termoclick.ru](/work/termoclick.ru)
---- | ---
-![zu63.ru](/work/zu63.ru) | ![termoclick.ru](/work/termoclick.ru)
+- [zu63.ru](/work/zu63.ru)
+- [termoclick.ru](/work/termoclick.ru)
 
 <br/><br/><br/>
