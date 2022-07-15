@@ -1,6 +1,6 @@
 ---
 title: "Sergei Česnakas"
-description: "Front-end Web Developer"
+description: "Web Developer"
 ---
 
 # [Sergei Česnakas](/)
@@ -9,15 +9,15 @@ description: "Front-end Web Developer"
 
 ### Web Developer
 
-— Web developer\
 — Front-end developer\
-— Team Lead / CTO
+— Back-end developer\
+— Fullstack developer
 
 `HTML/HTML5` `CSS/CSS3` `JavaScript` `jQuery` `TypeScript` `Node.js` `Git` `React` `Webpack` `Vue.js` `Webpack`
 
 `AJAX` `Nuxt.js` `Bootstrap` `Gulp` `PHP` `BEM`
 
-`Scrum` `Agile` `Jira`
+`Bitrix` `WordPress` `OpenCart` `Laravel`
 
 <br>
 
