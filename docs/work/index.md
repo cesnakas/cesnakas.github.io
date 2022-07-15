@@ -122,8 +122,14 @@ title: Work
 ![zu63.ru](/images/work/kick.game_preview.png) | ![termoclick.ru](/images/work/kick.game_preview.png) | &nbsp;&nbsp;&nbsp;
 
 <div>
-  <div><img width="33.98%" src="/images/work/kick.game_preview.png" alt="zu63.ru"></div>
-  <div><img width="33.98%" src="/images/work/kick.game_preview.png" alt="termoclick.ru"></div>
+  <a href="/work/zu63.ru">
+    <img width="33.3%" src="/images/work/kick.game_preview.png" alt="zu63.ru">
+    <p>zu63.ru</p>
+  </a>
+  <a href=/work/termoclick.ru>
+    <p>termoclick.ru</p>
+    <img width="33.3%" src="/images/work/kick.game_preview.png" alt="termoclick.ru">
+  </a>
 </div>
 
 <br/><br/><br/>
