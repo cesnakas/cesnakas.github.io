@@ -80,17 +80,73 @@ title: Work
 
 ## 2018
 
+<!--
 - [lk.energo-vympel.ru](/work/lk.energo-vympel.ru)
 - [samara-soft.ru](/work/samara-soft.ru)
 - [tp.info-pro.ru](/work/tp.info-pro.ru)
 - [info-pro.ru](/work/info-pro.ru)
+-->
+
+<div class="d-flex">
+  <a href="/work/lk.energo-vympel.ru">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="lk.energo-vympel.ru">
+      <title>lk.energo-vympel.ru</title>
+      <rect width="100%" height="100%" fill="#777"></rect>
+      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">lk.energo-vympel.ru</text>
+    </svg>
+  </a>
+  &nbsp;
+  <a href="/work/samara-soft.ru">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="samara-soft.ru">
+      <title>samara-soft.ru</title>
+      <rect width="100%" height="100%" fill="#777"></rect>
+      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">samara-soft.ru</text>
+    </svg>
+  </a>
+  &nbsp;
+  <a href="/work/tp.info-pro.ru">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="tp.info-pro.ru">
+      <title>tp.info-pro.ru</title>
+      <rect width="100%" height="100%" fill="#777"></rect>
+      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">tp.info-pro.ru</text>
+    </svg>
+  </a>
+  &nbsp;
+  <a href="/work/info-pro.ru">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="info-pro.ru">
+      <title>info-pro.ru</title>
+      <rect width="100%" height="100%" fill="#777"></rect>
+      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">info-pro.ru</text>
+    </svg>
+  </a>
+</div>
 
 <br/>
 
 ## 2017
 
+<!--
 - [one-fit.ru](/work/one-fit.ru)
 - [samkarniz.ru](/work/samkarniz.ru)
+-->
+
+<div class="d-flex">
+  <a href="/work/one-fit.ru">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="one-fit.ru">
+      <title>one-fit.ru</title>
+      <rect width="100%" height="100%" fill="#777"></rect>
+      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">one-fit.ru</text>
+    </svg>
+  </a>
+  &nbsp;
+  <a href="/work/kinup.ru">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="samkarniz.ru">
+      <title>samkarniz.ru</title>
+      <rect width="100%" height="100%" fill="#777"></rect>
+      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">samkarniz.ru</text>
+    </svg>
+  </a>
+</div>
 
 <br/>
 
