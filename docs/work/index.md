@@ -111,7 +111,8 @@ title: Work
       <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">tp.info-pro.ru</text>
     </svg>
   </a>
-  &nbsp;
+</div>
+<div class="d-flex">
   <a href="/work/info-pro.ru">
     <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="info-pro.ru">
       <title>info-pro.ru</title>
