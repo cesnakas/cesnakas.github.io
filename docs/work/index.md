@@ -108,7 +108,17 @@ title: Work
 
 ## 2013
 
-- [zuweb.ru](/work/zuweb.ru)
+<!-- - [zuweb.ru](/work/zuweb.ru) -->
+
+<div class="d-flex">
+  <a href="/work/zuweb.ru">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="zuweb.ru">
+      <title>zu63.ru</title>
+      <rect width="100%" height="100%" fill="#777"></rect>
+      <text x="50%" y="50%" fill="#dee2e6" dy=".25" text-anchor="middle">zuweb.ru</text>
+    </svg>
+  </a>
+</div>
 
 <br/>
 
