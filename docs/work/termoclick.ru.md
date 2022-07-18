@@ -15,7 +15,7 @@ description: termoclick.ru
   <text x="50%" y="50%" fill="#f8f9fa" dy=".5em" text-anchor="middle">termoclick.ru</text>
 </svg>
 
-<sup>13.08.2012</sup>
+<!-- <sup>13.08.2012</sup> -->
 
 <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="25vh" role="img" aria-label="termoclick.ru">
   <title>termoclick.ru</title>
