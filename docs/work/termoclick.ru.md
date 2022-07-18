@@ -47,4 +47,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
-<sup>13.08.2012</sup>
+<sup class="d-block">Sergei Česnakas</sup>
+<sup class="d-block text-right">13.08.2012</sup>
