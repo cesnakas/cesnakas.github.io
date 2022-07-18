@@ -15,5 +15,13 @@ description: termoclick.ru
   <text x="50%" y="50%" fill="#f0f0f0" dy=".5em" text-anchor="middle">TermoClick.ru</text>
 </svg>
 
-### Technologies
+<sup>13.08.2012</sup>
 
+<br/>
+
+### Technologies
+---
+
+`HTML`, `CSS`, `JavaScript`, `JQuery`, `PHP`, `MySQL`, `OpenCart`
+
+<br/>
