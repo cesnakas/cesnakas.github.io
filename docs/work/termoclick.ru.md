@@ -20,7 +20,6 @@ description: termoclick.ru
 <br/>
 
 ### Technologies
----
 
 `HTML`, `CSS`, `JavaScript`, `JQuery`, `PHP`, `MySQL`, `OpenCart`
 
