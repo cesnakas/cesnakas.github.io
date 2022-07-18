@@ -11,8 +11,8 @@ description: termoclick.ru
 
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="55vh" role="img" aria-label="termoclick.ru">
   <title>termoclick.ru</title>
-  <rect width="100%" height="100%" rx="25" ry="25" fill="#495057"></rect>
-  <text x="50%" y="50%" fill="#f0f0f0" dy=".5em" text-anchor="middle">termoclick.ru</text>
+  <rect width="100%" height="100%" rx="8" ry="8" fill="#495057"></rect>
+  <text x="50%" y="50%" fill="#f8f9fa" dy=".5em" text-anchor="middle">termoclick.ru</text>
 </svg>
 
 <sup>13.08.2012</sup>
