@@ -195,7 +195,7 @@ title: Work
 
 <!-- - [zuweb.ru](/work/zuweb.ru) -->
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="zuweb.ru">
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="zuweb.ru">
   <a xlink:href="/work/zuweb.ru">
     <title>zuweb.ru</title>
     <rect width="100%" height="100%" rx="8" ry="8" fill="#495057"></rect>
