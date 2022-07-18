@@ -195,15 +195,13 @@ title: Work
 
 <!-- - [zuweb.ru](/work/zuweb.ru) -->
 
-<div class="d-flex">
-  <a href="/work/zuweb.ru">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="zuweb.ru">
-      <title>zuweb.ru</title>
-      <rect width="100%" height="100%" fill="#777"></rect>
-      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">zuweb.ru</text>
-    </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="zuweb.ru">
+  <a xlink:href="/work/zuweb.ru">
+    <title>zuweb.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#495057"></rect>
+    <text x="50%" y="50%" fill="#f8f9fa" dy=".5em" text-anchor="middle">zuweb.ru</text>
   </a>
-</div>
+</svg>
 
 <br/>
 
@@ -216,14 +214,14 @@ title: Work
   <a xlink:href="/work/zu63.ru">
     <title>zu63.ru</title>
     <rect width="100%" height="100%" rx="8" ry="8" fill="#495057"></rect>
-    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">zu63.ru</text>
+    <text x="50%" y="50%" fill="#f8f9fa" dy=".5em" text-anchor="middle">zu63.ru</text>
   </a>
 </svg>
 <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="termoclick.ru">
   <a xlink:href="/work/termoclick.ru">
     <title>termoclick.ru</title>
     <rect width="100%" height="100%" rx="8" ry="8" fill="#495057"></rect>
-    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">termoclick.ru</text>
+    <text x="50%" y="50%" fill="#f8f9fa" dy=".5em" text-anchor="middle">termoclick.ru</text>
   </a>
 </svg>
 
