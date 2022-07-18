@@ -48,5 +48,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 
 <sup>13.08.2012</sup>
-
-<br/><br/><br/>

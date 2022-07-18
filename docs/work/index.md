@@ -212,17 +212,16 @@ title: Work
 <!-- - [zu63.ru](/work/zu63.ru) -->
 <!-- - [termoclick.ru](/work/termoclick.ru) -->
 
-<div class="d-flex">
+<div class="--d-flex">
   <a href="/work/zu63.ru">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="zu63.ru">
+    <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="zu63.ru">
       <title>zu63.ru</title>
       <rect width="100%" height="100%" fill="#777"></rect>
       <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">zu63.ru</text>
     </svg>
   </a>
-  &nbsp;
   <a href="/work/termoclick.ru">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="termoclick.ru">
+    <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="termoclick.ru">
       <title>termoclick.ru</title>
       <rect width="100%" height="100%" rx="8" ry="8" fill="#495057"></rect>
       <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">termoclick.ru</text>
