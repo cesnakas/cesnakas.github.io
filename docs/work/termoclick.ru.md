@@ -3,7 +3,7 @@ title: termoclick.ru
 description: termoclick.ru
 ---
 
-[← back](/work/)
+[← back](/work/#2012)
 
 <br/>
 

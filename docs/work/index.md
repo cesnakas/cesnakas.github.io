@@ -193,8 +193,6 @@ title: Work
 
 ## 2013
 
-<!-- - [zuweb.ru](/work/zuweb.ru) -->
-
 <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="zuweb.ru">
   <a xlink:href="/work/zuweb.ru">
     <title>zuweb.ru</title>
@@ -206,9 +204,6 @@ title: Work
 <br/>
 
 ## 2012
-
-<!-- - [zu63.ru](/work/zu63.ru) -->
-<!-- - [termoclick.ru](/work/termoclick.ru) -->
 
 <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="zu63.ru">
   <a xlink:href="/work/zu63.ru">
