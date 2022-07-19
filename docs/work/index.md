@@ -87,40 +87,36 @@ title: Work
 - [info-pro.ru](/work/info-pro.ru)
 -->
 
-<div class="d-flex">
-  <a href="/work/lk.energo-vympel.ru">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="lk.energo-vympel.ru">
-      <title>lk.energo-vympel.ru</title>
-      <rect width="100%" height="100%" fill="#777"></rect>
-      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">lk.energo-vympel.ru</text>
-    </svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="lk.energo-vympel.ru">
+  <a xlink:href="/work/lk.energo-vympel.ru">
+    <title>lk.energo-vympel.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">lk.energo-vympel.ru</text>
   </a>
-  &nbsp;
-  <a href="/work/samara-soft.ru">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="samara-soft.ru">
-      <title>samara-soft.ru</title>
-      <rect width="100%" height="100%" fill="#777"></rect>
-      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">samara-soft.ru</text>
-    </svg>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="samara-soft.ru">
+  <a xlink:href="/work/samara-soft.ru">
+    <title>samara-soft.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">samara-soft.ru</text>
   </a>
-  &nbsp;
-  <a href="/work/tp.info-pro.ru">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="tp.info-pro.ru">
-      <title>tp.info-pro.ru</title>
-      <rect width="100%" height="100%" fill="#777"></rect>
-      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">tp.info-pro.ru</text>
-    </svg>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="tp.info-pro.ru">
+  <a xlink:href="/work/tp.info-pro.ru">
+    <title>tp.info-pro.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">tp.info-pro.ru</text>
   </a>
-</div>
-<div class="d-flex">
-  <a href="/work/info-pro.ru">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="info-pro.ru">
-      <title>info-pro.ru</title>
-      <rect width="100%" height="100%" fill="#777"></rect>
-      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">info-pro.ru</text>
-    </svg>
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="info-pro.ru">
+  <a xlink:href="/work/info-pro.ru">
+    <title>info-pro.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">info-pro.ru</text>
   </a>
-</div>
+</svg>
 
 <br/>
 
