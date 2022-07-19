@@ -163,24 +163,24 @@ title: Work
 - [zolotoykod.ru](/work/zolotoykod.ru)
 -->
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="kinup.ru">
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="kinup.ru">
   <a xlink:href="/work/kinup.ru">
     <title>kinup.ru</title>
-    <rect width="33%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
     <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">kinup.ru</text>
   </a>
 </svg>
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="marrakesh.kinup.ru">
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="marrakesh.kinup.ru">
   <a xlink:href="/work/marrakesh.kinup.ru">
     <title>marrakesh.kinup.ru</title>
-    <rect width="33%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
     <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">marrakesh.kinup.ru</text>
   </a>
 </svg>
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="zolotoykod.ru">
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="zolotoykod.ru">
   <a xlink:href="/work/zolotoykod.ru">
     <title>zolotoykod.ru</title>
-    <rect width="33%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
     <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">zolotoykod.ru</text>
   </a>
 </svg>
