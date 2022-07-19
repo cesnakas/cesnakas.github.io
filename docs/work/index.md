@@ -2,7 +2,7 @@
 title: Work
 ---
 
-<br>
+<br/>
 
 ## 2022
 
@@ -21,7 +21,7 @@ title: Work
 - [ckbran.ru](/work/ckbran.ru)
 - [wgs-gcvep.ru](/work/wgs-gcvep.ru)
 
-<br>
+<br/>
 
 ## 2021
 
@@ -56,27 +56,111 @@ title: Work
 - [elevel.ru](/work/elevel.ru)
 - [gidratop.ru](/work/gidratop.ru)
 
-<br>
+<!-- <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="">
+  <a xlink:href="/work/">
+    <title></title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle"></text>
+  </a>
+</svg> -->
+
+<br/>
 
 ## 2020
 
+<!--
 - [relaxa.ru](/work/relaxa.ru)
 - [iondom.ru](/work/iondom.ru)
 - [avionagro.ru](/work/avionagro.ru)
 - [woldom.ru](/work/woldom.ru)
 - [dentoptics.digital](/work/dentoptics.digital)
 - [malinkacapital.com](/work/malinkacapital.com)
+-->
 
-<br>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="relaxa.ru">
+  <a xlink:href="/work/relaxa.ru">
+    <title>relaxa.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">relaxa.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="iondom.ru">
+  <a xlink:href="/work/iondom.ru">
+    <title>iondom.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">iondom.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="avionagro.ru">
+  <a xlink:href="/work/avionagro.ru">
+    <title>avionagro.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">avionagro.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="woldom.ru">
+  <a xlink:href="/work/woldom.ru">
+    <title>woldom.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">woldom.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="dentoptics.digital">
+  <a xlink:href="/work/dentoptics.digital">
+    <title>dentoptics.digital</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">dentoptics.digital</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="malinkacapital.com">
+  <a xlink:href="/work/malinkacapital.com">
+    <title>malinkacapital.com</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">malinkacapital.com</text>
+  </a>
+</svg>
+
+<br/>
 
 ## 2019
 
+<!--
 - [dialogdent.ru](/work/dialogdent.ru)
 - [samara.dental](/work/samara.dental)
 - [storedent.ru](/work/storedent.ru)
 - [ascondicioner.ru](/work/ascondicioner.ru)
+-->
 
-<br>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="dialogdent.ru">
+  <a xlink:href="/work/dialogdent.ru">
+    <title>dialogdent.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">dialogdent.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="samara.dental">
+  <a xlink:href="/work/samara.dental">
+    <title>samara.dental</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">samara.dental</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="storedent.ru">
+  <a xlink:href="/work/storedent.ru">
+    <title>storedent.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">storedent.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="ascondicioner.ru">
+  <a xlink:href="/work/ascondicioner.ru">
+    <title>ascondicioner.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">ascondicioner.ru</text>
+  </a>
+</svg>
+
+<br/>
 
 ## 2018
 
@@ -86,7 +170,6 @@ title: Work
 - [tp.info-pro.ru](/work/tp.info-pro.ru)
 - [info-pro.ru](/work/info-pro.ru)
 -->
-
 
 <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="lk.energo-vympel.ru">
   <a xlink:href="/work/lk.energo-vympel.ru">
@@ -109,7 +192,6 @@ title: Work
     <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">tp.info-pro.ru</text>
   </a>
 </svg>
-
 <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="info-pro.ru">
   <a xlink:href="/work/info-pro.ru">
     <title>info-pro.ru</title>
