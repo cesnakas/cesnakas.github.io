@@ -163,31 +163,27 @@ title: Work
 - [zolotoykod.ru](/work/zolotoykod.ru)
 -->
 
-<div class="d-flex">
-  <a href="/work/kinup.ru">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="kinup.ru">
-      <title>kinup.ru</title>
-      <rect width="100%" height="100%" fill="#777"></rect>
-      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">kinup.ru</text>
-    </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="kinup.ru">
+  <a xlink:href="/work/kinup.ru">
+    <title>kinup.ru</title>
+    <rect width="33%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">kinup.ru</text>
   </a>
-  &nbsp;
-  <a href="/work/marrakesh.kinup.ru">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="marrakesh.kinup.ru">
-      <title>marrakesh.kinup.ru</title>
-      <rect width="100%" height="100%" fill="#777"></rect>
-      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">marrakesh.kinup.ru</text>
-    </svg>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="marrakesh.kinup.ru">
+  <a xlink:href="/work/marrakesh.kinup.ru">
+    <title>marrakesh.kinup.ru</title>
+    <rect width="33%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">marrakesh.kinup.ru</text>
   </a>
-  &nbsp;
-  <a href="/work/zolotoykod.ru">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="zolotoykod.ru">
-      <title>zolotoykod.ru</title>
-      <rect width="100%" height="100%" fill="#777"></rect>
-      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">zolotoykod.ru</text>
-    </svg>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="zolotoykod.ru">
+  <a xlink:href="/work/zolotoykod.ru">
+    <title>zolotoykod.ru</title>
+    <rect width="33%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">zolotoykod.ru</text>
   </a>
-</div>
+</svg>
 
 <br/>
 
