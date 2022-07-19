@@ -1,5 +1,6 @@
 ---
 title: Work
+description: Work
 ---
 
 <br/>
@@ -209,23 +210,20 @@ title: Work
 - [samkarniz.ru](/work/samkarniz.ru)
 -->
 
-<div class="d-flex">
-  <a href="/work/one-fit.ru">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="one-fit.ru">
-      <title>one-fit.ru</title>
-      <rect width="100%" height="100%" fill="#777"></rect>
-      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">one-fit.ru</text>
-    </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="one-fit.ru">
+  <a xlink:href="/work/one-fit.ru">
+    <title>one-fit.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">one-fit.ru</text>
   </a>
-  &nbsp;
-  <a href="/work/kinup.ru">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="120" role="img" aria-label="samkarniz.ru">
-      <title>samkarniz.ru</title>
-      <rect width="100%" height="100%" fill="#777"></rect>
-      <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">samkarniz.ru</text>
-    </svg>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="samkarniz.ru">
+  <a xlink:href="/work/samkarniz.ru">
+    <title>samkarniz.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">samkarniz.ru</text>
   </a>
-</div>
+</svg>
 
 <br/>
 
@@ -299,4 +297,4 @@ title: Work
 ---
 
 <sup class="d-block">Sergei Česnakas</sup>
-<sup class="d-block text-right">...</sup>
+<sup class="d-block text-right">&nbsp;</sup>
