@@ -51,10 +51,6 @@ description: Work
 - [paoloconte.ru](/work/paoloconte.ru)
 - [b2b.gauss.ru](/work/b2b.gauss.ru)
 - [eurocran.su](/work/eurocran.su)
-- [kick.game](/work/kick.game)
-- [rgsl.ru](/work/rgsl.ru)
-- [1c-wiseadvice.ru](/work/1c-wiseadvice.ru)
-- [gsprom.ru](/work/gsprom.ru)
 
 <!-- <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="">
   <a xlink:href="/work/">
@@ -63,6 +59,35 @@ description: Work
     <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle"></text>
   </a>
 </svg> -->
+
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="kick.game">
+  <a xlink:href="/work/kick.game">
+    <title>kick.game</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">kick.game</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="rgsl.ru">
+  <a xlink:href="/work/rgsl.ru">
+    <title>rgsl.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">rgsl.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="1c-wiseadvice.ru">
+  <a xlink:href="/work/1c-wiseadvice.ru">
+    <title>1c-wiseadvice.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">1c-wiseadvice.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="gsprom.ru">
+  <a xlink:href="/work/gsprom.ru">
+    <title>gsprom.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">gsprom.ru</text>
+  </a>
+</svg>
 <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="sibirthegame.ru">
   <a xlink:href="/work/sibirthegame.ru">
     <title>sibirthegame.ru</title>
