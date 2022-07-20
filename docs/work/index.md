@@ -55,9 +55,6 @@ description: Work
 - [rgsl.ru](/work/rgsl.ru)
 - [1c-wiseadvice.ru](/work/1c-wiseadvice.ru)
 - [gsprom.ru](/work/gsprom.ru)
-- [sibirthegame.ru](/work/sibirthegame.ru)
-- [maconsulting.ru](/work/maconsulting.ru)
-- [chefbanda.ru](/work/chefbanda.ru)
 
 <!-- <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="">
   <a xlink:href="/work/">
@@ -66,6 +63,27 @@ description: Work
     <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle"></text>
   </a>
 </svg> -->
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="sibirthegame.ru">
+  <a xlink:href="/work/sibirthegame.ru">
+    <title>sibirthegame.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">sibirthegame.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="maconsulting.ru">
+  <a xlink:href="/work/maconsulting.ru">
+    <title>maconsulting.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">maconsulting.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="chefbanda.ru">
+  <a xlink:href="/work/chefbanda.ru">
+    <title>chefbanda.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">chefbanda.ru</text>
+  </a>
+</svg>
 <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="kovalev.ru">
   <a xlink:href="/work/kovalev.ru">
     <title>kovalev.ru</title>
