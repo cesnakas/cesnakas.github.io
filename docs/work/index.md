@@ -22,6 +22,14 @@ description: Work
 - [ckbran.ru](/work/ckbran.ru)
 - [wgs-gcvep.ru](/work/wgs-gcvep.ru)
 
+<!-- <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="">
+  <a xlink:href="/work/">
+    <title></title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle"></text>
+  </a>
+</svg> -->
+
 <br/>
 
 ## 2021
@@ -50,12 +58,6 @@ description: Work
 - [sibirthegame.ru](/work/sibirthegame.ru)
 - [maconsulting.ru](/work/maconsulting.ru)
 - [chefbanda.ru](/work/chefbanda.ru)
-- [kovalev.ru](/work/kovalev.ru)
-- [kupisad.ru](/work/kupisad.ru)
-- [velomirshop.ru](/work/velomirshop.ru)
-- [tdo.ru](/work/tdo.ru)
-- [elevel.ru](/work/elevel.ru)
-- [gidratop.ru](/work/gidratop.ru)
 
 <!-- <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="">
   <a xlink:href="/work/">
@@ -64,6 +66,48 @@ description: Work
     <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle"></text>
   </a>
 </svg> -->
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="kovalev.ru">
+  <a xlink:href="/work/kovalev.ru">
+    <title>kovalev.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">kovalev.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="kupisad.ru">
+  <a xlink:href="/work/kupisad.ru">
+    <title>kupisad.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">kupisad.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="velomirshop.ru">
+  <a xlink:href="/work/velomirshop.ru">
+    <title>velomirshop.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">velomirshop.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="tdo.ru">
+  <a xlink:href="/work/tdo.ru">
+    <title>tdo.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">tdo.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="elevel.ru">
+  <a xlink:href="/work/elevel.ru">
+    <title>elevel.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">elevel.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="gidratop.ru">
+  <a xlink:href="/work/gidratop.ru">
+    <title>gidratop.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">gidratop.ru</text>
+  </a>
+</svg>
 
 <br/>
 
