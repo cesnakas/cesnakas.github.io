@@ -34,30 +34,111 @@ description: Work
 
 ## 2021
 
-- [fusion-chrome.ru](/work/fusion-chrome.ru)
-- [tehnar.ru](/work/tehnar.ru)
-- [np-sp.ru](/work/np-sp.ru)
-- [mirpolovspb.ru](/work/mirpolovspb.ru)
-- [online-lowrance.ru](/work/online-lowrance.ru)
-- [fusiontech.ru](/work/fusiontech.ru)
-- [rhinodesign.ru](/work/rhinodesign.ru)
-- [novtecas.ru](/work/novtecas.ru)
-- [archdetali.ru](/work/archdetali.ru)
-- [atcgaz.ru](/work/atcgaz.ru)
-- [alphaservice24.com](/work/alphaservice24.com)
-- [keratinvolos.ru](/work/keratinvolos.ru)
-- [superpirogi.ru](/work/superpirogi.ru)
-- [moscow-klining.ru](/work/moscow-klining.ru)
-- [paoloconte.ru](/work/paoloconte.ru)
-
-<!-- <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="">
-  <a xlink:href="/work/">
-    <title></title>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="fusion-chrome.ru">
+  <a xlink:href="/work/fusion-chrome.ru">
+    <title>fusion-chrome.ru</title>
     <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
-    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle"></text>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">fusion-chrome.ru</text>
   </a>
-</svg> -->
-
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="tehnar.ru">
+  <a xlink:href="/work/tehnar.ru">
+    <title>tehnar.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">tehnar.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="np-sp.ru">
+  <a xlink:href="/work/np-sp.ru">
+    <title>np-sp.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">np-sp.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="mirpolovspb.ru">
+  <a xlink:href="/work/mirpolovspb.ru">
+    <title>mirpolovspb.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">mirpolovspb.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="online-lowrance.ru">
+  <a xlink:href="/work/online-lowrance.ru">
+    <title>online-lowrance.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">online-lowrance.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="fusiontech.ru">
+  <a xlink:href="/work/fusiontech.ru">
+    <title>fusiontech.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">fusiontech.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="rhinodesign.ru">
+  <a xlink:href="/work/rhinodesign.ru">
+    <title>rhinodesign.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">rhinodesign.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="novtecas.ru">
+  <a xlink:href="/work/novtecas.ru">
+    <title>novtecas.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">novtecas.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="archdetali.ru">
+  <a xlink:href="/work/archdetali.ru">
+    <title>archdetali.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">archdetali.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="atcgaz.ru">
+  <a xlink:href="/work/atcgaz.ru">
+    <title>atcgaz.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">atcgaz.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="alphaservice24.com">
+  <a xlink:href="/work/alphaservice24.com">
+    <title>alphaservice24.com</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">alphaservice24.com</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="keratinvolos.ru">
+  <a xlink:href="/work/keratinvolos.ru">
+    <title>keratinvolos.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">keratinvolos.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="superpirogi.ru">
+  <a xlink:href="/work/superpirogi.ru">
+    <title>superpirogi.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">superpirogi.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="moscow-klining.ru">
+  <a xlink:href="/work/moscow-klining.ru">
+    <title>moscow-klining.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">moscow-klining.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="paoloconte.ru">
+  <a xlink:href="/work/paoloconte.ru">
+    <title>paoloconte.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">paoloconte.ru</text>
+  </a>
+</svg>
 <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="b2b.gauss.ru">
   <a xlink:href="/work/b2b.gauss.ru">
     <title>b2b.gauss.ru</title>
