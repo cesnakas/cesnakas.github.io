@@ -49,8 +49,6 @@ description: Work
 - [superpirogi.ru](/work/superpirogi.ru)
 - [moscow-klining.ru](/work/moscow-klining.ru)
 - [paoloconte.ru](/work/paoloconte.ru)
-- [b2b.gauss.ru](/work/b2b.gauss.ru)
-- [eurocran.su](/work/eurocran.su)
 
 <!-- <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="">
   <a xlink:href="/work/">
@@ -60,6 +58,20 @@ description: Work
   </a>
 </svg> -->
 
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="b2b.gauss.ru">
+  <a xlink:href="/work/b2b.gauss.ru">
+    <title>b2b.gauss.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">b2b.gauss.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="eurocran.su">
+  <a xlink:href="/work/eurocran.su">
+    <title>eurocran.su</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">eurocran.su</text>
+  </a>
+</svg>
 <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="kick.game">
   <a xlink:href="/work/kick.game">
     <title>kick.game</title>
