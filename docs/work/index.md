@@ -16,9 +16,6 @@ description: Work
 - [pansionat-zabota24.ru](/work/pansionat-zabota24.ru)
 - [surdobox.ru](/work/surdobox.ru)
 - [stax-detailing.ru](/work/stax-detailing.ru)
-- [luka-samara.ru](/work/luka-samara.ru)
-- [greenbag-camp.ru](/work/greenbag-camp.ru)
-- [rus-extract.com](/work/rus-extract.com)
 
 <!-- <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="">
   <a xlink:href="/work/">
@@ -28,6 +25,27 @@ description: Work
   </a>
 </svg> -->
 
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="luka-samara.ru">
+  <a xlink:href="/work/luka-samara.ru">
+    <title>luka-samara.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">luka-samara.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="greenbag-camp.ru">
+  <a xlink:href="/work/greenbag-camp.ru">
+    <title>greenbag-camp.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">greenbag-camp.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="rus-extract.com">
+  <a xlink:href="/work/rus-extract.com">
+    <title>rus-extract.com</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">rus-extract.com</text>
+  </a>
+</svg>
 <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="ckbran.ru">
   <a xlink:href="/work/ckbran.ru">
     <title>ckbran.ru</title>
