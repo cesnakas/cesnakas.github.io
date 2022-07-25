@@ -19,8 +19,6 @@ description: Work
 - [luka-samara.ru](/work/luka-samara.ru)
 - [greenbag-camp.ru](/work/greenbag-camp.ru)
 - [rus-extract.com](/work/rus-extract.com)
-- [ckbran.ru](/work/ckbran.ru)
-- [wgs-gcvep.ru](/work/wgs-gcvep.ru)
 
 <!-- <svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="">
   <a xlink:href="/work/">
@@ -29,6 +27,21 @@ description: Work
     <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle"></text>
   </a>
 </svg> -->
+
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="ckbran.ru">
+  <a xlink:href="/work/ckbran.ru">
+    <title>ckbran.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">ckbran.ru</text>
+  </a>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="33%" height="120" role="img" aria-label="wgs-gcvep.ru">
+  <a xlink:href="/work/wgs-gcvep.ru">
+    <title>wgs-gcvep.ru</title>
+    <rect width="100%" height="100%" rx="8" ry="8" fill="#777"></rect>
+    <text x="50%" y="50%" fill="#dee2e6" dy=".5em" text-anchor="middle">wgs-gcvep.ru</text>
+  </a>
+</svg>
 
 <br/>
 
