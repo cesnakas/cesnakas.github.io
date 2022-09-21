@@ -1,4 +1,4 @@
 title: Sergei Česnakas
 baseurl: "/"
-theme: "jekyll-theme-minimal-resume"
+remote_theme: crispgm/resume
 color: gray
