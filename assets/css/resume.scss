@@ -8,8 +8,7 @@
 
 $breakpoint: 48rem;
 
-// $background-color: #fff;
-$background-color: #2e3440;
+$background-color: #fff;
 
 {% case site.color %}
 {% when 'red' %}
@@ -51,9 +50,13 @@ $secondary-color:  #fd7e14;
 {% when 'gray' %}
 $main-color:       #495057;
 $secondary-color:  #adb5bd;
+{% when 'snow' %}
+$main-color:       #D8DEE9;
+$secondary-color:  #81A1C1;
 {% when 'nord' %}
 $main-color:       #4C566A;
 $secondary-color:  #81A1C1;
+$background-color: #2E3440;
 {% else %}
 $main-color:       #495057;
 $secondary-color:  #adb5bd;
