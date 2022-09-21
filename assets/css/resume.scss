@@ -8,7 +8,8 @@
 
 $breakpoint: 48rem;
 
-$background-color: #fff;
+// $background-color: #fff;
+$background-color: #2e3440;
 
 {% case site.color %}
 {% when 'red' %}
