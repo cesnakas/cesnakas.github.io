@@ -130,18 +130,12 @@ layout: default
         <div class="section-title">
             Certificates
         </div>
-        <div class="section-content section-flex">
+        <div class="section-content">
             {% for certificate in site.data.resume.certificates %}
             <div class="block">
-                <div class="block-title">
-                {{ certificate.title }}
-                </div>
-                <div class="block-subtitle">
-                {{ certificate.date }} | {{ certificate.link }}
-                </div>
-                <div class="block-content">
-                {{ certificate.description }}
-                </div>
+                <div class="block-title">{{ certificate.title }}</div>
+                <div class="block-subtitle">{{ certificate.date }} | <a href="{{ certificate.link }}" target="_blank">{{ certificate.text }}</a></div>
+                <div class="block-content">{{ certificate.description }}</div>
             </div>
             {% endfor %}
         </div>
