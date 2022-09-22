@@ -5,7 +5,7 @@ layout: default
 <main role="main">
 
     <section id="skills">
-        <div class="section-title">Skills</div>
+        <div class="section-title" role="heading" aria-level="2">Skills</div>
         <div class="section-content">
             {% for skill in site.data.resume.skills %}
             <div class="block">
@@ -17,7 +17,7 @@ layout: default
     </section>
 
     <section id="experience">
-        <div class="section-title">Experience</div>
+        <div class="section-title" role="heading" aria-level="2">Experience</div>
         <div class="section-content">
             {% for exp in site.data.resume.experience %}
             <div class="block">
@@ -30,7 +30,7 @@ layout: default
     </section>
 
     <section id="projects">
-        <div class="section-title">Projects</div>
+        <div class="section-title" role="heading" aria-level="2">Projects</div>
         <div class="section-content">
             {% for project in site.data.resume.projects %}
             <div class="block">
@@ -43,12 +43,12 @@ layout: default
     </section>
 
     <section id="certificates">
-        <div class="section-title">Certificates</div>
+        <div class="section-title" role="heading" aria-level="2">Certificates</div>
         <div class="section-content">
             {% for certificate in site.data.resume.certificates %}
             <div class="block">
                 <div class="block-title">
-                    <a href="{{ certificate.link }}" target="_blank">
+                    <a href="{{ certificate.link }}" target="_blank" role="link">
                         {{ certificate.title }}<i class="fa fa-external-link" aria-hidden="true"></i>
                     </a>
                 </div>
@@ -59,7 +59,7 @@ layout: default
     </section>
 
     <section id="education">
-        <div class="section-title">Education</div>
+        <div class="section-title" role="heading" aria-level="2">Education</div>
         <div class="section-content">
             {% for edu in site.data.resume.education %}
             <div class="block">
@@ -72,7 +72,7 @@ layout: default
     </section>
 
     <section id="languages">
-        <div class="section-title">Languages</div>
+        <div class="section-title" role="heading" aria-level="2">Languages</div>
         <div class="section-content section-flex">
             {% for language in site.data.resume.languages %}
             <div class="block block-square">
