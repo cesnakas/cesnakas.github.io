@@ -46,6 +46,13 @@ projects:
   - name: 2012 — 2014
     contribution: Beginning of career
     description: zuweb.ru, zu63.ru, termoclick.ru
+certificates:
+  - title: Продвижение сайта и Маркетинг
+    link: https://dev.1c-bitrix.ru/certificates/learning.php?course=139
+    date: June 2022
+  - title: 0
+    link: 0
+    date: 0
 languages:
   - name: Russian
     proficiency: Native
@@ -55,7 +62,3 @@ languages:
     proficiency: Basics
   - name: Spanish
     proficiency: Basics
-certificates:
-  - title: Bitrix cert
-    date: Apr 2013
-    link: https://1c-bitrix.ru
