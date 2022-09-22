@@ -56,7 +56,8 @@ languages:
   - name: Spanish
     proficiency: Basics
 certificates:
-  - title: 11
-    date: 01.02.25
+  - title: Bitrix cert
+    date: Apr 2013
     link: https://1c-bitrix.ru
-    description: Example
+    text: bitrix
+    description: Example text
