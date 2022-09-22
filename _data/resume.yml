@@ -1,4 +1,4 @@
-title: Sergei Česnakas | Resume
+title: Sergei Česnakas
 name: Sergei Česnakas
 jobtitle: Senior Software Engineer
 contact:
@@ -55,3 +55,6 @@ languages:
     proficiency: Basics
   - name: Spanish
     proficiency: Basics
+certificates:
+  - title: 11
+  - link: https://1c-bitrix.ru
