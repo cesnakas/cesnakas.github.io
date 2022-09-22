@@ -57,4 +57,6 @@ languages:
     proficiency: Basics
 certificates:
   - title: 11
-  - link: https://1c-bitrix.ru
+    date: 01.02.25
+    link: https://1c-bitrix.ru
+    description: Example
