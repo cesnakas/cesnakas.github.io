@@ -49,10 +49,13 @@ projects:
 certificates:
   - title: Продвижение сайта и Маркетинг
     link: https://dev.1c-bitrix.ru/certificates/learning.php?course=139
-    date: June 2022
+    date: Jun 2022
   - title: Figma. Начальный уровень
     link: https://gb.ru/certificates/1406861.pdf
-    date: Sept 2021
+    date: Sep 2021
+  - title: Html/css. Интерактивный курс
+    link: https://gb.ru/certificates/1406914.pdf
+    date: Sep 2021
 languages:
   - name: Russian
     proficiency: Native
