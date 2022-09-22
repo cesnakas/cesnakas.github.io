@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<div class="container">
-
-    <header>
+<header>
         <div class="name-wrapper">
             <div id="fullname" class="title">
                 <a href="/">{{ site.data.resume.name }}</a>
@@ -28,7 +26,7 @@ layout: default
         </div>
     </header>
 
-    <section id="skills">
+<section id="skills">
         <div class="section-title">
             Skills
         </div>
@@ -46,7 +44,7 @@ layout: default
         </div>
     </section>
 
-    <section id="experience">
+<section id="experience">
         <div class="section-title">
             Experience
         </div>
@@ -67,7 +65,7 @@ layout: default
         </div>
     </section>
 
-    <section id="projects">
+<section id="projects">
         <div class="section-title">
             Projects
         </div>
@@ -88,57 +86,57 @@ layout: default
         </div>
     </section>
 
-    <section id="certificates">
-        <div class="section-title">
-            Certificates
-        </div>
-        <div class="section-content">
-            {% for certificate in site.data.resume.certificates %}
-            <div class="block">
-                <div class="block-title">
-                    <a href="{{ certificate.link }}" target="_blank">{{ certificate.title }}</a>
-                </div>
-                <div class="block-subtitle">{{ certificate.date }}</div>
+<section id="certificates">
+    <div class="section-title">
+        Certificates
+    </div>
+    <div class="section-content">
+        {% for certificate in site.data.resume.certificates %}
+        <div class="block">
+            <div class="block-title">
+                <a href="{{ certificate.link }}" target="_blank">{{ certificate.title }}</a>
             </div>
-            {% endfor %}
+            <div class="block-subtitle">{{ certificate.date }}</div>
         </div>
-    </section>
+        {% endfor %}
+    </div>
+</section>
 
-    <section id="education">
-        <div class="section-title">
-            Education
-        </div>
-        <div class="section-content">
-            {% for edu in site.data.resume.education %}
-            <div class="block">
-                <div class="block-title">
-                    {{ edu.university }}
-                </div>
-                <div class="block-subtitle">
-                    {{ edu.duration }} | {{ edu.location }}
-                </div>
-                <div class="block-content">
-                    {{ edu.major }}
-                </div>
+<section id="education">
+    <div class="section-title">
+        Education
+    </div>
+    <div class="section-content">
+        {% for edu in site.data.resume.education %}
+        <div class="block">
+            <div class="block-title">
+                {{ edu.university }}
             </div>
-            {% endfor %}
+            <div class="block-subtitle">
+                {{ edu.duration }} | {{ edu.location }}
+            </div>
+            <div class="block-content">
+                {{ edu.major }}
+            </div>
         </div>
-    </section>
+        {% endfor %}
+    </div>
+</section>
 
-    <section id="languages">
-        <div class="section-title">
-            Languages
-        </div>
-        <div class="section-content section-flex">
-            {% for language in site.data.resume.languages %}
-            <div class="block block-square">
-                <div class="block-title">
-                    {{ language.name }}
-                </div>
-                <div class="block-content">
-                    {{ language.proficiency }}
-                </div>
+<section id="languages">
+    <div class="section-title">
+        Languages
+    </div>
+    <div class="section-content section-flex">
+        {% for language in site.data.resume.languages %}
+        <div class="block block-square">
+            <div class="block-title">
+                {{ language.name }}
             </div>
-            {% endfor %}
+            <div class="block-content">
+                {{ language.proficiency }}
+            </div>
         </div>
-    </section>
+        {% endfor %}
+    </div>
+</section>
