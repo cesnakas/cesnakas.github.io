@@ -1,1 +1,23 @@
 <div class="container">
+
+    <header>
+        <div class="name-wrapper">
+            <div id="fullname" class="title">
+                <a href="/">{{ site.data.resume.name }}</a>
+            </div>
+            <div id="jobtitle" class="sub-title">{{ site.data.resume.jobtitle }}</div>
+        </div>
+        <div id="contact" class="contact">
+            {% for item in site.data.resume.contact %}
+            <div class="contact-item">
+                {% if item.link %}
+                <a href="{{ item.link }}" target="_blank">
+                {% endif %}
+                <i class="fa {{ item.icon }}" aria-hidden="true"></i> {{ item.text }}
+                {% if item.link %}
+                </a>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+    </header>
