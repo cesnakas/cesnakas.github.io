@@ -48,8 +48,10 @@ layout: default
             {% for certificate in site.data.resume.certificates %}
             <div class="block">
                 <div class="block-title">
-                    <a href="{{ certificate.link }}" target="_blank">{{ certificate.title }}</a>
-                    <i class="fa fa-external-link" aria-hidden="true"></i>
+                    <a href="{{ certificate.link }}" target="_blank">
+                        {{ certificate.title }}
+                        <i class="fa fa-external-link" aria-hidden="true"></i>
+                    </a>
                 </div>
                 <div class="block-subtitle">{{ certificate.date }}</div>
             </div>
