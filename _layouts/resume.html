@@ -128,16 +128,19 @@ layout: default
     
     <section id="certificates">
         <div class="section-title">
-            Languages
+            Certificates
         </div>
         <div class="section-content section-flex">
             {% for certificate in site.data.resume.certificates %}
-            <div class="block block-square">
+            <div class="block">
                 <div class="block-title">
-                {{ certificates.title }}
+                {{ certificate.title }}
+                </div>
+                <div class="block-subtitle">
+                {{ certificate.date }} | {{ certificate.link }}
                 </div>
                 <div class="block-content">
-                {{ certificates.link }}
+                {{ certificate.description }}
                 </div>
             </div>
             {% endfor %}
