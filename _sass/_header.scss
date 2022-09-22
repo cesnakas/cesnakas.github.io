@@ -38,6 +38,10 @@ header {
   }
 }
 
+.fa {
+    margin-right: .5rem;
+}
+
 @media screen and (max-width: $breakpoint) {
   header {
     display: block;
