@@ -125,4 +125,23 @@ layout: default
           {% endfor %}
         </div>
       </section>
-    </div>
+    
+    <section id="certificates">
+        <div class="section-title">
+            Languages
+        </div>
+        <div class="section-content section-flex">
+            {% for certificate in site.data.resume.certificates %}
+            <div class="block block-square">
+                <div class="block-title">
+                {{ certificates.title }}
+                </div>
+                <div class="block-content">
+                {{ certificates.link }}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+    
+</div>
