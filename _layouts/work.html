@@ -1,3 +1,20 @@
 ---
 layout: default
 ---
+
+<main role="main">
+
+    <section id="projects">
+        <div class="section-title" role="heading" aria-level="2">Projects</div>
+        <div class="section-content">
+            {% for project in site.data.resume.projects %}
+            <div class="block">
+                <div class="block-title">{{ project.name }}</div>
+                <div class="block-subtitle">{{ project.contribution }}</div>
+                <div class="block-content">{{ project.description }}</div>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+
+</main>
