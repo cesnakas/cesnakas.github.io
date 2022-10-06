@@ -1,0 +1,70 @@
+title: Sergei Česnakas
+name: Sergei Česnakas
+jobtitle: Software Engineer
+contact:
+  - icon: fa-telegram
+    text: Telegram
+    link: https://t.me/cesnakas
+  - icon: fa-globe
+    text: cesnakas.com
+    link: https://www.cesnakas.com
+  - icon: fa-github
+    text: GitHub
+    link: https://github.com/cesnakas
+education:
+  - university: Professional Lyceum of Computer Technologies
+    duration: 2000 — 2003
+    location: Samara
+    major: Software Engineer
+skills:
+  - title: Frontend
+    items: HTML, CSS, Sass, JavaScript/TypeScript, React, Vue.js
+  - title: Backend
+    items: PHP, MySQL
+  - title: CMS / Frameworks
+    items: Bitrix, WordPress, Laravel
+experience:
+  - title: Software Engineer
+    duration: Jul 2022 - Now
+    company: Pixel Plus
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  - title: Software Engineer
+    duration: Oct 2021 — May 2022
+    company: Relevant
+    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - title: Job Title 3
+    duration: Dec 2011 - Mar 2012
+    company: Your 3rd Co, Ltd.
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+projects:
+  - name: 2015 — 2018
+    contribution: Web Development
+    description: one-fit.ru, samkarniz.ru, gazprombank.ru, bunnygummy.ru, megasmokers.ru, domostroi.ru, kamkp.ru, redsoft.ru, trast-avto.ru, ericthered.ru, goodtime555.ru, ya-lab.ru, sam-argo.ru
+  - name: 2014 — 2015
+    contribution: Web development
+    description: botek-fitness.club, la-parisienne.ru, justsmile.club, fitness.kinup.ru, klapshtos.pro, kinup-dent.ru, tehnoprojekt.ru, palubacafe.ru, siven.ru, delta-eco.ru, kinup.ru, marrakesh.kinup.ru, zolotoykod.ru
+  - name: 2012 — 2014
+    contribution: Beginning of career
+    description: zuweb.ru, zu63.ru, termoclick.ru
+certificates:
+  - title: 1С-Битрикс — Управление сайтом. Продвижение сайта и Маркетинг
+    link: https://dev.1c-bitrix.ru/certificates/learning.php?course=139
+    date: Jun 2022
+  - title: Figma. Начальный уровень
+    link: https://gb.ru/certificates/1406861.pdf
+    date: Sep 2021
+  - title: HTML/CSS. Интерактивный курс
+    link: https://gb.ru/certificates/1406914.pdf
+    date: Sep 2021
+  - title: Web mastering. Creation of sites on CMS Joomla and other platforms
+    link: https://www.cesnakas.com/certificates/2013_Joomla.pdf
+    date: Apr 2013
+languages:
+  - name: Russian
+    proficiency: Native
+  - name: English
+    proficiency: Work proficiency
+  - name: German
+    proficiency: Basics
+  - name: Spanish
+    proficiency: Basics
