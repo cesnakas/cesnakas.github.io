@@ -4,6 +4,19 @@ layout: default
 
 <main role="main">
 
+    <section id="education">
+        <div class="section-title" role="heading" aria-level="2">Education</div>
+        <div class="section-content">
+            {% for edu in site.data.resume_ru.education %}
+            <div class="block">
+                <div class="block-title">{{ edu.university }}</div>
+                <div class="block-subtitle">{{ edu.duration }} | {{ edu.location }}</div>
+                <div class="block-content">{{ edu.major }}</div>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+
     <section id="skills">
         <div class="section-title" role="heading" aria-level="2">Skills</div>
         <div class="section-content">
@@ -53,19 +66,6 @@ layout: default
                     </a>
                 </div>
                 <div class="block-subtitle">{{ certificate.date }}</div>
-            </div>
-            {% endfor %}
-        </div>
-    </section>
-
-    <section id="education">
-        <div class="section-title" role="heading" aria-level="2">Education</div>
-        <div class="section-content">
-            {% for edu in site.data.resume_ru.education %}
-            <div class="block">
-                <div class="block-title">{{ edu.university }}</div>
-                <div class="block-subtitle">{{ edu.duration }} | {{ edu.location }}</div>
-                <div class="block-content">{{ edu.major }}</div>
             </div>
             {% endfor %}
         </div>
