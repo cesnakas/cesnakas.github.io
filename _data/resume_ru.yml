@@ -24,26 +24,26 @@ skills:
   - title: CMS / Frameworks
     items: Bitrix, WordPress, Laravel
 experience:
-  - title: Software Engineer
+  - title: Fullstack разработчик [ PHP/Битрикс ]
     duration: Jul 2022 - Now
     company: Pixel Plus
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: Backend разработчик | PHP/Битрикс
+    description:
+  - title: Backend разработчик [ PHP/Битрикс ]
     duration: Окт. 2021 — май 2022
     company: Relevant
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - title: Fullstack разработчик [ JavaScript/PHP/Битрикс ]
+    description:
+  - title: Fullstack разработчик [ PHP/Битрикс ]
     duration: Сент. 2017 — май 2018
     company: ГК ИНФОПРО
     description:
   - title: Fullstack разработчик / CTO
     duration: Май 2014 — май 2015
     company: Золотой Код
-    description: Верстка по PSD-макетам под систему управления Битрикс с применением технологий — HTML, CSS, JavaScript, jQuery, FancyBox. Создал более 100 страниц и более 30 дополнительных интерфейсов для веб-сайтов. Работа с Legacy-кодом старых проектов, оптимизирован под поисковые системы. Работа с Photoshop — нарезка макетов и прорисовка иконок. Работа с svg-файлами. Разработка веб-сайтов на системе управления Битрикс и Битрикс24 с применением технологий — PHP, JavaScript, AJAX, MySQL. Настройка системы управления Битрикс под требования заказчиков. Интеграция верстки в систему управления Битрикс. Разработал более 10 компонентов. Разработан модуль выгрузки и обмен данными R-Keeper и Битрикс24. Научил команду работать с мокапами. Выстроил цикл разработки проектов. Сдал несколько тестов Битрикс.
+    description:
   - title: Веб-мастер / Веб-разработчик
     duration: Июнь 2012 — май 2014
     company: Частная практика / Фриланс
-    description: Составление ТЗ и оценка стоимости работ. Верстка по PSD-макетам под различные системы управления. Работа с Legacy-кодом. Оптимизация кода под поисковые системы и веб-браузеры. Интеграция верстки в CMS — Joomla, WordPress, MODX, OpenCart. Программирование на JavaScript и PHP.
+    description:
 projects:
   - name: 2015 — 2018
     contribution: Web Development
