@@ -5,13 +5,13 @@
 
       <div class="row row-cols-1 row-cols-lg-3 g-3">
         <div v-for="item in items" class="col">
-          <div class="card h-100">
+          <div class="card h-100 border-warning">
             <div class="card-body">
-              <h5 class="card-title text-dark-emphasis mb-3">{{ item.title }}</h5>
+              <h5 class="card-title text-warning mb-3">{{ item.title }}</h5>
               <p class="card-text text-muted">{{ item.text }}</p>
             </div>
             <div class="card-body d-flex align-items-end gap-2">
-              <a href="#" class="btn btn-outline-secondary rounded-5 px-4" role="button"
+              <a href="#" class="btn btn-outline-warning rounded-5 px-4" role="button"
                 >Подробнее</a
               >
             </div>

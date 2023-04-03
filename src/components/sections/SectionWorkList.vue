@@ -1,18 +1,18 @@
 <template>
   <section class="py-5">
     <div class="container">
-      <h2 class="mb-5 text-dark-emphasis">Projects</h2>
+      <h2 class="mb-5 text-dark-emphasis invisible">Projects</h2>
 
       <div class="masonry row row-cols-1 row-cols-lg-3 g-4">
         <div v-for="(project, index) in projects" class="col" :key="index">
-          <div class="card">
+          <div class="card border-warning">
             <!--<svg xmlns="http://www.w3.org/2000/svg" class="card-img-top" width="100%" height="250" role="img" aria-label="{{ project.name }}">
               <title>Placeholder</title>
               <rect width="100%" height="100%" fill="var(--bs-gray)"></rect>
               <text x="50%" y="50%" fill="var(--bs-emphasis-color)" dy=".5em" text-anchor="middle">{{ project.name }}</text>
             </svg>-->
             <div class="card-body">
-              <h5 class="card-title text-body-emphasis">{{ project.name }}</h5>
+              <h5 class="card-title text-warning">{{ project.name }}</h5>
               <p class="card-text">{{ project.description }}</p>
               <div class="mb-3">
                 <a href="#" class="card-link text-reset">Card link</a>
@@ -51,7 +51,7 @@ export default {
         {
           name: 'tools.pixelplus.ru',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda dolore illo illum nisi possimus quam rem similique temporibus vel. Ad fugiat libero veritatis? Ab aperiam aspernatur consectetur cum dignissimos doloremque dolorum ducimus enim error, esse est, et fuga fugiat ipsum labore laborum laudantium libero minima molestias odio officiis perspiciatis placeat, provident quas quasi rem repudiandae sed sit sunt vero! At, dolorem eum iste numquam omnis sed temporibus. Ad aliquam aperiam dolor eaque, explicabo facilis nemo odio quas ratione recusandae. Ab accusamus, aut consectetur consequatur debitis dolor dolorem excepturi incidunt iure labore laudantium minus nostrum numquam pariatur provident quae quod repudiandae!'
+            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda dolore illo illum nisi possimus quam rem similique temporibus vel. Ad fugiat libero veritatis? Ab aperiam aspernatur consectetur cum dignissimos doloremque dolorum ducimus enim error, esse est, et fuga fugiat ipsum labore laborum laudantium libero minima molestias odio officiis perspiciatis placeat, provident quas quasi rem repudiandae sed sit sunt vero! At, dolorem eum iste numquam omnis sed temporibus.'
         },
         {
           name: 'pixelplus.ru',
@@ -59,44 +59,48 @@ export default {
             'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.'
         },
         {
-          name: 'Card title',
+          name: 'oknastar.ru',
           description:
             'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium assumenda atque, commodi consequuntur cum delectus dolore, eligendi expedita iure laudantium nisi obcaecati omnis quam reprehenderit saepe similique suscipit ut veritatis.'
         },
         {
-          name: 'Card title',
+          name: 'cultfood.ru',
           description:
             'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.'
         },
         {
-          name: 'Card title',
+          name: 'open-urology.ru',
           description:
             'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.'
         },
         {
-          name: 'Card title',
+          name: 'tikkurila.moscow',
           description:
             'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
         },
         {
-          name: 'Card title',
+          name: 'mirkrasok.ru',
           description:
             'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.'
         },
         {
-          name: 'Card title',
+          name: 'kriston-kadastr.ru',
           description:
             'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ad debitis, eveniet ipsam ipsum labore neque provident quas quis, reprehenderit sequi veniam, voluptates? Ipsam numquam obcaecati, optio quibusdam rem sunt.'
         },
         {
-          name: 'Card title',
+          name: 'makfa.ru',
           description:
             'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, ratione, tempora. Debitis delectus, distinctio dolore incidunt magnam perferendis. Culpa cupiditate eos eum illum molestias neque obcaecati sed velit. Qui, quidem.'
         },
         {
-          name: 'Card title',
+          name: 'sagitta-stk.ru',
           description:
             'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.'
+        },
+        {
+          name: 'tsd-atol.ru',
+          description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad amet dolore eius ex fugit odio placeat sint tempora unde ut? Cum doloremque fugiat harum in incidunt nihil omnis quisquam repudiandae.'
         }
       ],
       showProjects: 3,

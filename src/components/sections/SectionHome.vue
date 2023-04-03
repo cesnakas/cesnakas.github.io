@@ -28,7 +28,7 @@
             </div>
           </div>
 
-          <h1 class="h1 ms-lg-4 mb-4 text-dark-emphasis">Sergei Česnakas</h1>
+          <h1 class="h1 ms-lg-4 mb-4 text-warning">Sergei Česnakas</h1>
 
           <p class="col-lg-9 ms-lg-4 text-muted">
             Сайт рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько
@@ -39,7 +39,7 @@
             — Делай то, что любишь... Люби то, что делаешь...
           </p>
 
-          <button type="button" class="btn btn-outline-light rounded-5 ms-lg-4 px-4">
+          <button type="button" class="btn btn-outline-warning rounded-5 ms-lg-4 px-4">
             Напишите мне
           </button>
         </div>
