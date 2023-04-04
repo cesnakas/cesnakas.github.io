@@ -4,7 +4,9 @@
       <div class="main-header row align-items-center justify-content-center">
         <div class="col text-center text-lg-start mb-5 mb-lg-0">
           <h1 class="display-1 text-warning mb-3">Work ://</h1>
-          <p class="lead text-warning">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro.</p>
+          <p class="lead text-warning">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro.
+          </p>
         </div>
       </div>
     </div>

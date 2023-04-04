@@ -6,11 +6,14 @@
       <div class="masonry row row-cols-1 row-cols-lg-3 g-4">
         <div v-for="(project, index) in projects" class="col" :key="index">
           <div class="card border-warning">
-            <!--<svg xmlns="http://www.w3.org/2000/svg" class="card-img-top" width="100%" height="250" role="img" aria-label="{{ project.name }}">
+            <!--
+            <svg xmlns="http://www.w3.org/2000/svg" class="card-img-top" width="100%" height="250" role="img" aria-label="{{ project.name }}">
               <title>Placeholder</title>
               <rect width="100%" height="100%" fill="var(--bs-gray)"></rect>
               <text x="50%" y="50%" fill="var(--bs-emphasis-color)" dy=".5em" text-anchor="middle">{{ project.name }}</text>
-            </svg>-->
+            </svg>
+            <img class="card-img-top opacity-50" :src="`./src/assets/images/work/` + project.image" alt="">
+            -->
             <div class="card-body">
               <h5 class="card-title text-warning">{{ project.name }}</h5>
               <p class="card-text">{{ project.description }}</p>
@@ -94,13 +97,18 @@ export default {
             'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, ratione, tempora. Debitis delectus, distinctio dolore incidunt magnam perferendis. Culpa cupiditate eos eum illum molestias neque obcaecati sed velit. Qui, quidem.'
         },
         {
+          image: 'uralz.ru.jpg',
+          height: 'height: 220px',
           name: 'sagitta-stk.ru',
           description:
             'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.'
         },
         {
+          image: 'tsd-atol.ru.jpg',
+          height: 'height: 210px',
           name: 'tsd-atol.ru',
-          description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad amet dolore eius ex fugit odio placeat sint tempora unde ut? Cum doloremque fugiat harum in incidunt nihil omnis quisquam repudiandae.'
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad amet dolore eius ex fugit odio placeat sint tempora unde ut? Cum doloremque fugiat harum in incidunt nihil omnis quisquam repudiandae.'
         }
       ],
       showProjects: 3,
@@ -121,3 +129,11 @@ export default {
   }
 }
 </script>
+
+<style lang="scss" scoped>
+.card-img-top {
+  height: 240px;
+  object-fit: cover;
+  object-position: top center;
+}
+</style>

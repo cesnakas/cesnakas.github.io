@@ -11,9 +11,7 @@
               <p class="card-text text-muted">{{ item.text }}</p>
             </div>
             <div class="card-body d-flex align-items-end gap-2">
-              <a href="#" class="btn btn-outline-warning rounded-5 px-4" role="button"
-                >Подробнее</a
-              >
+              <a href="#" class="btn btn-outline-warning rounded-5 px-4" role="button">Подробнее</a>
             </div>
           </div>
         </div>
