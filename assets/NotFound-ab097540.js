@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as o,a as s}from"./index-5e0a9a7a.js";const t={},a={class:"my-5 py-5"},n=s("div",{class:"container"},[s("h1",{class:"display-1"},"404")],-1),_=[n];function r(d,i){return c(),o("section",a,_)}const f=e(t,[["render",r]]);export{f as default};
