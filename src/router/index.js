@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import {createMemoryHistory, createRouter, createWebHashHistory, createWebHistory} from 'vue-router'
 import Home from '../views/Home.vue'
 
 const router = createRouter({
@@ -28,7 +28,8 @@ const router = createRouter({
       path: '/contact',
       name: 'Contact',
       component: () => import('../views/Contact.vue')
-    }
+    },
+    { path: '/:pathMatch(.*)', component: () => import('../views/NotFound.vue') }
   ],
   linkActiveClass: 'active',
   linkExactActiveClass: 'exact-active'
