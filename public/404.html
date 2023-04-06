@@ -9,7 +9,7 @@
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <title>Sergei Česnakas</title>
   <script type="text/javascript"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(70155283, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); </script>
-  <script>
+  <script type="text/javascript">
     var pathSegmentsToKeep = 0;
     var l = window.location;
     l.replace(
@@ -23,11 +23,27 @@
 </head>
 <body>
   <div id="app"></div>
-  <section class="my-5 py-5">
+  <section class="py-5 my-5">
     <div class="container">
-      <h1 class="display-1">404</h1>
+      <div class="align-items-center justify-content-center row">
+        <div class="col-lg-5 mb-5 mb-lg-0 text-center text-lg-end">
+          <picture>
+            <source srcset="/assets/images/cesnakas.webp" type="image/webp" />
+            <source srcset="/assets/images/cesnakas.png" type="image/png" />
+            <img class="col-9 me-lg-4 rounded-circle" src="/assets/images/cesnakas.webp" alt="Sergei Česnakas"/>
+          </picture>
+        </div>
+        <div class="col-lg-7">
+          <h1 class="ms-lg-4 mb-4 text-danger display-1">[ 404 ]</h1>
+          <p class="ms-lg-4 mb-4 text-danger col-lg-9 display-6 mb-lg-5">Страница не найдена</p>
+          <div class="-flex-column align-items-start d-flex gap-3">
+            <a href="/" class="ms-lg-4 btn btn-outline-warning px-4 rounded-5" role="button">На главную</a>
+            <a href="javascript:history.back();" class="btn px-4 rounded-5 btn-outline-secondary" type="button">Вернуться обратно</a>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
-  <script type="module" src="/src/main.js"></script>
+  <script type="module" src="/assets/main.js"></script>
 </body>
 </html>

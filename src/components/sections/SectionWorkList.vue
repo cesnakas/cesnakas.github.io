@@ -21,7 +21,9 @@
                 <a href="#" class="card-link text-reset">Card link</a>
                 <a href="#" class="card-link text-reset">Another link</a>
               </div>
-              <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+              <p class="card-text">
+                <small class="text-muted">{{ project.date }}</small>
+              </p>
             </div>
           </div>
         </div>
@@ -42,73 +44,187 @@ export default {
     return {
       projects: [
         {
+          name: 'proprognozy.ru',
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ex minima obcaecati possimus? Accusamus alias aperiam, distinctio eos est maxime molestias obcaecati possimus quod, temporibus totam voluptatum.',
+          date: '2023/04'
+        },
+        {
           name: 'iesa.ru',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur nisi obcaecati odio provident tempora. Aperiam dolores eos facilis fugit iusto laboriosam laudantium necessitatibus odit, perspiciatis quaerat quasi sapiente veritatis voluptas.'
+            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur nisi obcaecati odio provident tempora. Aperiam dolores eos facilis fugit iusto laboriosam laudantium necessitatibus odit, perspiciatis quaerat quasi sapiente veritatis voluptas.',
+          date: '2023/03'
         },
         {
           name: 'pixeltools.kz',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis consequuntur corporis doloremque eius eos expedita hic illum in ipsum laboriosam magnam mollitia nesciunt nisi obcaecati odit, officia placeat quis quod repudiandae sapiente, sint sit tempora ut! Accusamus, ad aut, consequuntur inventore, nemo nesciunt obcaecati optio quae quia rem sequi tenetur.'
+            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis consequuntur corporis doloremque eius eos expedita hic illum in ipsum laboriosam magnam mollitia nesciunt nisi obcaecati odit, officia placeat quis quod repudiandae sapiente, sint sit tempora ut! Accusamus, ad aut, consequuntur inventore, nemo nesciunt obcaecati optio quae quia rem sequi tenetur.',
+          date: '2023/02'
         },
         {
           name: 'tools.pixelplus.ru',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda dolore illo illum nisi possimus quam rem similique temporibus vel. Ad fugiat libero veritatis? Ab aperiam aspernatur consectetur cum dignissimos doloremque dolorum ducimus enim error, esse est, et fuga fugiat ipsum labore laborum laudantium libero minima molestias odio officiis perspiciatis placeat, provident quas quasi rem repudiandae sed sit sunt vero! At, dolorem eum iste numquam omnis sed temporibus.'
+            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda dolore illo illum nisi possimus quam rem similique temporibus vel. Ad fugiat libero veritatis? Ab aperiam aspernatur consectetur cum dignissimos doloremque dolorum ducimus enim error, esse est, et fuga fugiat ipsum labore laborum laudantium libero minima molestias odio officiis perspiciatis placeat, provident quas quasi rem repudiandae sed sit sunt vero! At, dolorem eum iste numquam omnis sed temporibus.',
+          date: '2022/12'
         },
         {
           name: 'pixelplus.ru',
           description:
-            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.'
+            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.',
+          date: '2022/12'
         },
         {
           name: 'oknastar.ru',
           description:
-            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium assumenda atque, commodi consequuntur cum delectus dolore, eligendi expedita iure laudantium nisi obcaecati omnis quam reprehenderit saepe similique suscipit ut veritatis.'
+            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium assumenda atque, commodi consequuntur cum delectus dolore, eligendi expedita iure laudantium nisi obcaecati omnis quam reprehenderit saepe similique suscipit ut veritatis.',
+          date: '2022/10'
         },
         {
           name: 'cultfood.ru',
           description:
-            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.'
+            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.',
+          date: '2022/09'
         },
         {
           name: 'open-urology.ru',
           description:
-            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.'
+            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.',
+          date: '2022/09'
         },
         {
           name: 'tikkurila.moscow',
           description:
-            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
+          date: '2022'
         },
         {
           name: 'mirkrasok.ru',
           description:
-            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.'
+            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.',
+          date: '2022'
         },
         {
           name: 'kriston-kadastr.ru',
           description:
-            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ad debitis, eveniet ipsam ipsum labore neque provident quas quis, reprehenderit sequi veniam, voluptates? Ipsam numquam obcaecati, optio quibusdam rem sunt.'
+            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ad debitis, eveniet ipsam ipsum labore neque provident quas quis, reprehenderit sequi veniam, voluptates? Ipsam numquam obcaecati, optio quibusdam rem sunt.',
+          date: '2022'
         },
         {
           name: 'makfa.ru',
           description:
-            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, ratione, tempora. Debitis delectus, distinctio dolore incidunt magnam perferendis. Culpa cupiditate eos eum illum molestias neque obcaecati sed velit. Qui, quidem.'
+            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, ratione, tempora. Debitis delectus, distinctio dolore incidunt magnam perferendis. Culpa cupiditate eos eum illum molestias neque obcaecati sed velit. Qui, quidem.',
+          date: '2022'
         },
         {
           image: 'uralz.ru.jpg',
           height: 'height: 220px',
           name: 'sagitta-stk.ru',
           description:
-            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.'
+            'This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.',
+          date: '2022'
         },
         {
           image: 'tsd-atol.ru.jpg',
           height: 'height: 210px',
           name: 'tsd-atol.ru',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad amet dolore eius ex fugit odio placeat sint tempora unde ut? Cum doloremque fugiat harum in incidunt nihil omnis quisquam repudiandae.'
+            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad amet dolore eius ex fugit odio placeat sint tempora unde ut? Cum doloremque fugiat harum in incidunt nihil omnis quisquam repudiandae.',
+          date: '2022'
+        },
+        {
+          name: 'uralz.ru',
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ad adipisci animi cupiditate dicta dignissimos error est incidunt ipsum iure maxime molestias, neque sapiente similique suscipit temporibus unde? Eaque excepturi quae quibusdam sapiente tenetur.',
+          date: '2022'
+        },
+        {
+          name: 'logicroof.ru',
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab atque aut blanditiis deleniti dicta est, et hic maiores molestias mollitia officiis placeat quidem, recusandae saepe veritatis! Consectetur doloribus dolorum et facilis illum impedit nesciunt sed tempore ut vero!',
+          date: '2022'
+        },
+        {
+          name: 'sabellino.ru',
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid aperiam atque delectus eveniet excepturi id nihil, officia perferendis, quo reprehenderit repudiandae veniam voluptas voluptatum. Ad adipisci autem dolorem dolores eaque eum illum necessitatibus nihil non numquam praesentium quia, sequi totam, velit veniam. Aperiam, est maxime. Accusantium aliquam nulla velit voluptates?',
+          date: '2022'
+        },
+        {
+          name: 'gu10.ru',
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad deserunt labore numquam praesentium vel? Ab architecto, assumenda cumque dicta earum eum fugiat incidunt modi soluta ullam voluptatum.',
+          date: '2022'
+        },
+        {
+          name: 'gvozdhoztorg.ru',
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus ad assumenda aut cupiditate deserunt dignissimos dolor dolores dolorum eos eveniet ex expedita explicabo facilis fuga hic, id itaque laboriosam maxime minus molestiae natus nobis porro saepe sapiente sed tempora temporibus vel veniam veritatis voluptates. Deleniti, sapiente!',
+          date: '2022'
+        },
+        {
+          name: 'aqvalite.ru',
+          description: '',
+          date: '2022'
+        },
+        {
+          name: 'webrel.org',
+          description: '',
+          date: '2022'
+        },
+        {
+          name: 'mydoctor32.ru',
+          description: '',
+          date: '2022'
+        },
+        {
+          name: 'fibroblok.ru',
+          description: '',
+          date: '2022'
+        },
+        {
+          name: 'easylex.ru',
+          description: '',
+          date: '2022'
+        },
+        {
+          name: 'tverstroymash.ru',
+          description: '',
+          date: '2022'
+        },
+        {
+          name: 'zolushkacleans.ru',
+          description: '',
+          date: '2022'
+        },
+        {
+          name: 'medalis.ru',
+          description: '',
+          date: '2022'
+        },
+        {
+          name: 'cirpp.ru',
+          description: '',
+          date: '2022'
+        },
+        {
+          name: 'linxdatacenter.com',
+          description: '',
+          date: '2022'
+        },
+        {
+          name: 'mcdl.ru',
+          description: '',
+          date: '2022'
+        },
+        {
+          name: 'powervideo.ru',
+          description: '',
+          date: '2022'
+        },
+        {
+          name: 'arbaum.ru',
+          description: '',
+          date: '2022'
         }
       ],
       showProjects: 3,
@@ -116,8 +232,8 @@ export default {
     }
   },
   mounted() {
-    this.totalProjects = this.projects.length
-    console.log(this.projects.length)
+    // this.totalProjects = this.projects.length
+    // console.log(this.projects.length)
     // if (this.projects.length > this.showProjects) {
     //   document.querySelector('.masonry .col').style.display = 'none';
     // }

@@ -7,7 +7,6 @@ import App from './App.vue'
 import router from './router'
 
 import '@/assets/scss/main.scss'
-import '@/assets/app.js'
 
 const app = createApp(App)
 

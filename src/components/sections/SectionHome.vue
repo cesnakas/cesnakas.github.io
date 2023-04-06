@@ -21,10 +21,10 @@
             data-bs-ride="carousel"
           >
             <div class="carousel-inner">
-              <div class="carousel-item active"><h4 class="fs-6">Software Engineer</h4></div>
-              <div class="carousel-item"><h4 class="fs-6">Frontend developer</h4></div>
-              <div class="carousel-item"><h4 class="fs-6">Backend PHP developer</h4></div>
-              <div class="carousel-item"><h4 class="fs-6">Fullstack developer</h4></div>
+              <div class="carousel-item active"><h4 class="fs-5">Software Engineer</h4></div>
+              <div class="carousel-item"><h4 class="fs-5">Frontend Developer</h4></div>
+              <div class="carousel-item"><h4 class="fs-5">Backend Developer</h4></div>
+              <div class="carousel-item"><h4 class="fs-5">Fullstack Developer</h4></div>
             </div>
           </div>
 
