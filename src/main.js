@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
-import * as bootstrap from 'bootstrap'
+import * as Bootstrap from 'bootstrap'
 import * as Popper from '@popperjs/core'
 
 import App from './App.vue'
@@ -12,7 +12,5 @@ const app = createApp(App)
 
 app.use(createPinia())
 app.use(router)
-app.use(bootstrap)
-app.use(Popper)
 
 app.mount('#app')
