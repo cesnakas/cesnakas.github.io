@@ -10,22 +10,22 @@ const router = createRouter({
       component: Home
     },
     {
-      path: '/resume',
+      path: '/resume/',
       name: 'Resume',
       component: () => import('../views/Resume.vue')
     },
     {
-      path: '/notes',
+      path: '/notes/',
       name: 'Notes',
       component: () => import('../views/Notes.vue')
     },
     {
-      path: '/work',
+      path: '/work/',
       name: 'Work',
       component: () => import('../views/Work.vue')
     },
     {
-      path: '/contact',
+      path: '/contact/',
       name: 'Contact',
       component: () => import('../views/Contact.vue')
     },

@@ -51,19 +51,19 @@ export default {
         },
         {
           linkTitle: 'Resume',
-          link: '/resume'
+          link: '/resume/'
         },
         {
           linkTitle: 'Notes',
-          link: '/notes'
+          link: '/notes/'
         },
         {
           linkTitle: 'Work',
-          link: '/work'
+          link: '/work/'
         },
         {
           linkTitle: 'Contact',
-          link: '/contact'
+          link: '/contact/'
         }
       ]
     }

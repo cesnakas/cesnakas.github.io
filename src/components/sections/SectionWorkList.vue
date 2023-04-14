@@ -37,6 +37,7 @@
 </template>
 
 <script>
+import data from './work/data'
 import Masonry from 'masonry-layout'
 export default {
   el: '.masonry',
@@ -163,32 +164,32 @@ export default {
         },
         {
           name: 'aqvalite.ru',
-          description: '',
+          description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae deleniti eius enim et facilis impedit necessitatibus, numquam quibusdam sequi voluptas voluptatibus voluptatum! Alias ex harum, hic nisi sit veniam voluptas?',
           date: '2022'
         },
         {
           name: 'webrel.org',
-          description: '',
+          description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus amet asperiores at aut dolor doloremque doloribus et exercitationem, explicabo fugit, illum nisi quidem reiciendis repellat soluta tempore velit vitae voluptate.',
           date: '2022'
         },
         {
           name: 'mydoctor32.ru',
-          description: '',
+          description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. At hic illo natus, nulla provident quod vel! Ad aspernatur commodi consectetur dolor dolorem, impedit, laboriosam magni non, obcaecati rem vel velit?',
           date: '2022'
         },
         {
           name: 'fibroblok.ru',
-          description: '',
+          description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusamus, animi at culpa ea eligendi ex expedita facere incidunt laboriosam molestias nam nihil nisi nobis omnis quae quam, ut, voluptatem.',
           date: '2022'
         },
         {
           name: 'easylex.ru',
-          description: '',
+          description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto blanditiis cum distinctio doloribus, error expedita explicabo in laudantium modi neque odio odit optio quaerat quas repellendus sed similique ullam voluptates.',
           date: '2022'
         },
         {
           name: 'tverstroymash.ru',
-          description: '',
+          description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusantium animi commodi consequuntur dignissimos, distinctio dolore ducimus enim error, expedita fuga fugiat, laudantium reiciendis rem sequi soluta ut voluptas voluptate?',
           date: '2022'
         },
         {
