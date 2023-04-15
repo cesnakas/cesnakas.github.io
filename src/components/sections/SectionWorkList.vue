@@ -1,9 +1,7 @@
 <template>
   <section class="py-5">
     <div class="container">
-
       <h2 class="mb-5 text-dark-emphasis invisible">Projects</h2>
-
       <div class="masonry row row-cols-1 row-cols-lg-3 g-4">
         <div v-for="(project, index) in projects" class="col" :key="index">
           <div class="card border-warning">
@@ -22,9 +20,6 @@
         </div>
       </div>
 
-      <div v-if="projects < projects.length || projects.length > projects">
-        <button class="btn btn-outline-secondary" @click="projects += 5">show more...</button>
-      </div>
     </div>
   </section>
 </template>

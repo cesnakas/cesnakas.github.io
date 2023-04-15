@@ -10,10 +10,10 @@ git init
 git add -A
 git commit -m 'deploy'
 
-# если вы публикуете по адресу https://<USERNAME>.github.io
-git push -f git@github.com:cesnakas/cesnakas.github.io.git main
+# https://<USERNAME>.github.io
+git push -f git@github.com:cesnakas/cesnakas.github.io.git gh-pages:main
 
-# если вы публикуете по адресу https://<USERNAME>.github.io/<REPO>
+# https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 cd -
