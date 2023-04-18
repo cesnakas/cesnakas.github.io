@@ -1,5 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Home from '../views/Home.vue'
+
+const loadComponent = (view) => {
+  return () => import(`@/views/${view}.vue`)
+}
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -7,29 +10,33 @@ const router = createRouter({
     {
       path: '/',
       name: 'Sergei Česnakas',
-      component: Home
+      component: loadComponent('Home')
     },
     {
       path: '/resume/',
-      name: 'Resume',
-      component: () => import('../views/Resume.vue')
+      name: 'Resume - Sergei Česnakas',
+      component: loadComponent('Resume')
     },
     {
       path: '/notes/',
-      name: 'Notes',
-      component: () => import('../views/Notes.vue')
+      name: 'Notes - Sergei Česnakas',
+      component: loadComponent('Notes')
     },
     {
       path: '/work/',
-      name: 'Work',
-      component: () => import('../views/Work.vue')
+      name: 'Work - Sergei Česnakas',
+      component: loadComponent('Work')
     },
     {
       path: '/contact/',
-      name: 'Contact',
-      component: () => import('../views/Contact.vue')
+      name: 'Contact - Sergei Česnakas',
+      component: loadComponent('Contact')
     },
-    { path: '/:pathMatch(.*)', name: '404 Not Found', component: () => import('../views/NotFound.vue') }
+    {
+      path: '/:pathMatch(.*)',
+      name: '404 Not Found',
+      component: loadComponent('NotFound')
+    }
   ],
   linkActiveClass: 'active',
   linkExactActiveClass: 'exact-active'

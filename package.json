@@ -29,6 +29,7 @@
     "prettier": "^2.8.4",
     "sass": "latest",
     "sass-loader": "latest",
+    "swiper": "^9.2.2",
     "vite": "^4.1.4"
   }
 }
