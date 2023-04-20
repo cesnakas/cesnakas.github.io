@@ -13,22 +13,22 @@ const router = createRouter({
       component: loadComponent('Home')
     },
     {
-      path: '/resume/',
+      path: '/resume',
       name: 'Resume - Sergei Česnakas',
       component: loadComponent('Resume')
     },
     {
-      path: '/notes/',
+      path: '/notes',
       name: 'Notes - Sergei Česnakas',
       component: loadComponent('Notes')
     },
     {
-      path: '/work/',
+      path: '/work',
       name: 'Work - Sergei Česnakas',
       component: loadComponent('Work')
     },
     {
-      path: '/contact/',
+      path: '/contact',
       name: 'Contact - Sergei Česnakas',
       component: loadComponent('Contact')
     },
@@ -39,7 +39,7 @@ const router = createRouter({
     }
   ],
   linkActiveClass: 'active',
-  linkExactActiveClass: 'exact-active'
+  linkExactActiveClass: 'active'
 })
 
 router.beforeEach((to, from, next) => {

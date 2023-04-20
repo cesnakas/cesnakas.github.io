@@ -1,5 +1,10 @@
 export default [
   {
+    name: 'marya.ru',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+    date: '2023/04'
+  },
+  {
     name: 'proprognozy.ru',
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ex minima obcaecati possimus? Accusamus alias aperiam, distinctio eos est maxime molestias obcaecati possimus quod, temporibus totam voluptatum.',
     date: '2023/04'

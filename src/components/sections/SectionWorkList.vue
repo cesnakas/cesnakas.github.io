@@ -19,7 +19,6 @@
           </div>
         </div>
       </div>
-
     </div>
   </section>
 </template>
@@ -31,9 +30,7 @@ export default {
   el: '.masonry',
   data() {
     return {
-      projects: projectData,
-      showProjects: 3,
-      totalProjects: 0
+      projects: projectData
     }
   },
   mounted() {

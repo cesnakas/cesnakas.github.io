@@ -39,9 +39,9 @@
             — Делай то, что любишь... Люби то, что делаешь...
           </p>
 
-          <button type="button" class="btn btn-outline-warning rounded-5 ms-lg-4 px-4">
+          <a class="btn btn-outline-warning rounded-5 ms-lg-4 px-4" href="https://t.me/cesnakas" target="_blank" role="button">
             Напишите мне
-          </button>
+          </a>
         </div>
       </div>
     </div>
