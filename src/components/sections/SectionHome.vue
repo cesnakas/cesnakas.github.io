@@ -5,7 +5,7 @@
         <div class="col-lg-5 text-center text-lg-end mb-5 mb-lg-0">
           <picture>
             <source srcset="@/assets/images/cesnakas.webp" type="image/webp" />
-            <source srcset="@/assets//images/cesnakas.png" type="image/png" />
+            <source srcset="@/assets/images/cesnakas.png" type="image/png" />
             <img
               class="col-9 rounded-circle me-lg-4"
               src="@/assets/images/cesnakas.webp"
@@ -31,16 +31,14 @@
           <h1 class="h1 ms-lg-4 mb-4 text-warning">Sergei Česnakas</h1>
 
           <p class="col-lg-9 ms-lg-4 text-muted">
-            Сайт рыбатекст поможет дизайнеру, верстальщику, вебмастеру сгенерировать несколько
-            абзацев более менее осмысленного текста рыбы на русском языке, а начинающему оратору
-            отточить навык публичных выступлений в домашних условиях.
+            Vestibulum viverra leo nec dui ultricies, ut molestie sem euismod. Pellentesque vestibulum, ex quis tempor consectetur, eros nisl interdum nulla, sit amet dignissim justo orci non augue.
           </p>
           <p class="col-lg-9 ms-lg-4 mb-4 mb-lg-5 text-muted">
-            — Делай то, что любишь... Люби то, что делаешь...
+            — Do what you love... Love what you do...
           </p>
 
           <a class="btn btn-outline-warning rounded-5 ms-lg-4 px-4" href="https://t.me/cesnakas" target="_blank" role="button">
-            Напишите мне
+            Contact Me
           </a>
         </div>
       </div>
