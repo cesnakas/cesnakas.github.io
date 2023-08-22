@@ -2,6 +2,7 @@
 
 $font-family-sans-serif:
 
+  // JetBrains
   'JetBrains Mono NL',
 
   // Cross-platform generic font family (default user interface font)
@@ -25,14 +26,12 @@ $font-family-sans-serif:
   //Arial,
 
   // Sans serif fallback
-  //sans-serif,
+  sans-serif,
 
   // Emoji fonts
   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
 @import 'bootstrap/scss/bootstrap';
-
-//@import 'swiper/swiper.scss';
 
 .container {
   @media (min-width: 1400px) {
