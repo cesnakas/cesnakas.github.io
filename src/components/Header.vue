@@ -46,7 +46,7 @@ export default {
     return {
       items: [
         {
-          linkTitle: 'About',
+          linkTitle: 'Home',
           link: '/'
         },
         {
