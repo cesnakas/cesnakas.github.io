@@ -8,10 +8,6 @@
             <div class="card-body">
               <h5 class="card-title text-warning">{{ project.name }}</h5>
               <p class="card-text">{{ project.description }}</p>
-              <div class="mb-3">
-                <a href="#" class="card-link text-reset">Card link</a>
-                <a href="#" class="card-link text-reset">Another link</a>
-              </div>
               <p class="card-text">
                 <small class="text-muted">{{ project.date }}</small>
               </p>
