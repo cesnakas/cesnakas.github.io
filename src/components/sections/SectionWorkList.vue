@@ -1,20 +1,29 @@
 <template>
   <section class="py-5">
     <div class="container">
+
       <h2 class="mb-5 text-dark-emphasis invisible">Projects</h2>
+
       <div class="masonry row row-cols-1 row-cols-lg-3 g-4">
         <div v-for="(project, index) in projects" class="col" :key="index">
+
           <div class="card border-warning">
-            <div class="card-body">
+            <div class="card-body text-secondary-emphasis">
               <h5 class="card-title text-warning">{{ project.name }}</h5>
               <p class="card-text">{{ project.description }}</p>
               <p class="card-text">
-                <small class="text-muted">{{ project.date }}</small>
+                <small class="text-body-tertiary">{{ project.date }}</small>
               </p>
+              <div class="card-text d-flex flex-wrap gap-2">
+                <span v-if="project.badgeBitrix" class="badge border border-danger-subtle text-danger">Bitrix</span>
+                <span v-if="project.badgeEcommerce" class="badge border border-success text-success">eCommerce</span>
+              </div>
             </div>
           </div>
+
         </div>
       </div>
+
     </div>
   </section>
 </template>
