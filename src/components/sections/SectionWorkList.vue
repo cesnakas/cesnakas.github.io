@@ -14,9 +14,8 @@
               <p class="card-text">
                 <small class="text-body-tertiary">{{ project.date }}</small>
               </p>
-              <div class="card-text d-flex flex-wrap gap-2">
-                <span v-if="project.badgeBitrix" class="badge border border-danger-subtle text-danger">Bitrix</span>
-                <span v-if="project.badgeEcommerce" class="badge border border-success text-success">eCommerce</span>
+              <div v-if="project.tech" class="card-text small fw-light text-warning">
+                {{ project.tech.join(',\n') }}
               </div>
             </div>
           </div>

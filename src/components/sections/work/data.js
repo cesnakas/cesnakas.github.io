@@ -3,32 +3,31 @@ export default [
     name: 'santehnika-tut.ru',
     description: 'Магазин Сантехника-Тут может предложить большой ассортимент товаров: сантехнику, мебель для ванной, кухонные мойки, столешницы, керамическую плитку, мозаику, отопление, ламинат и многое другое.',
     date: '2023/09/12',
-    badgeBitrix: true,
-    badgeEcommerce: true
+    tech: ['Bitrix', 'eCommerce']
   },
   {
     name: 'mb-mikro.ru',
     description: 'Фонд «Фонд микрофинансирования Калининградской области (микрокредитная компания)» (фонд ФМФ КО (МКК)) создан Правительством Калининградской области в лице Министерства экономического развития, промышленности и торговли Калининградской области при поддержке Министерства экономического развития Российской Федерации.',
     date: '2023/09/06',
-    badgeBitrix: true,
+    tech: ['Bitrix'],
   },
   {
     name: 'budet-sdelano.com',
     description: 'Сервисная служба ремонта в Перми. Остекление и ремонт под ключ балконов, лоджий. Москитные сетки, ремонт и фурнитура для пластиковых окон. Вызов мастера.',
     date: '2023/08/11',
-    badgeBitrix: true,
+    tech: ['Bitrix'],
   },
   {
     name: 'roomatic.ru',
     description: '«Roomatic» — инновационный проект в мебельной отрасли. Собственной уникальной разработкой компании является онлайн-конструктор для создания мебели по индивидуальным размерам. Мебельные материалы, детали, фасады из МДФ и ПВХ, распил ЛДСП/МДФ, производство шакфов-купе и кухоных модулей.',
     date: '2023/06/30',
-    badgeBitrix: true,
+    tech: ['Bitrix'],
   },
   {
     name: 'amegazavod.ru',
     description: 'Оконный завод «Амега» — производство пластиковых окон, дверей и изделий из алюминиевого профиля.',
     date: '2023/06/12',
-    badgeBitrix: true,
+    tech: ['Bitrix'],
   },
   {
     name: 'mebel.roomatic.ru',
@@ -264,6 +263,7 @@ export default [
   {
     name: 'termoclick.ru',
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius excepturi laboriosam magni minima molestiae nam porro quisquam quod ratione, velit',
-    date: '2012'
+    date: '2012',
+    tech: ['eCommerce']
   }
 ]
