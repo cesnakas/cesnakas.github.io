@@ -16,7 +16,7 @@
 
         <div class="col-lg-7">
           <div
-            id="carouselExampleFade"
+            id="carouselProfessions"
             class="carousel slide carousel-fade ms-lg-4 mb-3 text-muted"
             data-bs-ride="carousel"
           >

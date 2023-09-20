@@ -87,4 +87,7 @@ export default {
   background-color: var(--bs-body-bg);
   transition: padding-top 0.15s ease-in-out;
 }
+.navbar-brand {
+  color: var(--bs-navbar-color);
+}
 </style>

@@ -255,15 +255,109 @@ export default [
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius excepturi laboriosam magni minima molestiae nam porro quisquam quod ratione, velit. Accusamus delectus maxime, molestiae porro quo quos veniam veritatis voluptatibus?',
     date: '2022'
   },
+
+  /* ----------------------------------- */
+
+  {
+    name: 'malinkacapital.com',
+    description: '',
+    date: '2020/08/17',
+    tech: ['Bitrix', 'VueJS']
+  },
+  {
+    name: 'dialogdent.ru',
+    description: '',
+    date: '2020/05/22',
+    tech: ['Bitrix']
+  },
+  {
+    name: 'dentoptics.digital',
+    description: '',
+    date: '2020/05/15',
+    tech: ['Bitrix']
+  },
+  {
+    name: 'zyon.agency',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate enim eos, exercitationem fugit incidunt ipsum maiores neque nesciunt optio porro provident quas, qui soluta unde voluptatem! Porro tempora tenetur voluptas.',
+    date: '2020/05/10',
+    tech: ['Bitrix']
+  },
+  {
+    name: 'z-studia.com',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate enim eos, exercitationem fugit incidunt ipsum maiores neque nesciunt optio porro provident quas, qui soluta unde voluptatem! Porro tempora tenetur voluptas.',
+    date: '2020/03/05',
+    tech: ['Bitrix']
+  },
+  {
+    name: 'samara.dental',
+    description: '',
+    date: '2020/01/30',
+    tech: ['MODX']
+  },
+  {
+    name: 'onespace.pro',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate enim eos, exercitationem fugit incidunt ipsum maiores neque nesciunt optio porro provident quas, qui soluta unde voluptatem! Porro tempora tenetur voluptas.',
+    date: '2019/11/28',
+    tech: ['Bitrix']
+  },
+  {
+    name: 'storedent.ru',
+    description: '',
+    date: '2019/11/06',
+    tech: ['Bitrix']
+  },
+  {
+    name: 'ascondicioner.ru',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, deleniti deserunt dolore ducimus eos, error id impedit labore libero molestiae, necessitatibus nemo numquam odio omnis pariatur perspiciatis provident qui unde!',
+    date: '2018/11/01',
+    tech: ['Bitrix']
+  },
+  {
+    name: 'juliak.art',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, aspernatur cum, dolore doloribus ea eius fugiat id illum magni, officiis pariatur porro possimus quaerat qui quibusdam ratione similique sunt ullam!',
+    date: '2018/10/10',
+    tech: ['HTML', 'CSS', 'JavaScript']
+  },
+  {
+    name: 'klever96.ru',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam architecto autem cumque ducimus enim eos, ex ipsa, ipsam libero natus necessitatibus omnis, placeat possimus quia quis quo recusandae ullam voluptatem?',
+    date: '2015/12/11',
+    tech: ['HTML', 'CSS', 'JavaScript']
+  },
+  {
+    name: 'kinup.ru',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium aliquid, amet distinctio dolorem enim eos error et eum ipsam iste labore magni nam nobis nulla odit pariatur quaerat, tempora.',
+    date: '2014/07/14',
+    tech: ['HTML', 'CSS', 'JavaScript', 'jQuery']
+  },
+  {
+    name: 'marrakesh.kinup.ru',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusamus aperiam aspernatur eius enim incidunt laudantium, magni minima natus nobis non nostrum officia reiciendis repellendus sed veniam vitae voluptas voluptatem.',
+    date: '2014/06/16',
+    tech: ['Bitrix']
+  },
+  {
+    name: 'zolotoykod.ru',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius excepturi laboriosam magni minima molestiae nam porro quisquam quod ratione, velit.',
+    date: '2014/05/12',
+    tech: ['Bitrix', 'jQuery', 'SVG']
+  },
+  {
+    name: 'zuweb.ru',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius excepturi laboriosam magni minima molestiae nam porro quisquam quod ratione, velit',
+    date: '2013/08/06',
+    tech: ['Bitrix', 'JavaScript', 'jQuery']
+  },
   {
     name: 'zu63.ru',
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius excepturi laboriosam magni minima molestiae nam porro quisquam quod ratione, velit',
-    date: '2012'
+    date: '2012/09/27',
+    tech: ['Joomla']
   },
   {
     name: 'termoclick.ru',
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius excepturi laboriosam magni minima molestiae nam porro quisquam quod ratione, velit',
-    date: '2012',
+    date: '2012/08/13',
     tech: ['eCommerce']
   }
 ]
