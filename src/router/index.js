@@ -18,9 +18,9 @@ const router = createRouter({
       component: loadComponent('Resume')
     },
     {
-      path: '/notes',
-      name: 'Notes - Sergei Česnakas',
-      component: loadComponent('Notes')
+      path: '/services',
+      name: 'Services - Sergei Česnakas',
+      component: loadComponent('Services')
     },
     {
       path: '/work',

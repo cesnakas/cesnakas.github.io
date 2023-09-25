@@ -54,8 +54,8 @@ export default {
           link: '/resume'
         },
         {
-          linkTitle: 'Notes',
-          link: '/notes'
+          linkTitle: 'Services',
+          link: '/services'
         },
         {
           linkTitle: 'Work',
