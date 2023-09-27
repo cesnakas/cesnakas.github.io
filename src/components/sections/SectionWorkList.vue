@@ -63,7 +63,6 @@ export default {
 
 <style lang="scss" scoped>
 .card-img-top {
-  height: 240px;
   object-fit: cover;
   object-position: top center;
 }
