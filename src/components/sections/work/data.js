@@ -1,5 +1,45 @@
 export default [
   {
+    name: 'accesstyle.ru',
+    description: '',
+    date: '2023/11/02'
+  },
+  {
+    name: 'ru.dareu.com',
+    description: '',
+    date: '2023/10/31'
+  },
+  {
+    name: 'ru.viomi.com',
+    description: '',
+    date: '2023/10/25'
+  },
+  {
+    name: 'ninetygorussia.com',
+    description: '',
+    date: '2023/10/17'
+  },
+  {
+    name: 'fplusmobile.ru',
+    description: '',
+    date: '2023/10/09'
+  },
+  {
+    name: 'ru.yeelight.com',
+    description: '',
+    date: '2023/10/05'
+  },
+  {
+    name: 'jimmyglobal.ru',
+    description: '',
+    date: '2023/10/02'
+  },
+  {
+    name: 'ru.dreametech.com',
+    description: '',
+    date: '2023/09/29'
+  },
+  {
     name: 'bta-global.ru',
     description: 'Не следует, однако забывать, что новая модель организационной деятельности играет важную роль в формировании модели развития. С другой стороны сложившаяся структура организации требуют определения и уточнения систем массового участия. Таким образом новая модель организационной деятельности в значительной степени обуславливает создание соответствующий условий активизации.',
     date: '2023/09/26'
