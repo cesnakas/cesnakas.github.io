@@ -1,7 +1,7 @@
 <template>
   <section class="py-5 my-5">
     <div class="container">
-      <div class="front-header row align-items-center justify-content-center">
+      <div class="hero-header row align-items-center justify-content-center">
         <div class="col-lg-5 text-center text-lg-end mb-5 mb-lg-0">
           <picture>
             <source srcset="@/assets/images/cesnakas.webp" type="image/webp" />
@@ -21,9 +21,9 @@
             data-bs-ride="carousel"
           >
             <div class="carousel-inner">
-              <div class="carousel-item active"><h4 class="fs-5">Software Engineer</h4></div>
-              <div class="carousel-item"><h4 class="fs-5">Frontend Developer</h4></div>
-              <div class="carousel-item"><h4 class="fs-5">Backend Developer</h4></div>
+              <div class="carousel-item active"><h4 class="fs-5">Frontend Developer</h4></div>
+              <div class="carousel-item"><h4 class="fs-5">Vue.js Developer</h4></div>
+              <div class="carousel-item"><h4 class="fs-5">React Developer</h4></div>
               <div class="carousel-item"><h4 class="fs-5">Fullstack Developer</h4></div>
             </div>
           </div>
@@ -49,7 +49,7 @@
 <script></script>
 
 <style lang="scss" scoped>
-.front-header {
+.hero-header {
   @media (min-width: 992px) {
     position: relative;
     min-height: calc(100vh - 3rem - 3rem - 3rem - 3rem);

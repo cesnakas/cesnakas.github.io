@@ -6,6 +6,15 @@ const loadComponent = (view) => {
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
+  scrollBehavior(to, from, savedPosition) {
+    if (to.hash) {
+      return {
+        el: to.hash,
+        top: 48,
+        behavior: 'smooth',
+      }
+    }
+  },
   routes: [
     {
       path: '/',
@@ -38,8 +47,8 @@ const router = createRouter({
       component: loadComponent('NotFound')
     }
   ],
-  linkActiveClass: 'active',
-  linkExactActiveClass: 'active'
+  linkActiveClass: 'active-link',
+  linkExactActiveClass: 'active-link'
 })
 
 router.beforeEach((to, from, next) => {

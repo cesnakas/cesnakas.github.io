@@ -1,5 +1,5 @@
 <template>
-  <header class="navbar fixed-top pt-lg-5" role="banner">
+  <header class="navbar navbar-expand-lg fixed-top pt-lg-5" role="banner">
     <div class="container">
       <a class="navbar-brand" href="/">Sergei Česnakas</a>
 
@@ -9,6 +9,7 @@
         data-bs-toggle="offcanvas"
         data-bs-target="#offcanvasDarkNavbar"
         aria-controls="offcanvasDarkNavbar"
+        aria-expanded="false"
       >
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -29,13 +30,14 @@
           ></button>
         </div>
         <div class="offcanvas-body">
-          <ul class="navbar-nav justify-content-center align-items-center h-100">
+          <ul class="navbar-nav ms-auto justify-content-center align-items-center h-100">
             <li v-for="item in items" class="nav-item">
               <RouterLink class="nav-link" :to="item.link">{{ item.linkTitle }}</RouterLink>
             </li>
           </ul>
         </div>
       </div>
+
     </div>
   </header>
 </template>
@@ -46,8 +48,12 @@ export default {
     return {
       items: [
         {
-          linkTitle: 'Home',
-          link: '/'
+          linkTitle: 'Skills',
+          link: '/#skills'
+        },
+        {
+          linkTitle: 'Experience',
+          link: '/#experience'
         },
         {
           linkTitle: 'Resume',
