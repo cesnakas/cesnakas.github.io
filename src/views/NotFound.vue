@@ -22,7 +22,7 @@
   </section>
 </template>
 
-<style lang="scss" scoped>
+<style scoped lang="scss">
 .row {
   @media (min-width: 992px) {
     position: relative;

@@ -19,7 +19,7 @@ const router = createRouter({
     {
       path: '/',
       name: 'Sergei Česnakas',
-      component: loadComponent('Home')
+      component: loadComponent('HomeView')
     },
     {
       path: '/resume',
@@ -47,8 +47,8 @@ const router = createRouter({
       component: loadComponent('NotFound')
     }
   ],
-  linkActiveClass: 'active-link',
-  linkExactActiveClass: 'active-link'
+  linkActiveClass: 'isActive',
+  linkExactActiveClass: 'isActive'
 })
 
 router.beforeEach((to, from, next) => {

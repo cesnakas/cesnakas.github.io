@@ -3,7 +3,6 @@ import { createPinia } from 'pinia'
 
 import * as Popper from '@popperjs/core'
 import * as Bootstrap from 'bootstrap'
-// import 'bootstrap/scss/bootstrap.scss'
 
 import App from './App.vue'
 import router from './router'
