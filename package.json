@@ -15,22 +15,22 @@
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.2",
     "masonry-layout": "^4.2.2",
-    "pinia": "^2.1.6",
-    "swiper": "^10.2.0",
-    "vue": "^3.3.4",
-    "vue-router": "^4.2.4"
+    "pinia": "^2.1.7",
+    "swiper": "^11.0.4",
+    "vue": "^3.3.8",
+    "vue-router": "^4.2.5"
   },
   "devDependencies": {
-    "@rushstack/eslint-patch": "^1.4.0",
-    "@vitejs/plugin-vue": "^4.3.4",
+    "@rushstack/eslint-patch": "^1.5.1",
+    "@vitejs/plugin-vue": "^4.4.1",
     "@vitejs/plugin-vue-jsx": "^3.0.2",
     "@vue/eslint-config-prettier": "^8.0.0",
-    "eslint": "^8.49.0",
-    "eslint-plugin-vue": "^9.17.0",
+    "eslint": "^8.53.0",
+    "eslint-plugin-vue": "^9.18.1",
     "node-sass": "latest",
-    "prettier": "^3.0.3",
+    "prettier": "^3.1.0",
     "sass": "latest",
     "sass-loader": "latest",
-    "vite": "^4.4.9"
+    "vite": "^4.5.0"
   }
 }
