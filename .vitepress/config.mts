@@ -63,14 +63,14 @@ export default defineConfig({
         link: '/docs/sass/',
         collapsed: true,
         items: [
-          { text: 'Variables' },
-          { text: 'Mixins' }
+          { text: 'Variables', link: '/docs/sass/variables' },
+          { text: 'Mixins', link: '/docs/sass/mixins' }
         ]
       },
       {
         text: 'JavaScript',
         link: '/docs/javascript/',
-        collapsed: true,
+        // collapsed: true,
         items: [
           { text: null }
         ]

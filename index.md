@@ -23,7 +23,7 @@ hero:
 features:
   - title: JavaScript
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #link: /javascript/
+    link: /docs/javascript/
     icon:
       src: /images/javascript.svg
       alt: JavaScript
@@ -55,7 +55,7 @@ features:
       
   - title: Sass / SCSS
     details: Метаязык, который упрощает и ускоряет написание CSS-кода.
-    #link: /sass-scss/
+    link: /docs/sass/
     icon:
       src: /images/sass.svg
       alt: Sass / SCSS
@@ -69,7 +69,7 @@ features:
       
   - title: Bitrix
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /bitrix/
+    link: /docs/bitrix/
     icon:
       src: /images/bitrix.svg
       alt: Bitrix
@@ -85,11 +85,9 @@ features:
     icon:
       src: /images/gulp.svg
       alt: Gulp
-    #link: /guide/gulp
     
   - title: BEM
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #link: /guide/bem
     icon:
       src: /images/bem.svg
       alt: BEM
