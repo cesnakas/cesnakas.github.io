@@ -80,7 +80,7 @@ export default defineConfig({
         link: '/docs/bitrix/',
         collapsed: true,
         items: [
-          { text: 'Filter', link: '/bitrix/snippets/filter' },
+          { text: 'Filter', link: '/docs/bitrix/snippets/filter' },
         ]
       }
     ],
@@ -93,7 +93,7 @@ export default defineConfig({
     },
 
     footer: {
-      // message: 'Released under the MIT License.',
+      message: 'Česnakas Inc. All rights reserved.',
       copyright: 'Copyright © ' + new Date().getFullYear()
     }
 

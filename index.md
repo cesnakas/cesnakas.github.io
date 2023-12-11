@@ -3,22 +3,18 @@
 layout: home
 title: Sergei Česnakas
 titleTemplate: false
-# description: Sergei Česnakas
 
 hero:
   name: Sergei Česnakas
-#  text: '&nbsp;'
-  tagline: Hi there 👋 I'm Front-end Web Developer
+  text: 
+  tagline: Hi there 👋 I'm <nobr>Front-end Web Developer</nobr>
   image:
     src: /images/s.cesnakas.png
     alt: Sergei Česnakas
   actions:
-#    - text: Telegram
-#      link: 
-#      theme: brand
-#    - text: Web-site
-#      link: https://cesnakas.com
-#      theme: alt
+    - theme: alt
+      text:
+      link: 
 
 features:
   - title: JavaScript
@@ -28,18 +24,11 @@ features:
       src: /images/javascript.svg
       alt: JavaScript
 
-  - title: TypeScript
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    icon:
-      src: /images/typescript.svg
-      alt: TypeScript
-
   - title: Vue
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     icon:
       src: /images/vue.svg
       alt: Vue.js
-    #link: https://vuejs.org
     
   - title: React
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -53,12 +42,24 @@ features:
       src: /images/nodejs.svg
       alt: Node.js
       
-  - title: Sass / SCSS
+  - title: Laravel
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/laravel.svg
+      alt: Laravel
+      
+  - title: Sass/SCSS
     details: Метаязык, который упрощает и ускоряет написание CSS-кода.
     link: /docs/sass/
     icon:
       src: /images/sass.svg
       alt: Sass / SCSS
+      
+  - title: TypeScript
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/typescript.svg
+      alt: TypeScript
       
   - title: PHP
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -74,12 +75,6 @@ features:
       src: /images/bitrix.svg
       alt: Bitrix
       
-  - title: Laravel
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    icon:
-      src: /images/laravel.svg
-      alt: Laravel
-      
   - title: Gulp
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     icon:
@@ -89,6 +84,31 @@ features:
   - title: BEM
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     icon:
-      src: /images/bem.svg
+      light: /images/bem.svg
+      dark: /images/bem-dark.svg
       alt: BEM
+
+  - title: Figma
+    details: Онлайн-сервис для разработки интерфейсов и прототипирования.
+    icon:
+      src: /images/figma.svg
+      alt: Figma
+
+  - title: Bootstrap
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/bootstrap.svg
+      alt: Bootstrap
+
+  - title: Git
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/git.svg
+      alt: Git
+
+  - title: Webpack
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/webpack.svg
+      alt: Webpack
 ---
