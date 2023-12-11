@@ -121,9 +121,25 @@
   --vp-home-hero-image-filter: blur(44px);
 }
 
+@media (max-width: 640px) {
+  .VPHero.VPHomeHero .container .image {
+    margin: inherit;
+  }
+}
+
+.VPHero.VPHomeHero .container {
+  align-items: center;
+  justify-content: center;
+  min-height: calc(100vh - 112px - 48px);
+}
+
 @media (min-width: 640px) {
   :root {
     --vp-home-hero-image-filter: blur(56px);
+  }
+
+  .VPHero.VPHomeHero .container {
+    min-height: calc(100vh - 144px - 64px - 30vh);
   }
 }
 
