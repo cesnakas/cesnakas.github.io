@@ -18,26 +18,26 @@ hero:
 
 features:
   - title: JavaScript
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Динамический язык программирования, который используют для создания интерактивных веб-страниц.
     link: /docs/javascript/
     icon:
       src: /images/javascript.svg
       alt: JavaScript
 
   - title: Vue
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: JavaScript-фреймворк для создания пользовательских интерфейсов (UI).
     icon:
       src: /images/vue.svg
       alt: Vue.js
     
   - title: React
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: JavaScript-библиотека для создания пользовательских интерфейсов (UI).
     icon:
       src: /images/react.svg
       alt: React
       
   - title: Node.js
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Программная платформа, превращающая JavaScript из узкоспециализированного языка в язык общего назначения.
     icon:
       src: /images/nodejs.svg
       alt: Node.js
