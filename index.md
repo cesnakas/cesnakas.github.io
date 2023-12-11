@@ -111,4 +111,61 @@ features:
     icon:
       src: /images/webpack.svg
       alt: Webpack
+
+  - title: Axios
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      light: /images/axios.svg
+      dark: /images/axios-dark.svg
+      alt: Axios
+
+  - title: Handlebars
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      light: /images/handlebars.svg
+      dark: /images/handlebars-dark.svg
+      alt: Handlebars
+
+  - title: http
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/http.svg
+      alt: http
+
+  - title: jQuery
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      light: /images/jquery.svg
+      dark: /images/jquery-dark.svg
+      alt: jQuery
+
+  - title: macOS
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/macos.svg
+      alt: macOS
+
+  - title: WebStorm
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/webstorm.svg
+      alt: WebStorm
+
+  - title: PhpStorm
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/phpstorm.svg
+      alt: PhpStorm
+
+  - title: Pinia
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/pinia.svg
+      alt: Pinia
+
+  - title: WebSocket
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/websocket.svg
+      alt: WebSocket
 ---
