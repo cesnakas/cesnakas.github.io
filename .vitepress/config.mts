@@ -5,7 +5,7 @@ export default defineConfig({
   // lang: 'ru',
   cleanUrls: true,
   sitemap: {
-    hostname: 'https://cesnakas.github.io/developer/'
+    hostname: 'https://cesnakas.github.io'
   },
 
   head: [
