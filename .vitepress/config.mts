@@ -80,7 +80,30 @@ export default defineConfig({
         link: '/docs/bitrix/',
         collapsed: true,
         items: [
-          { text: 'Filter', link: '/docs/bitrix/snippets/filter' },
+          {
+            text: 'Components', collapsed: true,
+            items: [
+              { text: 'Breadcrumb', link: '/docs/bitrix/components/breadcrumb' },
+            ]
+          },
+          {
+            text: 'Modules', collapsed: true,
+            items: [
+              { text: 'Demo', link: '/docs/bitrix/modules/demo' },
+            ]
+          },
+          {
+            text: 'Snippets', collapsed: true,
+            items: [
+              { text: 'Filter', link: '/docs/bitrix/snippets/filter' },
+            ]
+          },
+          {
+            text: 'Other', collapsed: true,
+            items: [
+              { text: 'Server', link: '/docs/bitrix/server' }
+            ]
+          }
         ]
       }
     ],
