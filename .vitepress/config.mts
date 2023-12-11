@@ -39,13 +39,13 @@ export default defineConfig({
         items: [
           {
             items: [
-              { text: 'Sass', link: '/docs/sass/' },
+              { text: 'Sass/SCSS', link: '/docs/sass/' },
               { text: 'JavaScript', link: '/docs/javascript/' },
             ],
           },
           {
             items: [
-              { text: 'Bitrix', link: '/bitrix/' }
+              { text: 'Bitrix', link: '/docs/bitrix/' }
             ]
           },
         ]
@@ -59,9 +59,26 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Sass/SCSS',
+        link: '/docs/sass/',
+        collapsed: true,
+        items: [
+          { text: 'Variables' },
+          { text: 'Mixins' }
+        ]
+      },
+      {
+        text: 'JavaScript',
+        link: '/docs/javascript/',
+        collapsed: true,
+        items: [
+          { text: null }
+        ]
+      },
+      {
         text: 'Bitrix',
-        link: '/bitrix/',
-        collapsed: false,
+        link: '/docs/bitrix/',
+        collapsed: true,
         items: [
           { text: 'Filter', link: '/bitrix/snippets/filter' },
         ]

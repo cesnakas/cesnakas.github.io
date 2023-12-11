@@ -8,6 +8,7 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
+    "sass": "latest",
     "vitepress": "latest"
   }
 }
