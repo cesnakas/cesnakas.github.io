@@ -2,6 +2,9 @@
 import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+
+import WorkList from './WorkList.vue'
+
 import './style.scss'
 
 export default {
@@ -13,5 +16,6 @@ export default {
   },
   enhanceApp({ app, router, siteData }) {
     // ...
+    app.component('work', WorkList)
   }
 } satisfies Theme

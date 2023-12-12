@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Work
+lang: ru-RU
 
 hero:
   name: VitePress
@@ -17,36 +19,49 @@ hero:
       link: https://github.com/vuejs/vitepress
 
 features:
-  - title: Simple and minimal, always
+  - title: accesstyle.ru
     details: Lorem ipsum...
-    icon: 🛠️
+    icon: 👋
     
-  - title: Another cool feature
+  - title: ru.dareu.com
     details: Lorem ipsum...
-    icon: 😉
+    icon: 👋
     
-  - title: Another cool feature
-    details: Lorem ipsum...
-    icon: 😎
-
-  - title: Another cool feature
+  - title: ru.viomi.com
     details: Lorem ipsum...
     icon: 👋
 
-  - title: Simple and minimal, always
+  - title: ninetygorussia.com
     details: Lorem ipsum...
-    icon: 🛠️
+    icon: 👋
 
-  - title: Another cool feature
+  - title: fplusmobile.ru
     details: Lorem ipsum...
-    icon: 😉
+    icon: 👋
 
-  - title: Another cool feature
+  - title: ru.yeelight.com
     details: Lorem ipsum...
-    icon: 😎
+    link: /work/ru.yeelight.com
+    icon: 👋
 
-  - title: Another cool feature
+  - title: jimmyglobal.ru
     details: Lorem ipsum...
+    link: /work/jimmyglobal.ru
+    icon: 👋
+
+  - title: ru.dreametech.com
+    details: eCommerce
+    link: /work/ru.dreametech.com
+    icon: 👋
+
+  - title: santehnika-tut.ru
+    details: Lorem ipsum...
+    link: /work/santehnika-tut.ru
+    icon: 👋
+
+  - title: steklodom.com
+    details: Lorem ipsum...
+    link: /work/steklodom.com
     icon: 👋
 ---
 
@@ -117,7 +132,7 @@ const members = [
     </template>
   </VPTeamPageTitle>
 
-[//]: # (  <VPTeamMembers size="medium" :members="members" />)
+[//]: # (<VPTeamMembers size="small" :members="members" />)
 
   <VPHomeFeatures />
 
