@@ -19,7 +19,7 @@ hero:
 features:
   - title: JavaScript
     details: Динамический язык программирования, который используют для создания интерактивных веб-страниц.
-    link: /docs/javascript/
+    link: /javascript/
     icon:
       src: /images/javascript.svg
       alt: JavaScript
@@ -50,7 +50,7 @@ features:
       
   - title: Sass/SCSS
     details: Метаязык, который упрощает и ускоряет написание CSS-кода.
-    link: /docs/sass/
+    link: /sass/
     icon:
       src: /images/sass.svg
       alt: Sass / SCSS
@@ -63,14 +63,13 @@ features:
       
   - title: PHP
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #link: /
     icon:
       src: /images/php.svg
       alt: PHP
       
   - title: Bitrix
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /docs/bitrix/
+    link: /bitrix/
     icon:
       src: /images/bitrix.svg
       alt: Bitrix

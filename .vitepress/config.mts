@@ -16,8 +16,8 @@ export default defineConfig({
     ['script', {}, `(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(70155283, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true })` ]
   ],
 
-  title: "Sergei Česnakas",
-  description: "Sergei Česnakas — Front-end Web Developer",
+  title: 'Sergei Česnakas',
+  description: 'Sergei Česnakas — Front-end Web Developer',
 
   locales: {
     root: { label: 'English', lang: 'en-US' },
@@ -31,26 +31,7 @@ export default defineConfig({
       provider: 'local'
     },
 
-    nav: [
-      { text: 'Skills', link: '/#skills' },
-      { text: 'Experience', link: '#experience' },
-      { text: 'Work', link: '/#work' },
-      { text: 'Docs',
-        items: [
-          {
-            items: [
-              { text: 'Sass/SCSS', link: '/sass/' },
-              { text: 'JavaScript', link: '/docs/javascript/' },
-            ],
-          },
-          {
-            items: [
-              { text: 'Bitrix', link: '/docs/bitrix/' }
-            ]
-          },
-        ]
-      },
-    ],
+    nav: nav(),
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/cesnakas' },
@@ -59,8 +40,8 @@ export default defineConfig({
 
     sidebar: {
       '/sass/': { base: '/sass/', items: sidebarSass() },
-      '/docs/javascript/': { base: '/docs/javascript/', items: sidebarJavascript() },
-      '/docs/bitrix/': { base: '/docs/bitrix/', items: sidebarBitrix() },
+      '/javascript/': { base: '/javascript/', items: sidebarJavascript() },
+      '/bitrix/': { base: '/bitrix/', items: sidebarBitrix() },
     },
 
     outlineTitle: 'Содержание:',
@@ -78,6 +59,33 @@ export default defineConfig({
   }
 })
 
+/** Navigation */
+
+function nav(): DefaultTheme.NavItem[] {
+  return [
+    { text: 'Skills', link: '/#skills' },
+    { text: 'Experience', link: '/#experience' },
+    { text: 'Work', link: '/#work' },
+    { text: 'Docs',
+      items: [
+        {
+          items: [
+            { text: 'Sass/SCSS', link: '/sass/' },
+            { text: 'JavaScript', link: '/javascript/' },
+          ],
+        },
+        {
+          items: [
+            { text: 'Bitrix', link: '/bitrix/' }
+          ]
+        },
+      ]
+    }
+  ]
+}
+
+/** Sidebar */
+
 function sidebarSass(): DefaultTheme.SidebarItem[] {
   return [
     { text: 'Sass/SCSS', link: '/' },
@@ -91,7 +99,6 @@ function sidebarJavascript(): DefaultTheme.SidebarItem[] {
     {
       text: 'JavaScript',
       link: '/',
-      // collapsed: true,
       items: [
         { text: null }
       ]
