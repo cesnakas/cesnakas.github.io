@@ -5,8 +5,8 @@ description: Bitrix Framework — это платформа содержащая
 ---
 
 # Битрикс
-::: info Битрикс
-— 
+::: details &nbsp;Битрикс
+[[toc]]
 :::
 
 ## Модули

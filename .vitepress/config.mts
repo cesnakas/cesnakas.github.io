@@ -146,8 +146,8 @@ function sidebarBitrix(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'Bitrix',
+      link: '/',
       items: [
-        { text: 'Info', link: '/' },
         {
           text: 'Components', collapsed: false,
           items: [
