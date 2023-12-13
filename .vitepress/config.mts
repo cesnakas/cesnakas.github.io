@@ -22,6 +22,7 @@ export default defineConfig({
 
   locales: {
     root: { label: 'English', lang: 'en-US' },
+    // ru: { label: 'Русский', lang: 'ru' }
   },
 
   themeConfig: {
@@ -42,6 +43,7 @@ export default defineConfig({
     sidebar: {
       '/sass/': { base: '/sass', items: sidebarSass() },
       '/javascript/': { base: '/javascript', items: sidebarJavascript() },
+      '/php/': { base: '/php', items: sidebarPhp() },
       '/git/': { base: '/git', items: sidebarGit() },
       '/bitrix/': { base: '/bitrix', items: sidebarBitrix() },
     },
@@ -74,6 +76,7 @@ function nav(): DefaultTheme.NavItem[] {
           items: [
             { text: 'Sass/SCSS', link: '/sass/' },
             { text: 'JavaScript', link: '/javascript/' },
+            { text: 'PHP', link: '/php/' },
           ],
         },
         {
@@ -117,6 +120,17 @@ function sidebarJavascript(): DefaultTheme.SidebarItem[] {
   ]
 }
 
+function sidebarPhp(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'PHP',
+      items: [
+        { text: 'Info', link: '/' }
+      ]
+    },
+  ]
+}
+
 function sidebarGit(): DefaultTheme.SidebarItem[] {
   return [
     {
@@ -134,30 +148,30 @@ function sidebarBitrix(): DefaultTheme.SidebarItem[] {
       text: 'Bitrix',
       items: [
         { text: 'Info', link: '/' },
-      ]
-    },
-    {
-      text: 'Components', collapsed: true,
-      items: [
-        { text: 'Breadcrumb', link: '/components/breadcrumb' },
-      ]
-    },
-    {
-      text: 'Modules', collapsed: true,
-      items: [
-        { text: 'Demo', link: '/modules/demo' },
-      ]
-    },
-    {
-      text: 'Snippets', collapsed: true,
-      items: [
-        { text: 'Filter', link: '/snippets/filter' },
-      ]
-    },
-    {
-      text: 'Other', collapsed: true,
-      items: [
-        { text: 'Server', link: '/server' }
+        {
+          text: 'Components', collapsed: false,
+          items: [
+            { text: 'Breadcrumb', link: '/components/breadcrumb' },
+          ]
+        },
+        {
+          text: 'Modules', collapsed: false,
+          items: [
+            { text: 'Demo', link: '/modules/demo' },
+          ]
+        },
+        {
+          text: 'Snippets', collapsed: false,
+          items: [
+            { text: 'Filter', link: '/snippets/filter' },
+          ]
+        },
+        {
+          text: 'Other', collapsed: false,
+          items: [
+            { text: 'Server', link: '/server' }
+          ]
+        }
       ]
     }
   ]

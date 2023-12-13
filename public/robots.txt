@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Host: cesnakas.github.io
-Sitemap: http://cesnakas.github.io/sitemap.xml
+Sitemap: https://cesnakas.github.io/sitemap.xml

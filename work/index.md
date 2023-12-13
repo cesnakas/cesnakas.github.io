@@ -20,7 +20,7 @@ hero:
 features:
   - title: accesstyle.ru
     details: Lorem ipsum...
-    link: /work/accesstyle-ru
+    link: /work/accesstyle_ru
     icon: 👋
     
   - title: ru.dareu.com
