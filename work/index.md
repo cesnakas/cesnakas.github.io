@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Work
-lang: ru-RU
 
 hero:
   name: VitePress
@@ -21,6 +20,7 @@ hero:
 features:
   - title: accesstyle.ru
     details: Lorem ipsum...
+    link: /work/accesstyle-ru
     icon: 👋
     
   - title: ru.dareu.com

@@ -1,6 +1,6 @@
 ---
-layout: doc
 title: JavaScript
+titleTemplate: false
 description: JavaScript
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout: doc
-title: Sass/SCSS Mixins
+title: Mixins — Sass/SCSS
+titleTemplate: false
 ---
 
 # Mixins

@@ -18,7 +18,7 @@ export default defineConfig({
 
   title: 'Sergei Česnakas',
   description: 'Sergei Česnakas — Front-end Web Developer',
-  titleTemplate: false,
+  // titleTemplate: false,
 
   locales: {
     root: { label: 'English', lang: 'en-US' },
@@ -157,7 +157,7 @@ function sidebarBitrix(): DefaultTheme.SidebarItem[] {
     {
       text: 'Other', collapsed: true,
       items: [
-        { text: 'Server', link: 'server' }
+        { text: 'Server', link: '/server' }
       ]
     }
   ]

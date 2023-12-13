@@ -1,5 +1,6 @@
 ---
 title: Sass/SCSS
+titleTemplate: false
 description: Sass/SCSS — Метаязык (язык для описания другого языка), который упрощает и ускоряет написание CSS-кода.
 ---
 

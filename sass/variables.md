@@ -1,6 +1,6 @@
 ---
-layout: doc
-title: Sass/SCSS Variables
+title: Variables — Sass/SCSS
+titleTemplate: false
 ---
 
 # Variables
