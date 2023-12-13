@@ -18,6 +18,7 @@ export default defineConfig({
 
   title: 'Sergei Česnakas',
   description: 'Sergei Česnakas — Front-end Web Developer',
+  titleTemplate: false,
 
   locales: {
     root: { label: 'English', lang: 'en-US' },
@@ -39,9 +40,10 @@ export default defineConfig({
     ],
 
     sidebar: {
-      '/sass/': { base: '/sass/', items: sidebarSass() },
-      '/javascript/': { base: '/javascript/', items: sidebarJavascript() },
-      '/bitrix/': { base: '/bitrix/', items: sidebarBitrix() },
+      '/sass/': { base: '/sass', items: sidebarSass() },
+      '/javascript/': { base: '/javascript', items: sidebarJavascript() },
+      '/git/': { base: '/git', items: sidebarGit() },
+      '/bitrix/': { base: '/bitrix', items: sidebarBitrix() },
     },
 
     outlineTitle: 'Содержание:',
@@ -76,6 +78,11 @@ function nav(): DefaultTheme.NavItem[] {
         },
         {
           items: [
+            { text: 'Git', link: '/git/' }
+          ]
+        },
+        {
+          items: [
             { text: 'Bitrix', link: '/bitrix/' }
           ]
         },
@@ -88,9 +95,14 @@ function nav(): DefaultTheme.NavItem[] {
 
 function sidebarSass(): DefaultTheme.SidebarItem[] {
   return [
-    { text: 'Sass/SCSS', link: '/' },
-    { text: 'Variables', link: 'variables' },
-    { text: 'Mixins', link: 'mixins' }
+    {
+      text: 'Sass/SCSS',
+      items: [
+        { text: 'Info', link: '/', },
+        { text: 'Variables', link: '/variables' },
+        { text: 'Mixins', link: '/mixins' }
+      ]
+    }
   ]
 }
 
@@ -98,11 +110,21 @@ function sidebarJavascript(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'JavaScript',
-      link: '/',
       items: [
-        { text: null }
+        { text: 'Info', link: '/' }
       ]
     },
+  ]
+}
+
+function sidebarGit(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'Git',
+      items: [
+        { text: 'Info', link: '/' }
+      ]
+    }
   ]
 }
 
@@ -110,9 +132,8 @@ function sidebarBitrix(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'Bitrix',
-      collapsed: false,
       items: [
-        { text: 'Main', link: '/' },
+        { text: 'Info', link: '/' },
       ]
     },
     {
