@@ -70,6 +70,7 @@ function nav(): DefaultTheme.NavItem[] {
     { text: 'Skills', link: '/#skills' },
     { text: 'Experience', link: '/#experience' },
     { text: 'Work', link: '/#work' },
+    { text: 'Resume', link: '/#resume' },
     { text: 'Docs',
       items: [
         {

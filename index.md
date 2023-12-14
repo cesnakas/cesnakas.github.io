@@ -63,6 +63,7 @@ features:
       
   - title: PHP
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /php/
     icon:
       src: /images/php.svg
       alt: PHP
