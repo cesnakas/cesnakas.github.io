@@ -1,7 +1,7 @@
 ---
 title: Git
 titleTemplate: false
-description: Git
+description: Git — Система контроля версий с распределенной архитектурой.
 ---
 
 # Git
