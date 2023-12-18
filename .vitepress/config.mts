@@ -43,6 +43,7 @@ export default defineConfig({
     ],
 
     sidebar: {
+      '/guide/': { base: '/guide', items: sidebarGuide() },
       '/sass/': { base: '/sass', items: sidebarSass() },
       '/javascript/': { base: '/javascript', items: sidebarJavascript() },
       '/php/': { base: '/php', items: sidebarPhp() },
@@ -73,6 +74,12 @@ function nav(): DefaultTheme.NavItem[] {
     { text: 'Experience', link: '/#experience' },
     { text: 'Work', link: '/#work' },
     { text: 'Resume', link: '/#resume' },
+    {
+      text: 'Guide',
+      items: [
+        { text: 'SSH', link: '/guide/ssh' }
+      ]
+    },
     { text: 'Docs',
       items: [
         {
@@ -98,6 +105,11 @@ function nav(): DefaultTheme.NavItem[] {
 }
 
 /** Sidebar */
+function sidebarGuide(): DefaultTheme.SidebarItem[] {
+  return [
+    { text: 'SSH', link: '/ssh' }
+  ]
+}
 
 function sidebarSass(): DefaultTheme.SidebarItem[] {
   return [
