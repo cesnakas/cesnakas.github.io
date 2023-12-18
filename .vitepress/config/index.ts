@@ -6,7 +6,7 @@ import { config as ru, searchLocale as searchLocaleRu } from './ru'
 export default defineConfig({
   cleanUrls: true,
   sitemap: {
-    hostname: 'https://cesnakas.com'
+    hostname: 'https://cesnakas.com',
   },
 
   head: [
@@ -23,9 +23,7 @@ export default defineConfig({
   description: 'Sergei Česnakas — Front-end Web Developer',
 
   locales: {
-    // root: { label: 'English', lang: 'en-US' },
     ...root,
-    // ru: { label: 'Русский', lang: 'ru' }
     ...ru
   },
 

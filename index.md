@@ -13,9 +13,9 @@ hero:
     src: /images/s.cesnakas.png
     alt: Sergei Česnakas
   actions:
-    - theme: alt
-      text:
-      link: 
+#    - theme: alt
+#      text:
+#      link: 
 
 features:
   - title: JavaScript
