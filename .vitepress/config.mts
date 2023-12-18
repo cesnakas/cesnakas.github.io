@@ -3,7 +3,7 @@ import { defineConfig, type DefaultTheme } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // lang: '',
-  // cleanUrls: true,
+  cleanUrls: true,
   sitemap: {
     hostname: 'https://cesnakas.com'
   },
@@ -13,7 +13,9 @@ export default defineConfig({
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: ''}],
     ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;200;300;400;500;600;700;800&display=swap' }],
-    ['script', {}, `(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(24299302, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); ym(70155283, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, trackHash:true })`]
+    ['script', {}, `(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(24299302, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); ym(70155283, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, trackHash:true })`],
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=UA-49010861-1'}],
+    ['script', {}, `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-49010861-1');`]
   ],
 
   title: 'Sergei Česnakas',
