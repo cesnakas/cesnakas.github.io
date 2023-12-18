@@ -9,9 +9,8 @@ export default defineConfig({
     hostname: 'https://cesnakas.com',
     lastmodDateOnly: false,
     xmlns: {
-      xhtml: false,
+      xhtml: true,
       news: true,
-      video: false
     }
   },
 
