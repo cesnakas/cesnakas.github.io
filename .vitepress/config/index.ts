@@ -7,6 +7,12 @@ export default defineConfig({
   cleanUrls: true,
   sitemap: {
     hostname: 'https://cesnakas.com',
+    lastmodDateOnly: false,
+    xmlns: {
+      xhtml: false,
+      news: true,
+      video: false
+    }
   },
 
   head: [
