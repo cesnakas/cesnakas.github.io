@@ -3,7 +3,7 @@
 layout: home
 title: Sergei Česnakas
 titleTemplate: false
-description: Sergei Česnakas — Front-end Web Developer
+description: Sergei Česnakas — Фронтенд Веб-Разработчик
 
 hero:
   name: Sergei Česnakas
