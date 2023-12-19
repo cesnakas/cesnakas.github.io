@@ -59,6 +59,7 @@ function nav(): DefaultTheme.NavItem[] {
 /** Sidebar */
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
-    { text: 'SSH', link: '/ssh' }
+    { text: 'Браузер', link: '/browser' },
+    { text: 'SSH', link: '/ssh' },
   ]
 }
