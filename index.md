@@ -19,20 +19,20 @@ hero:
 
 features:
   - title: JavaScript
-    details: Динамический язык программирования, который используют для создания интерактивных веб-страниц.
+    details: A dynamic programming language that is used to create interactive web pages.
     link: /javascript/
     icon:
       src: /images/javascript.svg
       alt: JavaScript
 
-  - title: Vue
-    details: JavaScript-фреймворк для создания пользовательских интерфейсов (UI).
+  - title: Vue.js
+    details: JavaScript is a framework for creating user interfaces (UI).
     icon:
       src: /images/vue.svg
       alt: Vue.js
     
   - title: React
-    details: JavaScript-библиотека для создания пользовательских интерфейсов (UI).
+    details: JavaScript is a library for creating user interfaces (UI).
     icon:
       src: /images/react.svg
       alt: React
