@@ -8,7 +8,7 @@ description: Sergei Česnakas — Фронтенд Веб-Разработчик
 hero:
   name: Sergei Česnakas
   text: 
-  tagline: Hi there 👋 I'm <nobr>Front-end Web Developer</nobr>
+  tagline: Привет 👋 Я <nobr>Фронтенд Веб-разработчик</nobr>
   image:
     src: /images/s.cesnakas.png
     alt: Sergei Česnakas
