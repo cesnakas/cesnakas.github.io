@@ -7,15 +7,15 @@ description: Sergei Česnakas — Front-end Web Developer
 
 hero:
   name: Sergei Česnakas
-  text: 
-  tagline: Hi there 👋 I'm <nobr>Front-end Web Developer</nobr>
+  text: Front-end <nobr>Web Developer</nobr>
+  tagline: Guide's, Note's, Code Snippets, etc.
   image:
     src: /images/s.cesnakas.png
     alt: Sergei Česnakas
   actions:
-#    - theme: alt
-#      text:
-#      link: 
+#    - text: View on GitHub
+#      link: https://github.com/cesnakas
+#      theme: alt
 
 features:
   - title: JavaScript
