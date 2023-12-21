@@ -5,11 +5,6 @@ import { config as ru, searchLocale as searchLocaleRu } from './ru'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   cleanUrls: true,
-  sitemap: {
-    hostname: 'https://cesnakas.com',
-    lastmodDateOnly: false,
-    /*xmlns: { xhtml: true, news: true }*/
-  },
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -71,7 +66,11 @@ export default defineConfig({
       copyright: 'Copyright © ' + new Date().getFullYear()
     }
 
-  }
+  },
+
+  sitemap: {
+    hostname: 'https://cesnakas.com'
+  },
 })
 
 /** Sidebar */
