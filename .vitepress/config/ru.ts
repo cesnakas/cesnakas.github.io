@@ -35,7 +35,11 @@ export const config: LocaleConfig<DefaultTheme.Config> = {
 
       sidebar: {
         '/ru/guide/': { base: '/ru/guide', items: sidebarGuide() },
-      }
+        '/ru/sass/': { base: '/ru/sass', items: sidebarSass() },
+        '/ru/javascript/': { base: '/ru/javascript', items: sidebarJavascript() },
+        '/ru/php/': { base: '/ru/php', items: sidebarPhp() },
+        '/ru/bitrix/': { base: '/ru/bitrix', items: sidebarBitrix() },
+      },
     }
   }
 }
@@ -48,18 +52,76 @@ function nav(): DefaultTheme.NavItem[] {
     { text: 'Работы', link: '/ru/#work' },
     { text: 'Резюме', link: '/ru/#resume' },
     {
-      text: 'Гайды',
-      items: [
-        { text: 'SSH', link: '/ru/guide/ssh' }
+      text: 'Гайды', items: [
+        { text: 'Browser', link: '/ru/guide/browser' },
+        { text: 'SSH', link: '/ru/guide/ssh' },
+        { text: 'Sass/SCSS', link: '/ru/sass/' },
+        { text: 'Bitrix', link: '/ru/bitrix/' },
       ]
     }
   ]
 }
 
-/** Sidebar */
+/** Sidebars */
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
     { text: 'Браузер', link: '/browser' },
     { text: 'SSH', link: '/ssh' },
+  ]
+}
+
+function sidebarSass(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'Sass/SCSS', link: '/', items: [
+        { text: 'Переменные', link: '/variables' },
+        { text: 'Миксины', link: '/mixins' }
+      ]
+    },
+  ]
+}
+
+function sidebarJavascript(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'JavaScript', link: '/', items: [
+        { text: 'Подключение', link: null }
+      ]
+    },
+  ]
+}
+
+function sidebarPhp(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'PHP', link: '/', items: [
+        { text: 'Get started', link: null }
+      ]
+    },
+  ]
+}
+
+function sidebarBitrix(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'Bitrix', link: '/', items: [
+        { text: 'Папки и файлы', link: '/server' },
+      ]
+    },
+    {
+      text: 'Components', collapsed: null, items: [
+        { text: 'Breadcrumb', link: '/components/breadcrumb' },
+      ]
+    },
+    {
+      text: 'Modules', collapsed: null, items: [
+        { text: 'Demo', link: '/modules/demo' },
+      ]
+    },
+    {
+      text: 'Snippets', collapsed: null, items: [
+        { text: 'Filter', link: '/snippets/filter' },
+      ]
+    },
   ]
 }
