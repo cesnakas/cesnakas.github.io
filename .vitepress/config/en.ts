@@ -28,7 +28,9 @@ export const searchLocale: Record<string, Partial<Omit<DefaultTheme.LocalSearchO
 
 export const config: LocaleConfig<DefaultTheme.Config> = {
   root: {
-    label: 'English', lang: 'en-US',
+    lang: 'en-US',
+
+    // label: 'English', lang: 'en-US',
 
     themeConfig: {
       nav: nav(),

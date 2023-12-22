@@ -3,7 +3,7 @@
 layout: home
 title: Sergei Česnakas
 titleTemplate: false
-description: Sergei Česnakas — Front-end Web Developer
+description: Sergei Česnakas — Front-end Web Developer, Guide's, Note's, Code Snippets, etc.
 
 hero:
   name: Sergei Česnakas
@@ -12,7 +12,7 @@ hero:
   image:
     src: /images/s.cesnakas.png
     alt: Sergei Česnakas
-  actions:
+#  actions:
 #    - text: View on GitHub
 #      link: https://github.com/cesnakas
 #      theme: alt

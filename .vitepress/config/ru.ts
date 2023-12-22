@@ -28,7 +28,9 @@ export const searchLocale: Record<string, Partial<Omit<DefaultTheme.LocalSearchO
 
 export const config: LocaleConfig<DefaultTheme.Config> = {
   ru: {
-    label: 'Русский', lang: 'ru',
+    lang: 'ru',
+
+    // label: 'Русский', lang: 'ru',
 
     themeConfig: {
       nav: nav(),
@@ -40,6 +42,8 @@ export const config: LocaleConfig<DefaultTheme.Config> = {
         '/ru/php/': { base: '/ru/php', items: sidebarPhp() },
         '/ru/bitrix/': { base: '/ru/bitrix', items: sidebarBitrix() },
       },
+
+      outlineTitle: 'Содержание:',
     }
   }
 }
