@@ -40,7 +40,6 @@ export const config: LocaleConfig<DefaultTheme.Config> = {
         '/sass/': { base: '/sass', items: sidebarSass() },
         '/javascript/': { base: '/javascript', items: sidebarJavascript() },
         '/php/': { base: '/php', items: sidebarPhp() },
-        '/git/': { base: '/git', items: sidebarGit() },
         '/bitrix/': { base: '/bitrix', items: sidebarBitrix() },
       },
     }
