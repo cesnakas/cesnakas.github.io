@@ -57,28 +57,13 @@ function nav(): DefaultTheme.NavItem[] {
     {
       text: 'Guide',
       items: [
-        { text: 'SSH', link: '/guide/ssh' }
-      ]
-    },
-    {
-      text: 'Docs', items: [
-        {
-          items: [
-            { text: 'Sass/SCSS', link: '/sass/' },
-            { text: 'JavaScript', link: '/javascript/' },
-            { text: 'PHP', link: '/php/' },
-          ],
-        },
-        {
-          items: [
-            { text: 'Git', link: '/git/' }
-          ]
-        },
-        {
-          items: [
-            { text: 'Bitrix', link: '/bitrix/' }
-          ]
-        },
+        { text: 'Browser', link: '/guide/browser' },
+        { text: 'SSH', link: '/guide/ssh' },
+        { text: 'Git', link: '/git/' },
+        { text: 'Sass/SCSS', link: '/sass/' },
+        { text: 'JavaScript', link: '/javascript/' },
+        { text: 'PHP', link: '/php/' },
+        { text: 'Bitrix', link: '/bitrix/' },
       ]
     }
   ]
@@ -87,7 +72,8 @@ function nav(): DefaultTheme.NavItem[] {
 /** Sidebar */
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
-    { text: 'SSH', link: '/ssh' }
+    { text: 'Browser', link: '/browser' },
+    { text: 'SSH', link: '/ssh' },
   ]
 }
 
@@ -140,33 +126,23 @@ function sidebarGit(): DefaultTheme.SidebarItem[] {
 function sidebarBitrix(): DefaultTheme.SidebarItem[] {
   return [
     {
-      text: 'Bitrix',
-      link: '/',
-      items: [
-        {
-          text: 'Components', collapsed: true,
-          items: [
-            { text: 'Breadcrumb', link: '/components/breadcrumb' },
-          ]
-        },
-        {
-          text: 'Modules', collapsed: true,
-          items: [
-            { text: 'Demo', link: '/modules/demo' },
-          ]
-        },
-        {
-          text: 'Snippets', collapsed: true,
-          items: [
-            { text: 'Filter', link: '/snippets/filter' },
-          ]
-        },
-        {
-          text: 'Other', collapsed: true,
-          items: [
-            { text: 'Server', link: '/server' }
-          ]
-        }
+      text: 'Bitrix', link: '/', items: [
+        { text: 'Folders & files', link: '/server' },
+      ]
+    },
+    {
+      text: 'Components', collapsed: null, items: [
+        { text: 'Breadcrumb', link: '/components/breadcrumb' },
+      ]
+    },
+    {
+      text: 'Modules', collapsed: null, items: [
+        { text: 'Demo', link: '/modules/demo' },
+      ]
+    },
+    {
+      text: 'Snippets', collapsed: null, items: [
+        { text: 'Filter', link: '/snippets/filter' },
       ]
     }
   ]
