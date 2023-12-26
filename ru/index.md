@@ -99,7 +99,7 @@ features:
 
   - title: Git
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ru/git/
+    link: /ru/guide/git
     icon:
       src: /images/git.svg
       alt: Git

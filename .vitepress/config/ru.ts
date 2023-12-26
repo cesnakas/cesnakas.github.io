@@ -59,6 +59,7 @@ function nav(): DefaultTheme.NavItem[] {
       text: 'Гайды', items: [
         { text: 'Browser', link: '/ru/guide/browser' },
         { text: 'SSH', link: '/ru/guide/ssh' },
+        { text: 'Git', link: '/ru/guide/git' },
         { text: 'Sass/SCSS', link: '/ru/sass/' },
         { text: 'Bitrix', link: '/ru/bitrix/' },
       ]
@@ -71,6 +72,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
     { text: 'Браузер', link: '/browser' },
     { text: 'SSH', link: '/ssh' },
+    { text: 'Git', link: '/git' },
   ]
 }
 
