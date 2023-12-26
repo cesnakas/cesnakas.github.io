@@ -59,7 +59,7 @@ function nav(): DefaultTheme.NavItem[] {
       items: [
         { text: 'Browser', link: '/guide/browser' },
         { text: 'SSH', link: '/guide/ssh' },
-        { text: 'Git', link: '/git/' },
+        { text: 'Git', link: '/guide/git' },
         { text: 'Sass/SCSS', link: '/sass/' },
         { text: 'JavaScript', link: '/javascript/' },
         { text: 'PHP', link: '/php/' },
@@ -74,6 +74,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
     { text: 'Browser', link: '/browser' },
     { text: 'SSH', link: '/ssh' },
+    { text: 'Git', link: '/git' },
   ]
 }
 
@@ -109,17 +110,6 @@ function sidebarPhp(): DefaultTheme.SidebarItem[] {
         { text: 'Info', link: '/' }
       ]
     },
-  ]
-}
-
-function sidebarGit(): DefaultTheme.SidebarItem[] {
-  return [
-    {
-      text: 'Git',
-      items: [
-        { text: 'Info', link: '/' }
-      ]
-    }
   ]
 }
 
