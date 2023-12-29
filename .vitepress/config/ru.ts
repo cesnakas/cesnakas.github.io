@@ -71,6 +71,7 @@ function nav(): DefaultTheme.NavItem[] {
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
     { text: 'Браузер', link: '/browser' },
+    { text: 'Bash', link: '/bash' },
     { text: 'SSH', link: '/ssh' },
     { text: 'Git', link: '/git' },
   ]
