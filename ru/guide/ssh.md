@@ -15,7 +15,11 @@ Secure Shell Protocol — Протокол защищенной оболочки
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
-### Вывести ключ
+### Скопировать содержимое ключа
+```sh
+pbcopy < ~/.ssh/id_ed25519.pub
+```
+<small>или вывести содержимое ключа</small>
 ```sh
 cat ~/.ssh/id_ed25519.pub
 ```
