@@ -47,5 +47,9 @@ git remote -v
 - `git log --oneline` — сокращённый лог
 - `git push -u origin main` — для первой связки локальной и удалённой ветки
 - `git push` — отправить изменения на удалённый репозиторий
+- `git restore --staged <file>` — убрать файл из staging
+- `git restore --staged .` — сбросить все файлы из staged в untracked/modified
+- `git reset --hard <commit hash>` — откатить коммит
+- `git restore <file>` — откатить изменения, которые не попали ни в staging, ни в коммит
 - `git fetch` — 
 - `git pull` — 
