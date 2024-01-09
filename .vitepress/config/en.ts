@@ -56,7 +56,6 @@ function nav(): DefaultTheme.NavItem[] {
     {
       text: 'Guide',
       items: [
-        { text: 'Browser', link: '/guide/browser' },
         { text: 'SSH', link: '/guide/ssh' },
         { text: 'Git', link: '/guide/git' },
         { text: 'Sass/SCSS', link: '/sass/' },
@@ -71,7 +70,6 @@ function nav(): DefaultTheme.NavItem[] {
 /** Sidebar */
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
-    { text: 'Browser', link: '/browser' },
     { text: 'SSH', link: '/ssh' },
     { text: 'Git', link: '/git' },
   ]
