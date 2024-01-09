@@ -1,1 +1,1 @@
-<!-- @include: @/ru/guide/ssh.md -->
+<!--@include: @ru/guide/ssh.md-->

@@ -1,1 +1,1 @@
-<!-- @include: @/ru/guide/git.md -->
+<!--@include: @ru/guide/git.md-->

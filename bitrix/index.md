@@ -1,1 +1,1 @@
-<!-- @include: @/ru/bitrix/index.md -->
+<!--@include: @ru/bitrix/index.md-->

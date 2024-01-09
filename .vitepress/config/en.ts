@@ -1,4 +1,4 @@
-import type { DefaultTheme, LocaleConfig } from 'vitepress'
+import {DefaultTheme, LocaleSpecificConfig, LocaleConfig} from 'vitepress'
 
 export const searchLocale: Record<string, Partial<Omit<DefaultTheme.LocalSearchOptions, 'locales'>>> = {
   root: {
@@ -26,7 +26,7 @@ export const searchLocale: Record<string, Partial<Omit<DefaultTheme.LocalSearchO
   },
 }
 
-export const config: LocaleConfig<DefaultTheme.Config> = {
+/*export const config: LocaleConfig<DefaultTheme.Config> = {
   root: {
     lang: 'en-US',
 
@@ -43,6 +43,20 @@ export const config: LocaleConfig<DefaultTheme.Config> = {
         '/bitrix/': { base: '/bitrix', items: sidebarBitrix() },
       },
     }
+  }
+}*/
+
+export const enConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
+  themeConfig: {
+    nav: nav(),
+
+    sidebar: {
+      '/guide/': { base: '/guide', items: sidebarGuide() },
+      '/sass/': { base: '/sass', items: sidebarSass() },
+      '/javascript/': { base: '/javascript', items: sidebarJavascript() },
+      '/php/': { base: '/php', items: sidebarPhp() },
+      '/bitrix/': { base: '/bitrix', items: sidebarBitrix() },
+    },
   }
 }
 

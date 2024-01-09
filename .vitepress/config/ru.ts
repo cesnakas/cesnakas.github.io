@@ -1,4 +1,4 @@
-import type { DefaultTheme, LocaleConfig } from 'vitepress'
+import type { DefaultTheme, LocaleSpecificConfig, LocaleConfig } from 'vitepress'
 
 export const searchLocale: Record<string, Partial<Omit<DefaultTheme.LocalSearchOptions, 'locales'>>> = {
   ru: {
@@ -26,25 +26,19 @@ export const searchLocale: Record<string, Partial<Omit<DefaultTheme.LocalSearchO
   },
 }
 
-export const config: LocaleConfig<DefaultTheme.Config> = {
-  ru: {
-    lang: 'ru',
+export const ruConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
+  themeConfig: {
+    nav: nav(),
 
-    // label: 'Русский', lang: 'ru',
+    sidebar: {
+      '/ru/guide/': { base: '/ru/guide', items: sidebarGuide() },
+      '/ru/sass/': { base: '/ru/sass', items: sidebarSass() },
+      '/ru/javascript/': { base: '/ru/javascript', items: sidebarJavascript() },
+      '/ru/php/': { base: '/ru/php', items: sidebarPhp() },
+      '/ru/bitrix/': { base: '/ru/bitrix', items: sidebarBitrix() },
+    },
 
-    themeConfig: {
-      nav: nav(),
-
-      sidebar: {
-        '/ru/guide/': { base: '/ru/guide', items: sidebarGuide() },
-        '/ru/sass/': { base: '/ru/sass', items: sidebarSass() },
-        '/ru/javascript/': { base: '/ru/javascript', items: sidebarJavascript() },
-        '/ru/php/': { base: '/ru/php', items: sidebarPhp() },
-        '/ru/bitrix/': { base: '/ru/bitrix', items: sidebarBitrix() },
-      },
-
-      outlineTitle: 'Содержание:',
-    }
+    outlineTitle: 'Содержание:',
   }
 }
 

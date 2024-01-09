@@ -1,1 +1,1 @@
-<!-- @include: @/ru/javascript/index.md -->
+<!--@include: @ru/javascript/index.md-->

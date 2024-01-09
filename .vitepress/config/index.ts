@@ -1,12 +1,13 @@
 import { defineConfig, type DefaultTheme } from 'vitepress'
-import { config as root, searchLocale as searchLocaleEn } from './en'
-import { config as ru, searchLocale as searchLocaleRu } from './ru'
 import { rewrites } from './rewrites'
+import { enConfig, searchLocale as searchLocaleEn } from './en'
+import { ruConfig, searchLocale as searchLocaleRu } from './ru'
+
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   cleanUrls: true,
-  rewrites,
+  // ...rewrites,
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -22,8 +23,8 @@ export default defineConfig({
   description: 'Sergei Česnakas — Front-end Web Developer',
 
   locales: {
-    ...root,
-    ...ru
+    root: { label: null, lang: 'en-US', ...enConfig },
+    ru: { label: null, lang: 'ru', ...ruConfig }
   },
 
   themeConfig: {
@@ -55,6 +56,10 @@ export default defineConfig({
       copyright: 'Copyright © ' + new Date().getFullYear()
     }
 
+  },
+
+  markdown: {
+    image: { lazyLoading: true }
   },
 
   sitemap: {

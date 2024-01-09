@@ -1,1 +1,1 @@
-<!-- @include: @/ru/guide/browser.md -->
+<!--@include: @ru/guide/browser.md-->
