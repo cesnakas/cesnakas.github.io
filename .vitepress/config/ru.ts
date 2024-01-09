@@ -1,4 +1,4 @@
-import type { DefaultTheme, LocaleSpecificConfig, LocaleConfig } from 'vitepress'
+import type { DefaultTheme, LocaleSpecificConfig } from 'vitepress'
 
 export const searchLocale: Record<string, Partial<Omit<DefaultTheme.LocalSearchOptions, 'locales'>>> = {
   ru: {
@@ -47,7 +47,7 @@ function nav(): DefaultTheme.NavItem[] {
   return [
     { text: 'Навыки', link: '/ru/#skills' },
     { text: 'Опыт', link: '/ru/#experience' },
-    { text: 'Работы', link: '/ru/#work' },
+    { text: 'Работы', link: '/ru/work/' },
     { text: 'Резюме', link: '/ru/#resume' },
     {
       text: 'Гайды', items: [

@@ -19,50 +19,74 @@ hero:
 
 features:
   - title: accesstyle.ru
-    details: Lorem ipsum...
-    link: /work/accesstyle_ru
-    icon: 👋
+    details: '&nbsp;'
+    link: https://accesstyle.ru
+    linkText: Подробнее
     
   - title: ru.dareu.com
-    details: Lorem ipsum...
-    icon: 👋
+    details: '&nbsp;'
+    link: https://ru.dareu.com
+    linkText: Подробнее
     
   - title: ru.viomi.com
-    details: Lorem ipsum...
-    icon: 👋
+    details: '&nbsp;'
+    link: https://ru.viomi.com
+    linkText: Подробнее
 
   - title: ninetygorussia.com
-    details: Lorem ipsum...
-    icon: 👋
+    details: '&nbsp;'
+    link: https://ninetygorussia.com
+    linkText: Подробнее
 
   - title: fplusmobile.ru
-    details: Lorem ipsum...
-    icon: 👋
+    details: '&nbsp;'
+    link: https://fplusmobile.ru
+    linkText: Подробнее
 
   - title: ru.yeelight.com
-    details: Lorem ipsum...
-    link: /work/ru.yeelight.com
-    icon: 👋
+    details: '&nbsp;'
+    link: https://ru.yeelight.com
+    linkText: Подробнее
 
   - title: jimmyglobal.ru
-    details: Lorem ipsum...
-    link: /work/jimmyglobal.ru
-    icon: 👋
+    details: '&nbsp;'
+    link: https://jimmyglobal.ru
+    linkText: Подробнее
 
   - title: ru.dreametech.com
-    details: eCommerce
-    link: /work/ru.dreametech.com
-    icon: 👋
+    details: '&nbsp;'
+    link: https://ru.dreametech.com
+    linkText: Подробнее
 
   - title: santehnika-tut.ru
-    details: Lorem ipsum...
-    link: /work/santehnika-tut.ru
-    icon: 👋
+    details: '&nbsp;'
+    link: https://santehnika-tut.ru
+    linkText: Подробнее
+    
+  - title: mb-mikro.ru
+    details: '&nbsp;'
+    link: https://mb-mikro.ru
+    linkText: Подробнее
+    
+  - title: roomatic.ru
+    details: '&nbsp;'
+    link: https://roomatic.ru
+    linkText: Подробнее
+    
+  - title: form-perm.ru
+    details: '&nbsp;'
+    link: https://form-perm.ru
+    linkText: Подробнее
+    
+  - title: avtomir-jac.ru
+    details: '&nbsp;'
+    link: https://avtomir-jac.ru
+    linkText: Подробнее
 
   - title: steklodom.com
-    details: Lorem ipsum...
-    link: /work/steklodom.com
-    icon: 👋
+    details: '&nbsp;'
+    link: https://steklodom.com
+    linkText: Подробнее
 ---
 
 <script setup>
