@@ -64,8 +64,7 @@ function nav(): DefaultTheme.NavItem[] {
 /** Sidebar */
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
-    { text: 'SSH', link: '/ssh' },
-    { text: 'Git', link: '/git' },
+    // { text: '', link: null },
   ]
 }
 
