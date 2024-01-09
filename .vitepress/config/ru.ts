@@ -86,6 +86,11 @@ function sidebarSass(): DefaultTheme.SidebarItem[] {
         { text: 'Миксины', link: '/mixins' }
       ]
     },
+    {
+      text: 'Паттерн 7-1', link: '/7-1/', items: [
+        { text: 'Base', link: '/7-1/base' },
+      ]
+    },
   ]
 }
 
