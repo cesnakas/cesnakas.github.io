@@ -26,26 +26,6 @@ export const searchLocale: Record<string, Partial<Omit<DefaultTheme.LocalSearchO
   },
 }
 
-/*export const config: LocaleConfig<DefaultTheme.Config> = {
-  root: {
-    lang: 'en-US',
-
-    // label: 'English', lang: 'en-US',
-
-    themeConfig: {
-      nav: nav(),
-
-      sidebar: {
-        '/guide/': { base: '/guide', items: sidebarGuide() },
-        '/sass/': { base: '/sass', items: sidebarSass() },
-        '/javascript/': { base: '/javascript', items: sidebarJavascript() },
-        '/php/': { base: '/php', items: sidebarPhp() },
-        '/bitrix/': { base: '/bitrix', items: sidebarBitrix() },
-      },
-    }
-  }
-}*/
-
 export const enConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
   themeConfig: {
     nav: nav(),
@@ -70,12 +50,12 @@ function nav(): DefaultTheme.NavItem[] {
     {
       text: 'Guide',
       items: [
-        { text: 'SSH', link: '/guide/ssh' },
-        { text: 'Git', link: '/guide/git' },
-        { text: 'Sass/SCSS', link: '/sass/' },
-        { text: 'JavaScript', link: '/javascript/' },
+        { text: 'SSH', link: '/ru/guide/ssh' },
+        { text: 'Git', link: '/ru/guide/git' },
+        { text: 'Sass/SCSS', link: '/ru/sass/' },
+        { text: 'JavaScript', link: '/ru/javascript/' },
         { text: 'PHP', link: '/php/' },
-        { text: 'Bitrix', link: '/bitrix/' },
+        { text: 'Bitrix', link: '/ru/bitrix/' },
       ]
     }
   ]

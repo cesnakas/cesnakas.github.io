@@ -1,5 +1,4 @@
 import { defineConfig, type DefaultTheme } from 'vitepress'
-import { rewrites } from './rewrites'
 import { enConfig, searchLocale as searchLocaleEn } from './en'
 import { ruConfig, searchLocale as searchLocaleRu } from './ru'
 
@@ -7,7 +6,6 @@ import { ruConfig, searchLocale as searchLocaleRu } from './ru'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   cleanUrls: true,
-  // ...rewrites,
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],

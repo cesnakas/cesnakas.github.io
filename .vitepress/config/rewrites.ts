@@ -14,5 +14,3 @@ export const rewrites = defineConfig ({
     'javascript/index.md': 'ru/javascript/index.md',
   }
 })
-
-export default rewrites
