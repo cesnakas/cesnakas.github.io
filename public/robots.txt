@@ -1,6 +1,8 @@
-User-agent: *
+Host: cesnakas.com
 # ---
+User-agent: *
 Allow: /
+Allow: /images
 Disallow: /resume/
 Disallow: /work/proprognozy-ru/
 Disallow: /work/ineo24-ru/
@@ -57,5 +59,4 @@ Disallow: /termoclick.ru
 Disallow: /one-fit.ru
 Disallow: /lk.energo-vympel.ru
 # ---
-Host: cesnakas.com
 Sitemap: https://cesnakas.com/sitemap.xml

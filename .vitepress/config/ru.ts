@@ -51,7 +51,7 @@ function nav(): DefaultTheme.NavItem[] {
     { text: 'Резюме', link: '/ru/#resume' },
     {
       text: 'Гайды', items: [
-        { text: 'Browser', link: '/ru/guide/browser' },
+        { text: 'Браузер', link: '/ru/guide/browser' },
         { text: 'Bash', link: '/ru/guide/bash' },
         { text: 'SSH', link: '/ru/guide/ssh' },
         { text: 'Git', link: '/ru/guide/git' },
