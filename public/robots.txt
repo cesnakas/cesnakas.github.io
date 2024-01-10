@@ -1,8 +1,6 @@
 Host: cesnakas.com
-# ---
+
 User-agent: *
-Allow: /
-Allow: /images
 Disallow: /blog
 Disallow: /ru/blog
 Disallow: /contact
@@ -20,5 +18,8 @@ Disallow: /one-fit.ru
 Disallow: /termoclick.ru
 Disallow: /wildjam.ru
 Disallow: /404.php
-# ---
+Allow: /
+Allow: /images
+Allow: /ru/guide
+
 Sitemap: https://cesnakas.com/sitemap.xml
