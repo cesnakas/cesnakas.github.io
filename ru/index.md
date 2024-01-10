@@ -3,12 +3,12 @@
 layout: home
 title: Sergei Česnakas
 titleTemplate: false
-description: Sergei Česnakas — Фронтенд Веб-Разработчик
+description: Sergei Česnakas — Фронтенд Веб-Разработчик, Портфолио, Гайды, Заметки, Сниппеты.
 
 hero:
   name: Sergei Česnakas
   text: Front-end <nobr>Web Developer</nobr>
-  tagline: Guide's, Note's, Code Snippets, etc.
+  tagline: Гайды, Заметки, Сниппеты и т.д.
   image:
     src: /images/s.cesnakas.png
     alt: Sergei Česnakas
@@ -98,7 +98,7 @@ features:
       alt: Bootstrap
 
   - title: Git
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Система контроля версий с распределенной архитектурой.
     link: /ru/guide/git
     icon:
       src: /images/git.svg
