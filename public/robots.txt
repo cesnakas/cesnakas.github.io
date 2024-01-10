@@ -1,4 +1,12 @@
 User-agent: *
-Disallow:
+# ---
+Allow: /
+Disallow: /work/proprognozy-ru/
+Disallow: /work/ineo24-ru/
+Disallow: /work/tverstroymash-ru/
+Disallow: /work/gsprom-ru/
+Disallow: /work/palubacafe-ru/
+Disallow: /work/powervideo-ru/
+# ---
 Host: cesnakas.com
 Sitemap: https://cesnakas.com/sitemap.xml
