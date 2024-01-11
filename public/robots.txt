@@ -20,6 +20,6 @@ Disallow: /wildjam.ru
 Disallow: /404.php
 Allow: /
 Allow: /images
-Allow: /ru/guide
+Allow: /ru/guide/*
 
 Sitemap: https://cesnakas.com/sitemap.xml
