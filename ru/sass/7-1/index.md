@@ -1,8 +1,8 @@
 ---
-title: Шаблон 7-1 — Sass/SCSS
+title: Sass/SCSS Паттерн 7-1
 titleTemplate: false
-description: Паттерн 7-1 Sass/SCSS, шаблон семь папок и один файл
+description: Sass/SCSS Паттерн 7-1, шаблон семь папок и один файл
 ---
 
-# Шаблон 7-1
+# Паттерн 7-1
 
