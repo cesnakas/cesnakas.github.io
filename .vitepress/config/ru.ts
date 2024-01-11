@@ -1,31 +1,5 @@
 import type { DefaultTheme, LocaleSpecificConfig } from 'vitepress'
 
-export const searchLocale: Record<string, Partial<Omit<DefaultTheme.LocalSearchOptions, 'locales'>>> = {
-  ru: {
-    translations: {
-      button: {
-        buttonText: 'Поиск',
-        buttonAriaLabel: 'Поиск'
-      },
-      modal: {
-        resetButtonTitle: 'Сбросить',
-        backButtonTitle: 'Закрыть',
-        noResultsText: 'Нет результатов по запросу',
-        displayDetails: 'Показать подробный список',
-        footer: {
-          navigateText: 'Навигация',
-          selectText: 'Выбор',
-          selectKeyAriaLabel: 'Enter',
-          navigateUpKeyAriaLabel: 'Стрелка вверх',
-          navigateDownKeyAriaLabel: 'Стрелка вниз',
-          closeText: 'Закрыть',
-          closeKeyAriaLabel: 'Escape'
-        }
-      }
-    }
-  },
-}
-
 export const ruConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
   themeConfig: {
     nav: nav(),
@@ -51,10 +25,9 @@ function nav(): DefaultTheme.NavItem[] {
     { text: 'Резюме', link: '/ru/#resume' },
     {
       text: 'Гайды', items: [
-        { text: 'Браузер', link: '/ru/guide/browser' },
         { text: 'Bash', link: '/ru/guide/bash' },
-        { text: 'SSH', link: '/ru/guide/ssh' },
         { text: 'Git', link: '/ru/guide/git' },
+        { text: 'SSH', link: '/ru/guide/ssh' },
         { text: 'Sass/SCSS', link: '/ru/sass/' },
         { text: 'Bitrix', link: '/ru/bitrix/' },
       ]
@@ -65,10 +38,14 @@ function nav(): DefaultTheme.NavItem[] {
 /** Sidebars */
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
-    { text: 'Браузер', link: '/browser' },
     { text: 'Bash', link: '/bash' },
-    { text: 'SSH', link: '/ssh' },
     { text: 'Git', link: '/git' },
+    { text: 'SSH', link: '/ssh' },
+    {
+      items: [
+        { text: 'Браузер', link: '/browser' },
+      ]
+    },
   ]
 }
 
@@ -131,4 +108,30 @@ function sidebarBitrix(): DefaultTheme.SidebarItem[] {
       ]
     },
   ]
+}
+
+export const searchLocale: Record<string, Partial<Omit<DefaultTheme.LocalSearchOptions, 'locales'>>> = {
+  ru: {
+    translations: {
+      button: {
+        buttonText: 'Поиск',
+        buttonAriaLabel: 'Поиск'
+      },
+      modal: {
+        resetButtonTitle: 'Сбросить',
+        backButtonTitle: 'Закрыть',
+        noResultsText: 'Нет результатов по запросу',
+        displayDetails: 'Показать подробный список',
+        footer: {
+          navigateText: 'Навигация',
+          selectText: 'Выбор',
+          selectKeyAriaLabel: 'Enter',
+          navigateUpKeyAriaLabel: 'Стрелка вверх',
+          navigateDownKeyAriaLabel: 'Стрелка вниз',
+          closeText: 'Закрыть',
+          closeKeyAriaLabel: 'Escape'
+        }
+      }
+    }
+  },
 }
