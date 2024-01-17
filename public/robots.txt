@@ -21,6 +21,9 @@ Disallow: /404.php
 Disallow: /ru/bitrix/coupon_activation.php?lang=ru
 Allow: /
 Allow: /images
-Allow: /ru/guide/*
+Allow: /ru/guide/bash
+Allow: /ru/guide/browser
+Allow: /ru/guide/git
+Allow: /ru/guide/ssh
 
 Sitemap: https://cesnakas.com/sitemap.xml
