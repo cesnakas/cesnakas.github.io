@@ -93,17 +93,17 @@ function sidebarBitrix(): DefaultTheme.SidebarItem[] {
       ]
     },
     {
-      text: 'Components', collapsed: null, items: [
+      text: 'Компоненты', collapsed: null, items: [
         { text: 'Breadcrumb', link: '/components/breadcrumb' },
       ]
     },
     {
-      text: 'Modules', collapsed: null, items: [
+      text: 'Модули', collapsed: null, items: [
         { text: 'Demo', link: '/modules/demo' },
       ]
     },
     {
-      text: 'Snippets', collapsed: null, items: [
+      text: 'Сниппеты', collapsed: null, items: [
         { text: 'Filter', link: '/snippets/filter' },
       ]
     },
