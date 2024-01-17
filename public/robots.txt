@@ -18,6 +18,7 @@ Disallow: /one-fit.ru
 Disallow: /termoclick.ru
 Disallow: /wildjam.ru
 Disallow: /404.php
+Disallow: /ru/bitrix/coupon_activation.php?lang=ru
 Allow: /
 Allow: /images
 Allow: /ru/guide/*
