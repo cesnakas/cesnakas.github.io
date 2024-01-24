@@ -16,11 +16,13 @@ Disallow: /ru/WORK
 Disallow: /ascondicioner.ru
 Disallow: /cesnakas.com
 Disallow: /www.cesnakas.com
+Disallow: /ru/www.cesnakas.com
 Disallow: /lk.energo-vympel.ru
 Disallow: /one-fit.ru
 Disallow: /termoclick.ru
 Disallow: /wildjam.ru
 Disallow: /404.php
+Disallow: /ru/404.php
 Disallow: /ru/bitrix/coupon_activation.php?lang=ru
 Allow: /
 Allow: /images
