@@ -13,6 +13,8 @@ export const ruConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
     },
 
     outlineTitle: 'Содержание:',
+
+    lastUpdatedText: 'Последнее обновление',
   }
 }
 
