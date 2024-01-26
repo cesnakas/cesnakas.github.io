@@ -50,6 +50,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
     {
       items: [
         { text: 'Браузер', link: '/browser' },
+        { text: 'macOS', link: '/mac-os' },
       ]
     },
   ]
