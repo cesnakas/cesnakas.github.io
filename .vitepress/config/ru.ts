@@ -8,6 +8,7 @@ export const ruConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
       '/ru/guide/': { base: '/ru/guide', items: sidebarGuide() },
       '/ru/sass/': { base: '/ru/sass', items: sidebarSass() },
       '/ru/javascript/': { base: '/ru/javascript', items: sidebarJavascript() },
+      '/ru/vue/': { base: '/ru/vue', items: sidebarVue() },
       '/ru/php/': { base: '/ru/php', items: sidebarPhp() },
       '/ru/bitrix/': { base: '/ru/bitrix', items: sidebarBitrix() },
     },
@@ -31,6 +32,9 @@ function nav(): DefaultTheme.NavItem[] {
         { text: 'Git', link: '/ru/guide/git' },
         { text: 'SSH', link: '/ru/guide/ssh' },
         { text: 'Sass/SCSS', link: '/ru/sass/' },
+        { text: 'JavaScript', link: '/ru/javascript/' },
+        { text: 'PHP', link: '/ru/php/' },
+        { text: 'Vue', link: '/ru/vue/' },
         { text: 'Bitrix', link: '/ru/bitrix/' },
       ]
     }
@@ -72,6 +76,16 @@ function sidebarJavascript(): DefaultTheme.SidebarItem[] {
     {
       text: 'JavaScript', link: '/', items: [
         { text: 'Подключение', link: null }
+      ]
+    },
+  ]
+}
+
+function sidebarVue(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'Vue', link: '/', items: [
+        { text: 'Get started', link: null }
       ]
     },
   ]
