@@ -139,6 +139,7 @@ features:
 
   - title: macOS
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /ru/guide/mac-os
     icon:
       src: /images/macos.svg
       alt: macOS
