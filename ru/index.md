@@ -3,11 +3,11 @@
 layout: home
 title: Sergei Česnakas
 titleTemplate: false
-description: Sergei Česnakas — Фронтенд Веб-Разработчик, Портфолио, Гайды, Заметки, Сниппеты.
+description: Sergei Česnakas — Фулстек Веб-Разработчик, Портфолио, Гайды, Заметки, Сниппеты.
 
 hero:
   name: Sergei Česnakas
-  text: Front-end <nobr>Web Developer</nobr>
+  text: Web Developer
   tagline: Гайды, Заметки, Сниппеты и т.д.
   image:
     src: /images/s.cesnakas.png
