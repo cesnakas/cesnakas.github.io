@@ -49,6 +49,11 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
     { text: 'SSH', link: '/ssh' },
     {
       items: [
+        { text: 'Node', link: '/node' },
+      ]
+    },
+    {
+      items: [
         { text: 'Gulp', link: '/gulp' },
         { text: 'Webpack', link: '/webpack' },
         { text: 'Vite', link: '/vite' }
