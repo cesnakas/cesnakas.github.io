@@ -35,6 +35,7 @@ features:
       
   - title: Node.js
     details: Программная платформа, превращающая JavaScript из узкоспециализированного языка в язык общего назначения.
+    link: /ru/guide/node
     icon:
       src: /images/nodejs.svg
       alt: Node.js

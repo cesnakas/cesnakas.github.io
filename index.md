@@ -7,7 +7,7 @@ description: Sergei Česnakas — Front-end Web Developer, Guide's, Note's, Code
 
 hero:
   name: Sergei Česnakas
-  text: Front-end <nobr>Web Developer</nobr>
+  text: Front-end <br>Web Developer
   tagline: Guide's, Note's, Code Snippets, etc.
   image:
     src: /images/s.cesnakas.png
@@ -39,6 +39,7 @@ features:
       
   - title: Node.js
     details: Программная платформа, превращающая JavaScript из узкоспециализированного языка в язык общего назначения.
+    link: /ru/guide/node
     icon:
       src: /images/nodejs.svg
       alt: Node.js

@@ -31,6 +31,7 @@ function nav(): DefaultTheme.NavItem[] {
         { text: 'Bash', link: '/ru/guide/bash' },
         { text: 'Git', link: '/ru/guide/git' },
         { text: 'SSH', link: '/ru/guide/ssh' },
+        { text: 'Node', link: '/ru/guide/node' },
         { text: 'Sass/SCSS', link: '/ru/sass/' },
         { text: 'JavaScript', link: '/ru/javascript/' },
         { text: 'PHP', link: '/ru/php/' },
