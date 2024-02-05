@@ -25,36 +25,58 @@ git remote -v
 rm -rf .git
 ```
 
-## Основные команды
-- `git status` — проверить состояние репозитория
+## Git Add
 - `git add` — добавить файл
 - `git add --all` — добаввить все файлы
 - `git add .` — добавить текущую папку со всеми файлами
-- `git commit -m 'Example message'` — выполнить коммит с сообщением
-- `git commit --amend --no-edit` — дополнить последний коммит новыми файлами без изменения сообщения
-- `git commit --amend -m 'New message'` — изменить сообщение последнего коммита
-- `git log` — просмотреть историю коммитов
-- `git log --oneline` — сокращённый лог
-- `git push -u origin main` — для первой связки локальной и удалённой ветки
-- `git push` — отправить изменения на удалённый репозиторий
-- `git restore --staged <file>` — убрать файл из staging
-- `git restore --staged .` — сбросить все файлы из staged в untracked/modified
-- `git reset --hard <commit hash>` — откатить коммит
-- `git restore <file>` — откатить изменения, которые не попали ни в staging, ни в коммит
+
+## Git Branch
 - `git branch` — просмотреть ветки проекта
+- `git branch -D <название_ветки>` — удалить ветку
+
+## Git Checkout
 - `git checkout <название_ветки>` — переключиться на другую ветку
 - `git checkout -b <название_ветки>` — создать ветку и сразу переключиться на неё
+
+## Git Commit
+- `git commit -m '<Message>'` — выполнить коммит с сообщением
+- `git commit --amend --no-edit` — дополнить последний коммит новыми файлами без изменения сообщения
+- `git commit --amend -m '<New_message>'` — изменить сообщение последнего коммита
+
+## Git Diff
 - `git diff <название_ветки1> <название_ветки2>` — сравнить ветки
-- `git merge <название_ветки>` — выполнить слияние
-- `git branch -D <название_ветки>` — удалить ветку
+
+## Git Fetch
 - `git fetch` — загрузка содержимого из удаленного репозитория
 - `git fetch <remote>` — извлечение всех веток из репозитория
 - `git fetch <remote> <название_ветки>` — извлечение только для указанной ветки
 - `git fetch --all` — извлечь все зарегистрированные удаленные репозитории и их ветки
 - `git fetch --dry-run` — выводит на экран действия, которые были бы выполнены при извлечении, не выполняя их на самом деле
+
+## Git Log
+- `git log` — просмотреть историю коммитов
+- `git log --oneline` — сокращённый лог
+
+## Git Merge
+- `git merge <название_ветки>` — выполнить слияние
+- `git merge --no-ff <название_ветки>` — отключить слияние веток
+
+## Git Pull
 - `git pull` — забрать изменения из удалённого репозитория
-- `--no-ff` — Fast-forward слияние веток можно отключить флагом. Например: `git merge --no-ff <название_ветки>`
-- `git config [--global] merge.ff false` — отключить Fast-forward «навсегда» (вернёте настройку поумолчанию `true`)
+
+## Git Push
+- `git push` — отправить изменения на удалённый репозиторий
+- `git push -u origin main` — для первой связки локальной и удалённой ветки
+
+## Git Reset
+- `git reset --hard <commit hash>` — откатить коммит
+
+## Git Restore
+- `git restore --staged <file>` — убрать файл из staging
+- `git restore --staged .` — сбросить все файлы из staged в untracked/modified
+- `git restore <file>` — откатить изменения, которые не попали ни в staging, ни в коммит
+
+## Git Stash
 - `git stash save 'Bug Fix: Main page'` — спрятать изменения с комментарием
 - `git stash save -u 'Bug Fix: Main page` — спрятать изменения с добавлением новых файлов (`--include-untracked`)
 - `git stash save -a 'Bug Fix: Main page'` — спрятать изменения с добавлением всех игнорируемых файлов
@@ -65,6 +87,9 @@ rm -rf .git
 - `git stash branch <название_ветки>` — создать новую ветку со всеми изменениями из локального хранилища
 - `git stash drop` — удалить старые сохранения из локального хранилища
 - `git stash clean` — полностью очистить локальное хранище
+
+## Git Status
+- `git status` — проверить состояние репозитория
 
 ## Порядок действий
 ```sh
@@ -89,6 +114,11 @@ git config --global user.email username@example.com
 Посмотреть настройки:
 ```sh
 git config --list
+```
+
+Отключить Fast-forward «навсегда» (вернуть настройку по умолчанию `true`)
+```sh
+git config [--global] merge.ff false
 ```
 
 ## Обновить URL-адрес репозитория
