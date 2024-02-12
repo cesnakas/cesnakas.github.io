@@ -110,7 +110,7 @@ function sidebarPhp(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'PHP', link: '/', items: [
-        { text: 'Get started', link: null }
+        { text: 'Массивы', link: '/arrays' }
       ]
     },
   ]
