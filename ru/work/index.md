@@ -18,6 +18,21 @@ hero:
       link: https://github.com/vuejs/vitepress
 
 features:
+  - title: innovations.severstal.com
+    details: '&nbsp;'
+    link: https://innovations.severstal.com
+    linkText: Подробнее
+    
+  - title: career.severstal.com
+    details: '&nbsp;'
+    link: https://career.severstal.com
+    linkText: Подробнее
+    
+  - title: suppliers.severstal.com
+    details: '&nbsp;'
+    link: https://suppliers.severstal.com
+    linkText: Подробнее
+
   - title: accesstyle.ru
     details: '&nbsp;'
     link: https://accesstyle.ru
@@ -86,6 +101,11 @@ features:
   - title: steklodom.com
     details: '&nbsp;'
     link: https://steklodom.com
+    linkText: Подробнее
+
+  - title: marya.ru
+    details: '&nbsp;'
+    link: https://marya.ru
     linkText: Подробнее
 ---
 
