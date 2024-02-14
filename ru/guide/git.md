@@ -13,14 +13,23 @@ Git — Система контроля версий с распределенн
 - **Trunk-based** — популярный подход в крупных командах, который обещает большую скорость работы.
 
 ## Привязать удалённый репозиторий к локальному
+1. Инициализируем новый репозиторий
 ```sh
-git remote add origin git@github.com:username/example-project.git
+git init
 ```
-Проверить, что репозитории связаны:
+2. Добавляем удаленный репозиторий
+```sh
+git remote add origin git@github.com:<UserName>/<ProjectName>.git
+```
+3. Загружаем ветоки
+```sh
+git fetch 
+```
+4. Проверить, что репозитории связаны:
 ```sh
 git remote -v
 ```
-Если нужно «разгитить» папку:
+5. Если нужно «разгитить» папку:
 ```sh
 rm -rf .git
 ```
@@ -82,7 +91,7 @@ rm -rf .git
 - `git stash save -a 'Bug Fix: Main page'` — спрятать изменения с добавлением всех игнорируемых файлов
 - `git stash list` — вывести список всех спрятанных изменений
 - `git stash apply stash@{0}` — применить спрятанные изменения
-- `git stash show stash stash@{1}` — показать какие изменения в спрятанных файлах
+- `git stash show stash@{1}` — показать какие изменения в спрятанных файлах
 - `git stash pop` — удалить спрятанные изменения
 - `git stash pop stash@{0}` — удалить конкретное изменение
 - `git stash branch <название_ветки>` — создать новую ветку со всеми изменениями из локального хранилища
@@ -94,11 +103,16 @@ rm -rf .git
 
 ## Порядок действий
 ```sh
-$ git checkout main # переходим в main
-$ git pull # подтягиваем новые изменения в main
-$ git checkout my-branch # возвращаемся в рабочую ветку my-branch
-$ git merge main # вливаем main в новую ветку my-branch
-$ git push -u origin my-branch # отправляем ветку my-branch в удалённый репозиторий
+# переходим в main
+git checkout main
+# подтягиваем новые изменения в main
+git pull
+# возвращаемся в рабочую ветку <branch>
+git checkout <branch>
+# вливаем main в новую ветку <branch>
+git merge main
+# отправляем ветку <branch> в удалённый репозиторий
+git push -u origin <branch>
 ```
 
 ## Настройка .gitconfig
