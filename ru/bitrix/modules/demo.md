@@ -1,6 +1,6 @@
 ---
-title: Установка демо-модулей — Битрикс
-titleTemplate: false
+title: Установка демо-модулей Битрикс
+#titleTemplate: false
 description: Установка демо-модулей из Битрикс Маркетплейс
 ---
 

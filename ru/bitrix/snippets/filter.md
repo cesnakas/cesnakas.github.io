@@ -1,6 +1,6 @@
 ---
-title: Фильтр новостей по названию и id — Битрикс
-titleTemplate: false
+title: Битрикс фильтр новостей по названию и id 
+#titleTemplate: false
 description: Битрикс — Фильтр новостей по названию и id
 ---
 
