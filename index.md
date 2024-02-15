@@ -3,7 +3,7 @@
 layout: home
 title: Sergei Česnakas
 titleTemplate: false
-description: Sergei Česnakas — Front-end Web Developer, Guide's, Note's, Code Snippets, etc.
+description: Sergei Česnakas — Fullstack Web Developer, Guide's, Note's, Code Snippets, etc.
 
 hero:
   name: Sergei Česnakas
@@ -65,7 +65,7 @@ features:
       
   - title: PHP
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /php/
+    link: /ru/php/
     icon:
       src: /images/php.svg
       alt: PHP

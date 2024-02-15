@@ -45,7 +45,7 @@ function nav(): DefaultTheme.NavItem[] {
   return [
     { text: 'Skills', link: '/#skills' },
     { text: 'Experience', link: '/#experience' },
-    { text: 'Work', link: '/#work' },
+    { text: 'Work', link: '/ru/work/' },
     { text: 'Resume', link: '/#resume' },
     {
       text: 'Guide',
@@ -54,7 +54,7 @@ function nav(): DefaultTheme.NavItem[] {
         { text: 'Git', link: '/ru/guide/git' },
         { text: 'Sass/SCSS', link: '/ru/sass/' },
         { text: 'JavaScript', link: '/ru/javascript/' },
-        { text: 'PHP', link: '/php/' },
+        { text: 'PHP', link: '/ru/php/' },
         { text: 'Bitrix', link: '/ru/bitrix/' },
       ]
     }

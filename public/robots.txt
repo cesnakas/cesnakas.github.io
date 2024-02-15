@@ -1,6 +1,10 @@
 Host: https://cesnakas.com
 
 User-agent: *
+Disallow: /bitrix/
+Disallow: /guide/
+Disallow: /javascript/
+Disallow: /sass/
 Disallow: */blog
 Disallow: */contact
 Disallow: */notes
