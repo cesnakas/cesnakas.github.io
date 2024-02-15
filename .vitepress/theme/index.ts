@@ -4,7 +4,7 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
 // @ts-ignore
-import WorkList from 'WorkList.vue'
+import WorkList from './WorkList.vue'
 
 import './style.scss'
 
