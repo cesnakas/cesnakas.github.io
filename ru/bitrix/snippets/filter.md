@@ -1,7 +1,7 @@
 ---
-title: Битрикс фильтр новостей по названию и id 
+title: 'Битрикс фильтр новостей по названию и id'
 #titleTemplate: false
-description: Битрикс — Фильтр новостей по названию и id
+description: 'Битрикс — Фильтр новостей по названию и id'
 ---
 
 # Фильтр
@@ -28,4 +28,19 @@ if (CModule::IncludeModule('iblock')) {
     }
   }
 }
+```
+
+## Вывести несколько разделов инфоблока
+Фильтр работает в компонентах: `news`, `news.list`, `catalog.section.list`
+```php
+GLOBAL $arrFilter;
+$arrFilter = ['SECTION_ID' => [1, 2]];
+$APPLICATION->IncludeComponent("bitrix:news.list", ".default",
+    [
+        "IBLOCK_ID" => "1",
+        "PARENT_SECTION" => "2",
+        "FILTER_NAME" => "arrFilter",
+        ...
+    ],
+    false
 ```
