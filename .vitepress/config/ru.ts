@@ -135,6 +135,7 @@ function sidebarBitrix(): DefaultTheme.SidebarItem[] {
     },
     {
       text: 'Сниппеты', collapsed: null, items: [
+        { text: 'Admin', link: '/snippets/admin' },
         { text: 'Filter', link: '/snippets/filter' },
       ]
     },
