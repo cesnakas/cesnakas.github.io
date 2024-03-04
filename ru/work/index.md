@@ -1,23 +1,15 @@
 ---
 layout: page
-title: Work
-
-hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
-  tagline: Lorem ipsum...
-  image:
-    src: https://vitepress.dev/vitepress-logo-large.webp
-    alt: VitePress
-  actions:
-    - theme: brand
-      text: Get Started
-      link: /guide/what-is-vitepress
-    - theme: alt
-      text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+title: 'Work — Sergei Česnakas'
+titleTemplate: false
+description: 'Work — Sergei Česnakas'
 
 features:
+  - title: metiz.severstal.com
+    details: '&nbsp;'
+    link: https://metiz.severstal.com
+    linkText: Подробнее
+    
   - title: innovations.severstal.com
     details: '&nbsp;'
     link: https://innovations.severstal.com
@@ -107,76 +99,43 @@ features:
     details: '&nbsp;'
     link: https://marya.ru
     linkText: Подробнее
+
+  - title: tools.pixelplus.ru
+    details: '&nbsp;'
+    link: https://tools.pixelplus.ru
+    linkText: Подробнее
+
+  - title: pixelplus.ru
+    details: '&nbsp;'
+    link: https://pixelplus.ru
+    linkText: Подробнее
+
+  - title: tikkurila.moscow
+    details: '&nbsp;'
+    link: https://tikkurila.moscow
+    linkText: Подробнее
+
+  - title: makfa.ru
+    details: '&nbsp;'
+    link: https://makfa.ru
+    linkText: Подробнее
 ---
 
 <script setup>
 import {
   VPHomeFeatures, VPHomeHero,
   VPTeamPage, VPTeamPageTitle, VPTeamMembers
-} from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: 'https://www.github.com/yyx990803.png',
-    name: 'Evan You',
-    title: 'Creator',
-    links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' },
-      { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
-    ]
-  },
-  {
-    avatar: 'https://www.github.com/yyx990803.png',
-    name: 'Evan You',
-    title: 'Creator',
-    links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' },
-      { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
-    ]
-  },
-  {
-    avatar: 'https://www.github.com/yyx990803.png',
-    name: 'Evan You',
-    title: 'Creator',
-    links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' },
-      { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
-    ]
-  },
-  {
-    avatar: 'https://www.github.com/yyx990803.png',
-    name: 'Evan You',
-    title: 'Creator',
-    links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' },
-      { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
-    ]
-  },
-  {
-    avatar: 'https://www.github.com/yyx990803.png',
-    name: 'Evan You',
-    title: 'Creator',
-    links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' },
-      { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
-    ]
-  },
-]
+} from 'vitepress/theme';
 </script>
-
-[//]: # (<VPHomeHero />)
 
 <VPTeamPage>
 
   <VPTeamPageTitle>
     <template #title>Work</template>
     <template #lead>
-      The development of VitePress is guided by an international
-      team, some of whom have chosen to be featured below.
+      My work & projects...
     </template>
   </VPTeamPageTitle>
-
-[//]: # (<VPTeamMembers size="small" :members="members" />)
 
   <VPHomeFeatures />
 
