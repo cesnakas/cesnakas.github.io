@@ -67,6 +67,11 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         { text: 'MAMP', link: '/mamp' },
       ]
     },
+    {
+      items: [
+        { text: 'PhpStorm', link: '/phpstorm' }
+      ]
+    },
   ]
 }
 

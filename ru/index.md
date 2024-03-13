@@ -153,6 +153,7 @@ features:
 
   - title: PhpStorm
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /ru/guide/phpstorm
     icon:
       src: /images/phpstorm.svg
       alt: PhpStorm
