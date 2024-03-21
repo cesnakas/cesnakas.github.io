@@ -7,7 +7,7 @@ description: Sergei Česnakas — Fullstack Web Developer, Guide's, Note's, Code
 
 hero:
   name: Sergei Česnakas
-  text: Front-end <br>Web Developer
+  text: Web Developer
   tagline: Guide's, Note's, Code Snippets, etc.
   image:
     src: /images/s.cesnakas.png
