@@ -2,33 +2,33 @@
 layout: home
 title: Sergei Česnakas
 titleTemplate: false
-description: Sergei Česnakas — Fullstack Web Developer, Guide's, Note's, Code Snippets, etc.
+description: Sergei Česnakas — Фулстек Веб-Разработчик, Портфолио, Гайды, Заметки, Сниппеты.
 
 hero:
   name: Sergei Česnakas
   text: Web Developer
-  tagline: Guide's, Note's, Code Snippets, etc.
+  tagline: Гайды, Заметки, Сниппеты и т.д.
   image:
     src: /images/s.cesnakas.png
     alt: Sergei Česnakas
 
 features:
   - title: JavaScript
-    details: A dynamic programming language that is used to create interactive web pages.
+    details: Динамический язык программирования, который используют для создания интерактивных веб-страниц.
     link: /ru/javascript/
     icon:
       src: /images/javascript.svg
       alt: JavaScript
 
   - title: Vue.js
-    details: JavaScript is a framework for creating user interfaces (UI).
+    details: JavaScript-фреймворк для создания пользовательских интерфейсов (UI).
     link: /ru/vue/
     icon:
       src: /images/vue.svg
       alt: Vue.js
     
   - title: React
-    details: JavaScript is a library for creating user interfaces (UI).
+    details: JavaScript-библиотека для создания пользовательских интерфейсов (UI).
     icon:
       src: /images/react.svg
       alt: React
@@ -40,11 +40,12 @@ features:
       src: /images/nodejs.svg
       alt: Node.js
       
-  - title: Laravel
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Git
+    details: Система контроля версий с распределенной архитектурой.
+    link: /ru/guide/git
     icon:
-      src: /images/laravel.svg
-      alt: Laravel
+      src: /images/git.svg
+      alt: Git
       
   - title: Sass/SCSS
     details: Метаязык, который упрощает и ускоряет написание CSS-кода.
@@ -52,12 +53,6 @@ features:
     icon:
       src: /images/sass.svg
       alt: Sass / SCSS
-      
-  - title: TypeScript
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    icon:
-      src: /images/typescript.svg
-      alt: TypeScript
       
   - title: PHP
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -73,70 +68,12 @@ features:
       src: /images/bitrix.svg
       alt: Bitrix
       
-  - title: Gulp
+  - title: PhpStorm
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /ru/guide/phpstorm
     icon:
-      src: /images/gulp.svg
-      alt: Gulp
-    
-  - title: BEM
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    icon:
-      light: /images/bem.svg
-      dark: /images/bem-dark.svg
-      alt: BEM
-
-  - title: Figma
-    details: Онлайн-сервис для разработки интерфейсов и прототипирования.
-    icon:
-      src: /images/figma.svg
-      alt: Figma
-
-  - title: Bootstrap
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    icon:
-      src: /images/bootstrap.svg
-      alt: Bootstrap
-
-  - title: Git
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ru/guide/git
-    icon:
-      src: /images/git.svg
-      alt: Git
-
-  - title: Webpack
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    icon:
-      src: /images/webpack.svg
-      alt: Webpack
-
-  - title: Axios
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    icon:
-      light: /images/axios.svg
-      dark: /images/axios-dark.svg
-      alt: Axios
-
-  - title: Handlebars
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    icon:
-      light: /images/handlebars.svg
-      dark: /images/handlebars-dark.svg
-      alt: Handlebars
-
-  - title: http
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    icon:
-      src: /images/http.svg
-      alt: http
-
-  - title: jQuery
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    icon:
-      light: /images/jquery.svg
-      dark: /images/jquery-dark.svg
-      alt: jQuery
+      src: /images/phpstorm.svg
+      alt: PhpStorm
 
   - title: macOS
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -145,28 +82,91 @@ features:
       src: /images/macos.svg
       alt: macOS
 
-  - title: WebStorm
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    icon:
-      src: /images/webstorm.svg
-      alt: WebStorm
+#  - title: TypeScript
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    icon:
+#      src: /images/typescript.svg
+#      alt: TypeScript
+      
+#  - title: Laravel
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    icon:
+#      src: /images/laravel.svg
+#      alt: Laravel
+      
+#  - title: Gulp
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    icon:
+#      src: /images/gulp.svg
+#      alt: Gulp
+    
+#  - title: BEM
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    icon:
+#      light: /images/bem.svg
+#      dark: /images/bem-dark.svg
+#      alt: BEM
 
-  - title: PhpStorm
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ru/guide/phpstorm
-    icon:
-      src: /images/phpstorm.svg
-      alt: PhpStorm
+#  - title: Figma
+#    details: Онлайн-сервис для разработки интерфейсов и прототипирования.
+#    icon:
+#      src: /images/figma.svg
+#      alt: Figma
 
-  - title: Pinia
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    icon:
-      src: /images/pinia.svg
-      alt: Pinia
+#  - title: Bootstrap
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    icon:
+#      src: /images/bootstrap.svg
+#      alt: Bootstrap
+      
+#  - title: Webpack
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    icon:
+#      src: /images/webpack.svg
+#      alt: Webpack
 
-  - title: WebSocket
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    icon:
-      src: /images/websocket.svg
-      alt: WebSocket
+#  - title: Axios
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    icon:
+#      light: /images/axios.svg
+#      dark: /images/axios-dark.svg
+#      alt: Axios
+
+#  - title: Handlebars
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    icon:
+#      light: /images/handlebars.svg
+#      dark: /images/handlebars-dark.svg
+#      alt: Handlebars
+
+#  - title: http
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    icon:
+#      src: /images/http.svg
+#      alt: http
+
+#  - title: jQuery
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    icon:
+#      light: /images/jquery.svg
+#      dark: /images/jquery-dark.svg
+#      alt: jQuery
+
+#  - title: WebStorm
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    icon:
+#      src: /images/webstorm.svg
+#      alt: WebStorm
+
+#  - title: Pinia
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    icon:
+#      src: /images/pinia.svg
+#      alt: Pinia
+
+#  - title: WebSocket
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    icon:
+#      src: /images/websocket.svg
+#      alt: WebSocket
 ---

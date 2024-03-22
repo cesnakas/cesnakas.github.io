@@ -5,12 +5,12 @@ export const ruConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
     nav: nav(),
 
     sidebar: {
-      '/ru/guide/': { base: '/ru/guide', items: sidebarGuide() },
-      '/ru/sass/': { base: '/ru/sass', items: sidebarSass() },
-      '/ru/javascript/': { base: '/ru/javascript', items: sidebarJavascript() },
-      '/ru/vue/': { base: '/ru/vue', items: sidebarVue() },
-      '/ru/php/': { base: '/ru/php', items: sidebarPhp() },
-      '/ru/bitrix/': { base: '/ru/bitrix', items: sidebarBitrix() },
+      '/guide/': { base: '/guide', items: sidebarGuide() },
+      '/sass/': { base: '/sass', items: sidebarSass() },
+      '/javascript/': { base: '/javascript', items: sidebarJavascript() },
+      '/vue/': { base: '/vue', items: sidebarVue() },
+      '/php/': { base: '/php', items: sidebarPhp() },
+      '/bitrix/': { base: '/bitrix', items: sidebarBitrix() },
     },
 
     outlineTitle: 'Содержание:',
@@ -22,19 +22,19 @@ export const ruConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
 /** Navigation */
 function nav(): DefaultTheme.NavItem[] {
   return [
-    { text: 'Навыки', link: '/ru/#skills' },
-    { text: 'Опыт', link: '/ru/#experience' },
-    { text: 'Работы', link: '/ru/work/' },
-    { text: 'Резюме', link: '/ru/#resume' },
+    { text: 'Навыки', link: '/#skills' },
+    { text: 'Опыт', link: '/#experience' },
+    { text: 'Работы', link: '/work/' },
+    { text: 'Резюме', link: '/#resume' },
     {
       text: 'Гайды', items: [
-        { text: 'Bash', link: '/ru/guide/bash' },
-        { text: 'SSH', link: '/ru/guide/ssh' },
-        { text: 'Sass/SCSS', link: '/ru/sass/' },
-        { text: 'JavaScript', link: '/ru/javascript/' },
-        { text: 'PHP', link: '/ru/php/' },
-        { text: 'Vue', link: '/ru/vue/' },
-        { text: 'Bitrix', link: '/ru/bitrix/' },
+        { text: 'Bash', link: '/guide/bash' },
+        { text: 'SSH', link: '/guide/ssh' },
+        { text: 'Sass/SCSS', link: '/sass/' },
+        { text: 'JavaScript', link: '/javascript/' },
+        { text: 'PHP', link: '/php/' },
+        { text: 'Vue', link: '/vue/' },
+        { text: 'Bitrix', link: '/bitrix/' },
       ]
     }
   ]

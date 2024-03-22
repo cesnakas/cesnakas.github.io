@@ -1,6 +1,6 @@
 import { defineConfig, type DefaultTheme } from 'vitepress'
-import { enConfig, searchLocale as searchLocaleEn } from './en'
 import { ruConfig, searchLocale as searchLocaleRu } from './ru'
+import { enConfig, searchLocale as searchLocaleEn } from './en'
 
 
 // https://vitepress.dev/reference/site-config
@@ -23,8 +23,8 @@ export default defineConfig({
   lastUpdated: true,
 
   locales: {
-    root: { label: null, lang: 'en-US', ...enConfig },
-    ru: { label: null, lang: 'ru', ...ruConfig }
+    root: { label: null, lang: 'ru', ...ruConfig },
+    en: { label: null, lang: 'en-US', ...enConfig },
   },
 
   themeConfig: {

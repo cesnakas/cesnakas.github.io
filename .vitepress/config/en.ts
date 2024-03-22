@@ -45,17 +45,17 @@ function nav(): DefaultTheme.NavItem[] {
   return [
     { text: 'Skills', link: '/#skills' },
     { text: 'Experience', link: '/#experience' },
-    { text: 'Work', link: '/ru/work/' },
+    { text: 'Work', link: '/work/' },
     { text: 'Resume', link: '/#resume' },
     {
       text: 'Guide',
       items: [
-        { text: 'SSH', link: '/ru/guide/ssh' },
-        { text: 'Git', link: '/ru/guide/git' },
-        { text: 'Sass/SCSS', link: '/ru/sass/' },
-        { text: 'JavaScript', link: '/ru/javascript/' },
-        { text: 'PHP', link: '/ru/php/' },
-        { text: 'Bitrix', link: '/ru/bitrix/' },
+        { text: 'SSH', link: '/guide/ssh' },
+        { text: 'Git', link: '/guide/git' },
+        { text: 'Sass/SCSS', link: '/sass/' },
+        { text: 'JavaScript', link: '/javascript/' },
+        { text: 'PHP', link: '/php/' },
+        { text: 'Bitrix', link: '/bitrix/' },
       ]
     }
   ]
