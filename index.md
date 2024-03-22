@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 title: Sergei Česnakas
 titleTemplate: false
@@ -12,10 +11,6 @@ hero:
   image:
     src: /images/s.cesnakas.png
     alt: Sergei Česnakas
-#  actions:
-#    - text: View on GitHub
-#      link: https://github.com/cesnakas
-#      theme: alt
 
 features:
   - title: JavaScript
@@ -27,6 +22,7 @@ features:
 
   - title: Vue.js
     details: JavaScript is a framework for creating user interfaces (UI).
+    link: /ru/vue/
     icon:
       src: /images/vue.svg
       alt: Vue.js
@@ -144,6 +140,7 @@ features:
 
   - title: macOS
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /ru/guide/mac-os
     icon:
       src: /images/macos.svg
       alt: macOS
@@ -156,6 +153,7 @@ features:
 
   - title: PhpStorm
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /ru/guide/phpstorm
     icon:
       src: /images/phpstorm.svg
       alt: PhpStorm
