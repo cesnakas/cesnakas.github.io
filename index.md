@@ -15,14 +15,14 @@ hero:
 features:
   - title: JavaScript
     details: Динамический язык программирования, который используют для создания интерактивных веб-страниц.
-    link: /ru/javascript/
+    link: /javascript/
     icon:
       src: /images/javascript.svg
       alt: JavaScript
 
   - title: Vue.js
     details: JavaScript-фреймворк для создания пользовательских интерфейсов (UI).
-    link: /ru/vue/
+    link: /vue/
     icon:
       src: /images/vue.svg
       alt: Vue.js
@@ -35,49 +35,49 @@ features:
       
   - title: Node.js
     details: Программная платформа, превращающая JavaScript из узкоспециализированного языка в язык общего назначения.
-    link: /ru/guide/node
+    link: /guide/node
     icon:
       src: /images/nodejs.svg
       alt: Node.js
       
   - title: Git
     details: Система контроля версий с распределенной архитектурой.
-    link: /ru/guide/git
+    link: /guide/git
     icon:
       src: /images/git.svg
       alt: Git
       
   - title: Sass/SCSS
     details: Метаязык, который упрощает и ускоряет написание CSS-кода.
-    link: /ru/sass/
+    link: /sass/
     icon:
       src: /images/sass.svg
       alt: Sass / SCSS
       
   - title: PHP
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ru/php/
+    link: /php/
     icon:
       src: /images/php.svg
       alt: PHP
       
   - title: Bitrix
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ru/bitrix/
+    link: /bitrix/
     icon:
       src: /images/bitrix.svg
       alt: Bitrix
       
   - title: PhpStorm
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ru/guide/phpstorm
+    link: /guide/phpstorm
     icon:
       src: /images/phpstorm.svg
       alt: PhpStorm
 
   - title: macOS
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /ru/guide/mac-os
+    link: /guide/mac-os
     icon:
       src: /images/macos.svg
       alt: macOS
