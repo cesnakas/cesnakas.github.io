@@ -6,6 +6,7 @@ export const ruConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
 
     sidebar: {
       '/guide/': { base: '/guide', items: sidebarGuide() },
+      '/git/': { base: '/git', items: sidebarGit() },
       '/sass/': { base: '/sass', items: sidebarSass() },
       '/javascript/': { base: '/javascript', items: sidebarJavascript() },
       '/vue/': { base: '/vue', items: sidebarVue() },
@@ -70,6 +71,18 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         { text: 'PhpStorm', link: '/phpstorm' }
       ]
     },
+  ]
+}
+
+function sidebarGit(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'Git', link: '/'
+    },
+    { text: 'Git Add', link: '/add' },
+    { text: 'Git Branch', link: '/branch' },
+    { text: 'Git Checkout', link: '/checkout' },
+    { text: 'Git Commit', link: '/commit' },
   ]
 }
 
