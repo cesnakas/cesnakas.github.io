@@ -137,6 +137,11 @@ function sidebarBitrix(): DefaultTheme.SidebarItem[] {
       ]
     },
     {
+      text: 'Миграции', collapsed: null, items: [
+        {text: 'Migrations', link: '/migrations'},
+      ]
+    },
+    {
       text: 'Сниппеты', collapsed: null, items: [
         { text: 'GetList', link: '/snippets/getlist' },
         { text: 'Admin', link: '/snippets/admin' },
