@@ -18,7 +18,7 @@ export default defineConfig({
   ],
 
   title: 'Sergei Česnakas',
-  titleTemplate: ':title — Česnakas',
+  titleTemplate: false, //':title — Česnakas'
   description: 'Sergei Česnakas — Front-end Web Developer',
   lastUpdated: true,
 

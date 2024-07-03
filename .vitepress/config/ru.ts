@@ -77,12 +77,20 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
 function sidebarGit(): DefaultTheme.SidebarItem[] {
   return [
     {
-      text: 'Git', link: '/'
+      text: 'General',
+      items: [
+        { text: 'Git', link: '/' },
+      ]
     },
-    { text: 'Git Add', link: '/add' },
-    { text: 'Git Branch', link: '/branch' },
-    { text: 'Git Checkout', link: '/checkout' },
-    { text: 'Git Commit', link: '/commit' },
+    {
+      text: 'Command',
+      items: [
+        { text: 'Git Add', link: '/add' },
+        { text: 'Git Branch', link: '/branch' },
+        { text: 'Git Checkout', link: '/checkout' },
+        { text: 'Git Commit', link: '/commit' },
+      ]
+    }
   ]
 }
 
