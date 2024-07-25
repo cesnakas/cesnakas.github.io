@@ -42,7 +42,7 @@ features:
       
   - title: Git
     details: Система контроля версий с распределенной архитектурой.
-    link: /guide/git
+    link: /git/
     icon:
       src: /images/git.svg
       alt: Git
