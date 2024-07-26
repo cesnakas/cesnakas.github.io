@@ -62,7 +62,7 @@ features:
       alt: PHP
       
   - title: Bitrix
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Система по созданию и управлению веб-проектами
     link: /bitrix/
     icon:
       src: /images/bitrix.svg
