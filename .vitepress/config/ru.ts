@@ -114,6 +114,7 @@ function sidebarJavascript(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'JavaScript', link: '/', items: [
+        { text: 'Переменные', link: '/variables' },
         { text: 'Подключение', link: null }
       ]
     },
