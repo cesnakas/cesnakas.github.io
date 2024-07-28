@@ -1,32 +1,6 @@
-import {DefaultTheme, LocaleSpecificConfig, LocaleConfig} from 'vitepress'
+import { defineConfig, type DefaultTheme } from 'vitepress'
 
-export const searchLocale: Record<string, Partial<Omit<DefaultTheme.LocalSearchOptions, 'locales'>>> = {
-  root: {
-    translations: {
-      button: {
-        buttonText: 'Search',
-        buttonAriaLabel: 'Search'
-      },
-      modal: {
-        resetButtonTitle: 'Reset search',
-        noResultsText: 'No results for',
-        backButtonTitle: 'Close search',
-        displayDetails: 'Display detailed list',
-        footer: {
-          selectText: 'Select',
-          selectKeyAriaLabel: 'Enter',
-          navigateText: 'Navigate',
-          navigateUpKeyAriaLabel: 'Up arrow',
-          navigateDownKeyAriaLabel: 'Down arrow',
-          closeText: 'Close',
-          closeKeyAriaLabel: 'Escape'
-        }
-      }
-    }
-  },
-}
-
-export const enConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
+export const en = defineConfig({
   themeConfig: {
     nav: nav(),
 
@@ -38,7 +12,7 @@ export const enConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
       '/bitrix/': { base: '/bitrix', items: sidebarBitrix() },
     },
   }
-}
+})
 
 /** Navigation */
 function nav(): DefaultTheme.NavItem[] {
@@ -126,4 +100,10 @@ function sidebarBitrix(): DefaultTheme.SidebarItem[] {
       ]
     }
   ]
+}
+
+export const search: DefaultTheme.LocalSearchOptions['locales'] = {
+  en: {
+
+  }
 }

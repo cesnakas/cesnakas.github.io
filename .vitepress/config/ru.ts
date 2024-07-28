@@ -1,6 +1,7 @@
-import type { DefaultTheme, LocaleSpecificConfig } from 'vitepress'
+import { defineConfig, type DefaultTheme } from 'vitepress'
 
-export const ruConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
+export const ru = defineConfig({
+  lang: 'ru',
   themeConfig: {
     nav: nav(),
 
@@ -14,11 +15,18 @@ export const ruConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
       '/bitrix/': { base: '/bitrix', items: sidebarBitrix() },
     },
 
-    outlineTitle: 'Содержание:',
+    sidebarMenuLabel: 'Меню',
+    langMenuLabel: 'Изменить язык',
+    darkModeSwitchLabel: 'Оформление',
+    lightModeSwitchTitle: 'Переключить на светлую тему',
+    darkModeSwitchTitle: 'Переключить на тёмную тему',
 
-    lastUpdatedText: 'Последнее обновление',
+    outline: { label: 'Содержание:' },
+    returnToTopLabel: 'Вернуться к началу',
+
+    lastUpdated: { text: 'Последнее обновление' },
   }
-}
+})
 
 /** Navigation */
 function nav(): DefaultTheme.NavItem[] {
@@ -175,12 +183,13 @@ function sidebarBitrix(): DefaultTheme.SidebarItem[] {
   ]
 }
 
-export const searchLocale: Record<string, Partial<Omit<DefaultTheme.LocalSearchOptions, 'locales'>>> = {
-  ru: {
+/** Search */
+export const search: DefaultTheme.LocalSearchOptions['locales'] = {
+  root: {
     translations: {
       button: {
         buttonText: 'Поиск',
-        buttonAriaLabel: 'Поиск'
+        buttonAriaLabel: 'Поиск по сайту'
       },
       modal: {
         resetButtonTitle: 'Сбросить',
@@ -198,5 +207,5 @@ export const searchLocale: Record<string, Partial<Omit<DefaultTheme.LocalSearchO
         }
       }
     }
-  },
+  }
 }
