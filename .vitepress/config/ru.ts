@@ -131,7 +131,8 @@ function sidebarJavascript(): DefaultTheme.SidebarItem[] {
     {
       text: 'JavaScript', link: '/', items: [
         { text: 'Переменные', link: '/variables' },
-        { text: 'Подключение', link: null }
+        { text: 'Условия', link: '/conditions' },
+        { text: 'Циклы', link: '/loops' },
       ]
     },
   ]
