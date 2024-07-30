@@ -38,15 +38,6 @@ export const shared = defineConfig({
             { icon: 'github', link: 'https://github.com/cesnakas' }
         ],
 
-        lastUpdated: {
-            formatOptions: {
-                forceLocale: true,
-                day: 'numeric',
-                month: 'short',
-                year: 'numeric',
-            }
-        },
-
         docFooter: {
             prev: false,
             next: false

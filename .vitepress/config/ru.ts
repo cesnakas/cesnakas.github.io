@@ -24,7 +24,15 @@ export const ru = defineConfig({
     outline: { label: 'Содержание:' },
     returnToTopLabel: 'Вернуться к началу',
 
-    lastUpdated: { text: 'Последнее обновление' },
+    lastUpdated: {
+      text: 'Последнее обновление',
+      formatOptions: {
+        forceLocale: true,
+        day: 'numeric',
+        month: 'short',
+        year: 'numeric'
+      }
+    },
   }
 })
 
