@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Sergei Česnakas
-titleTemplate: false
-description: Sergei Česnakas — Фулстек Веб-Разработчик, Портфолио, Гайды, Заметки, Сниппеты.
+title: 'Sergei Česnakas'
+titleTemplate: ':title — Web Developer'
+description: 'Разработка сайтов, Верстка, Программирование, Портфолио, Языки программирования, Гайды, Заметки, Сниппеты, Инструменты разработчика.'
 
 hero:
   name: Sergei Česnakas

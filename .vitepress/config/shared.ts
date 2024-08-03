@@ -4,8 +4,8 @@ import { search as enSearch } from './en'
 
 export const shared = defineConfig({
     title: 'Sergei Česnakas',
-    titleTemplate: false, //':title — Česnakas'
-    description: 'Sergei Česnakas — Front-end Web Developer',
+    titleTemplate: false,
+    description: 'Разработка сайтов, Верстка, Программирование, Портфолио, Языки программирования, Гайды, Заметки, Сниппеты, Инструменты разработчика.',
 
     cleanUrls: true,
     lastUpdated: true,
