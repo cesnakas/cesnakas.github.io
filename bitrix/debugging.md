@@ -5,28 +5,20 @@ description: 'Битрикс — Debugging'
 
 # Debugging
 
-## dbconn.php
-В файле `/bitrix/php_interface/dbconn.php` включить отображение ошибок:
-
-```php
-$DBDebug = true;
-```
-
 ## var_dump()
 Выводит значения вместе с типами данных, отображает количество элементов в переменной, выводит длину переменной
-
 ```php
 <?php echo '<pre>'; var_dump(''); echo '</pre>'; ?>
 ```
 
-## print_r()
-Выводит информацию о переменной в удобочитаемом виде
+## JSON
+Выводит значение переменной в консоль
 ```php
-<?php echo '<pre>'; print_r('', true); echo '</pre>' ?>
+echo "<script>console.log(" . json_encode('') . ")</script>";
 ```
 
-## JSON
-Выводит значение переменной в консоли
+## dbconn.php
+В файле `/bitrix/php_interface/dbconn.php` включить отображение ошибок:
 ```php
-<?= "<script>console.log(" . json_encode('') . ")</script>" ?>;
+$DBDebug = true;
 ```
