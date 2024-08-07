@@ -27,6 +27,20 @@ features:
       src: /images/vue.svg
       alt: Vue.js
     
+  - title: Bitrix
+    details: Система по созданию и управлению веб-проектами
+    link: /bitrix/
+    icon:
+      src: /images/bitrix.svg
+      alt: Bitrix
+
+  - title: Git
+    details: Система контроля версий с распределенной архитектурой.
+    link: /git/
+    icon:
+      src: /images/git.svg
+      alt: Git
+
   - title: React
     details: JavaScript-библиотека для создания пользовательских интерфейсов (UI).
     icon:
@@ -39,13 +53,6 @@ features:
     icon:
       src: /images/nodejs.svg
       alt: Node.js
-      
-  - title: Git
-    details: Система контроля версий с распределенной архитектурой.
-    link: /git/
-    icon:
-      src: /images/git.svg
-      alt: Git
       
   - title: Sass/SCSS
     details: Метаязык, который упрощает и ускоряет написание CSS-кода.
@@ -60,13 +67,6 @@ features:
     icon:
       src: /images/php.svg
       alt: PHP
-      
-  - title: Bitrix
-    details: Система по созданию и управлению веб-проектами
-    link: /bitrix/
-    icon:
-      src: /images/bitrix.svg
-      alt: Bitrix
       
   - title: PhpStorm
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
