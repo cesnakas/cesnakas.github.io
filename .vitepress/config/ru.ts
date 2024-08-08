@@ -68,14 +68,20 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         { text: 'Gulp', link: '/gulp' },
         { text: 'macOS', link: '/mac-os' },
         { text: 'MAMP', link: '/mamp' },
-        { text: 'Node', link: '/node',
+        {
+          text: 'Node', link: '/node', collapsed: true,
           items: [
             { text: 'NVM', link: '/node#nvm' },
           ]
         },
         { text: 'PhpStorm', link: '/phpstorm' },
         { text: 'RegExp', link: '/regexp' },
-        { text: 'SSH', link: '/ssh' },
+        {
+          text: 'SSH', link: '/ssh', collapsed: true,
+          items: [
+            { text: 'Подключение к серверу', link: '/ssh#подключение-к-серверу' },
+          ]
+        },
         { text: 'Vite', link: '/vite' },
         { text: 'Webpack', link: '/webpack' },
       ]
