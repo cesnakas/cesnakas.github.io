@@ -42,9 +42,9 @@ function nav(): DefaultTheme.NavItem[] {
     { text: 'Навыки', link: '/#skills' },
     { text: 'Опыт', link: '/#experience' },
     { text: 'Работы', link: '/work/' },
-    { text: 'Резюме', link: '/#resume' },
+    // { text: 'Резюме', link: '/#resume' },
     {
-      text: 'Гайды', items: [
+      text: 'Гайды', link: '/guide/', items: [
         { text: 'Bash', link: '/guide/bash' },
         { text: 'SSH', link: '/guide/ssh' },
         { text: 'Sass/SCSS', link: '/sass/' },
@@ -60,30 +60,26 @@ function nav(): DefaultTheme.NavItem[] {
 /** Sidebars */
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
-    { text: 'Bash', link: '/bash' },
-    { text: 'Git', link: '/git' },
-    { text: 'SSH', link: '/ssh' },
-    { text: 'RegExp', link: '/regexp' },
-    { text: 'Node', link: '/node' },
     {
       items: [
+        { text: 'Bash', link: '/bash' },
+        { text: 'Browser', link: '/browser' },
+        { text: 'Git', link: '/git' },
         { text: 'Gulp', link: '/gulp' },
-        { text: 'Webpack', link: '/webpack' },
-        { text: 'Vite', link: '/vite' }
-      ]
-    },
-    {
-      items: [
-        { text: 'Браузер', link: '/browser' },
         { text: 'macOS', link: '/mac-os' },
         { text: 'MAMP', link: '/mamp' },
+        { text: 'Node', link: '/node',
+          items: [
+            { text: 'NVM', link: '/node#nvm' },
+          ]
+        },
+        { text: 'PhpStorm', link: '/phpstorm' },
+        { text: 'RegExp', link: '/regexp' },
+        { text: 'SSH', link: '/ssh' },
+        { text: 'Vite', link: '/vite' },
+        { text: 'Webpack', link: '/webpack' },
       ]
-    },
-    {
-      items: [
-        { text: 'PhpStorm', link: '/phpstorm' }
-      ]
-    },
+    }
   ]
 }
 
