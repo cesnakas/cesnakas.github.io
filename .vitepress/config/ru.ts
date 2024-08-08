@@ -63,11 +63,8 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
     { text: 'Bash', link: '/bash' },
     { text: 'Git', link: '/git' },
     { text: 'SSH', link: '/ssh' },
-    {
-      items: [
-        { text: 'Node', link: '/node' },
-      ]
-    },
+    { text: 'RegExp', link: '/regexp' },
+    { text: 'Node', link: '/node' },
     {
       items: [
         { text: 'Gulp', link: '/gulp' },
