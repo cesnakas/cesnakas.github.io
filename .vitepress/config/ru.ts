@@ -140,8 +140,14 @@ function sidebarJavascript(): DefaultTheme.SidebarItem[] {
 function sidebarVue(): DefaultTheme.SidebarItem[] {
   return [
     {
-      text: 'Vue', link: '/', items: [
-        { text: 'Get started', link: null }
+      items: [
+        { text: 'Get started', link: null },
+        {
+          text: 'Состаяния компонента', link: '/states', collapsed: true,
+          items: [
+            { text: 'Local state', link: null }
+          ]
+        }
       ]
     },
   ]
