@@ -182,12 +182,14 @@ function sidebarBitrix(): DefaultTheme.SidebarItem[] {
       ]
     },
     {
-      text: 'Миграции', collapsed: null, link: '/migrations', items: [
-        { text: 'SEO-Свойства', link: '/migrations/meta' }
-      ]
-    },
-    {
       items: [
+        {
+          text: 'Миграции', link: '/migrations', collapsed: true,
+          items: [
+            { text: 'Изменение шаблона', link: '/migrations-SiteTemplateTable' },
+            { text: 'SEO-Свойства', link: '/migrations/meta' }
+          ]
+        },
         {
           text: 'Сниппеты', link: '/snippets',
           items: [
