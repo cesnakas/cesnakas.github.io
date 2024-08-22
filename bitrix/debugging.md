@@ -1,6 +1,7 @@
 ---
 title: 'Битрикс — Debugging'
 description: 'Битрикс — Debugging'
+aside: false
 ---
 
 # Debugging

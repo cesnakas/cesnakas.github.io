@@ -25,7 +25,7 @@ export const ru = defineConfig({
     returnToTopLabel: 'Вернуться к началу',
 
     lastUpdated: {
-      text: 'Последнее обновление',
+      text: 'Обновлено',
       formatOptions: {
         forceLocale: true,
         day: 'numeric',
@@ -187,7 +187,7 @@ function sidebarBitrix(): DefaultTheme.SidebarItem[] {
           text: 'Миграции', link: '/migrations', collapsed: true,
           items: [
             { text: 'Изменение шаблона', link: '/migrations-SiteTemplateTable' },
-            { text: 'SEO-Свойства', link: '/migrations/meta' }
+            { text: 'SEO-Свойства', link: '/migrations-IProperty' }
           ]
         },
         {
