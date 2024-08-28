@@ -14,14 +14,14 @@ hero:
 
 features:
   - title: JavaScript
-    details: Динамический язык программирования, который используют для создания интерактивных веб-страниц.
+    details: Динамический язык программирования
     link: /javascript/
     icon:
       src: /images/javascript.svg
       alt: JavaScript
 
   - title: Vue.js
-    details: JavaScript-фреймворк для создания пользовательских интерфейсов (UI).
+    details: JavaScript-фреймворк для создания пользовательских интерфейсов (UI)
     link: /vue/
     icon:
       src: /images/vue.svg
@@ -35,27 +35,27 @@ features:
       alt: Bitrix
 
   - title: Git
-    details: Система контроля версий с распределенной архитектурой.
+    details: Система контроля версий с распределенной архитектурой
     link: /git/
     icon:
       src: /images/git.svg
       alt: Git
 
   - title: React
-    details: JavaScript-библиотека для создания пользовательских интерфейсов (UI).
+    details: JavaScript-библиотека для создания пользовательских интерфейсов (UI)
     icon:
       src: /images/react.svg
       alt: React
       
   - title: Node.js
-    details: Программная платформа, превращающая JavaScript из узкоспециализированного языка в язык общего назначения.
+    details: Программная платформа, превращающая JavaScript из узкоспециализированного языка в язык общего назначения
     link: /guide/node
     icon:
       src: /images/nodejs.svg
       alt: Node.js
       
   - title: Sass/SCSS
-    details: Метаязык, который упрощает и ускоряет написание CSS-кода.
+    details: Метаязык, который упрощает и ускоряет написание CSS-кода
     link: /sass/
     icon:
       src: /images/sass.svg
