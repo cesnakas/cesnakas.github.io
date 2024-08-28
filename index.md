@@ -21,7 +21,7 @@ features:
       alt: JavaScript
 
   - title: Vue.js
-    details: JavaScript-фреймворк для создания пользовательских интерфейсов (UI)
+    details: Фреймворк для создания пользовательских интерфейсов
     link: /vue/
     icon:
       src: /images/vue.svg
