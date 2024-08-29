@@ -33,3 +33,7 @@ Static Site Generator (Статическая генерация сайтов) �
 ```html
 <script src="..." defer>...</script>
 ```
+
+<div class="spaceman pt-6">
+  <img class="img-md" src="/images/spaceman_03.svg" alt="SpaceMan" width="256" height="256" />
+</div>

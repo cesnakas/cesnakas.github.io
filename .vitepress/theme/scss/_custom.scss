@@ -15,9 +15,36 @@
 .spaceman {
   display: flex;
   justify-content: center;
-  padding-top: 8rem;
 
-  img {
+  &.pt-6 {
+    padding-top: 6rem;
+  }
+
+  &.pt-8 {
+    padding-top: 8rem;
+  }
+}
+
+
+/**
+ * Image Size
+ * -------------------------------------------------------------------------- */
+
+.img {
+  $imgHeight: auto;
+
+  &-sm {
+    width: 128px;
+    height: $imgHeight;
+  }
+
+  &-md {
+    width: 256px;
+    height: $imgHeight;
+  }
+
+  &-lg {
     width: 512px;
+    height: $imgHeight;
   }
 }

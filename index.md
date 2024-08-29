@@ -172,6 +172,6 @@ features:
 #      alt: WebSocket
 ---
 
-<div class="spaceman">
-  <img width="256" height="256" src="/images/image.svg" alt="SpaceMan" />
+<div class="spaceman pt-8">
+  <img class="img-md" src="/images/spaceman_01.svg" alt="SpaceMan" width="256" height="256" />
 </div>

@@ -16,3 +16,7 @@ description: 'Гайд — Руководство, справочник, пос�
 
 ## <!-- @include: gulp.md{7,7} -->
 [:arrow_lower_right:](/guide/gulp)
+
+<div class="spaceman">
+  <img class="img-md" src="/images/spaceman_02.svg" alt="SpaceMan" width="256" height="256" />
+</div>
