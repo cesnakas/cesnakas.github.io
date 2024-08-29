@@ -14,91 +14,92 @@ hero:
 
 features:
   - title: JavaScript
-    details: Динамический язык программирования
+    #details: Динамический язык программирования
     link: /javascript/
     icon:
       src: /images/javascript.svg
       alt: JavaScript
 
   - title: Vue.js
-    details: Фреймворк для создания пользовательских интерфейсов
+    #details: Фреймворк для создания пользовательских интерфейсов
     link: /vue/
     icon:
       src: /images/vue.svg
       alt: Vue.js
     
   - title: Bitrix
-    details: Система по созданию и управлению веб-проектами
+    #details: Система по созданию и управлению веб-проектами
     link: /bitrix/
     icon:
       src: /images/bitrix.svg
       alt: Bitrix
 
   - title: Git
-    details: Система контроля версий с распределенной архитектурой
+    #details: Система контроля версий с распределенной архитектурой
     link: /git/
     icon:
       src: /images/git.svg
       alt: Git
 
   - title: React
-    details: JavaScript-библиотека для создания пользовательских интерфейсов (UI)
+    #details: JavaScript-библиотека для создания пользовательских интерфейсов (UI)
     icon:
       src: /images/react.svg
       alt: React
       
   - title: Node.js
-    details: Программная платформа, превращающая JavaScript из узкоспециализированного языка в язык общего назначения
+    #details: Программная платформа, превращающая JavaScript из узкоспециализированного языка в язык общего назначения
     link: /guide/node
     icon:
       src: /images/nodejs.svg
       alt: Node.js
       
   - title: Sass/SCSS
-    details: Метаязык, который упрощает и ускоряет написание CSS-кода
+    #details: Метаязык, который упрощает и ускоряет написание CSS-кода
     link: /sass/
     icon:
       src: /images/sass.svg
       alt: Sass / SCSS
       
   - title: PHP
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: /php/
     icon:
       src: /images/php.svg
       alt: PHP
       
   - title: PhpStorm
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: /guide/phpstorm
     icon:
       src: /images/phpstorm.svg
       alt: PhpStorm
 
   - title: macOS
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: /guide/mac-os
     icon:
       src: /images/macos.svg
       alt: macOS
 
-#  - title: TypeScript
-#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#    icon:
-#      src: /images/typescript.svg
-#      alt: TypeScript
+  - title: TypeScript
+    #details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/typescript.svg
+      alt: TypeScript
       
-#  - title: Laravel
-#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#    icon:
-#      src: /images/laravel.svg
-#      alt: Laravel
+  - title: Laravel
+    #details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/laravel.svg
+      alt: Laravel
       
-#  - title: Gulp
-#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#    icon:
-#      src: /images/gulp.svg
-#      alt: Gulp
+  - title: Gulp
+    #details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /guide/gulp
+    icon:
+      src: /images/gulp.svg
+      alt: Gulp
     
 #  - title: BEM
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -107,23 +108,23 @@ features:
 #      dark: /images/bem-dark.svg
 #      alt: BEM
 
-#  - title: Figma
-#    details: Онлайн-сервис для разработки интерфейсов и прототипирования.
-#    icon:
-#      src: /images/figma.svg
-#      alt: Figma
+  - title: Figma
+    #details: Онлайн-сервис для разработки интерфейсов и прототипирования.
+    icon:
+      src: /images/figma.svg
+      alt: Figma
 
-#  - title: Bootstrap
-#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#    icon:
-#      src: /images/bootstrap.svg
-#      alt: Bootstrap
+  - title: Bootstrap
+    #details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/bootstrap.svg
+      alt: Bootstrap
       
-#  - title: Webpack
-#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#    icon:
-#      src: /images/webpack.svg
-#      alt: Webpack
+  - title: Webpack
+    #details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: /images/webpack.svg
+      alt: Webpack
 
 #  - title: Axios
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -170,3 +171,7 @@ features:
 #      src: /images/websocket.svg
 #      alt: WebSocket
 ---
+
+<div class="spaceman">
+  <img width="256" height="256" src="/images/image.svg" alt="SpaceMan" />
+</div>

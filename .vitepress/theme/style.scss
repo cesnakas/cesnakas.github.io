@@ -169,3 +169,21 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+/**
+ * Custom Styles
+ * -------------------------------------------------------------------------- */
+
+.box {
+  align-items: center;
+  justify-content: center;
+}
+
+.spaceman {
+  display: flex;
+  justify-content: center;
+  padding-top: 8rem;
+
+  img {
+    width: 512px;
+  }
+}
