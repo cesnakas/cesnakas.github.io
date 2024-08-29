@@ -1,0 +1,23 @@
+/**
+ * Custom Styles
+ * -------------------------------------------------------------------------- */
+
+.box {
+  align-items: center;
+  justify-content: center;
+}
+
+
+/**
+ * Component: SpaceMan
+ * -------------------------------------------------------------------------- */
+
+.spaceman {
+  display: flex;
+  justify-content: center;
+  padding-top: 8rem;
+
+  img {
+    width: 512px;
+  }
+}

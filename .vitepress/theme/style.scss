@@ -172,18 +172,5 @@
 /**
  * Custom Styles
  * -------------------------------------------------------------------------- */
+@import 'scss/custom';
 
-.box {
-  align-items: center;
-  justify-content: center;
-}
-
-.spaceman {
-  display: flex;
-  justify-content: center;
-  padding-top: 8rem;
-
-  img {
-    width: 512px;
-  }
-}
