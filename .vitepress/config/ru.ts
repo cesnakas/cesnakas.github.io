@@ -166,23 +166,26 @@ function sidebarPhp(): DefaultTheme.SidebarItem[] {
 function sidebarBitrix(): DefaultTheme.SidebarItem[] {
   return [
     {
-      text: 'Bitrix', link: '/', items: [
-        { text: 'Debugging', link: '/debugging' },
-        { text: 'Папки и файлы', link: '/server' },
-      ]
-    },
-    {
-      text: 'Компоненты', collapsed: null, items: [
-        { text: 'Breadcrumb', link: '/components/breadcrumb' },
-      ]
-    },
-    {
-      text: 'Модули', collapsed: null, items: [
-        { text: 'Demo', link: '/modules/demo' },
-      ]
-    },
-    {
       items: [
+        {
+          text: 'Bitrix', link: '/index', collapsed: true,
+          items: [
+            { text: 'Debugging', link: '/debugging' },
+            { text: 'Папки и файлы', link: '/server' },
+          ]
+        },
+        {
+          text: 'Компоненты', link: '/components', collapsed: true,
+          items: [
+            { text: 'Breadcrumb', link: '/components/breadcrumb' },
+          ]
+        },
+        {
+          text: 'Модули', link: '/modules', collapsed: true,
+          items: [
+            { text: 'Demo', link: '/modules/demo' },
+          ]
+        },
         {
           text: 'Миграции', link: '/migrations', collapsed: true,
           items: [
@@ -191,7 +194,7 @@ function sidebarBitrix(): DefaultTheme.SidebarItem[] {
           ]
         },
         {
-          text: 'Сниппеты', link: '/snippets',
+          text: 'Сниппеты', link: '/snippets', collapsed: true,
           items: [
             { text: 'GetList', link: '/snippets/getlist' },
             { text: 'Admin', link: '/snippets/admin' },
@@ -200,7 +203,7 @@ function sidebarBitrix(): DefaultTheme.SidebarItem[] {
           ]
         }
       ]
-    },
+    }
   ]
 }
 
