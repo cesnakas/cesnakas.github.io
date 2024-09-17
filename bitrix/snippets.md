@@ -1,9 +1,16 @@
 ---
 title: 'Битрикс сниппеты'
 description: 'Битрикс сниппеты'
+# ======== #
+aside: false
 ---
 
 # Битрикс сниппеты
+
+## Поиск по ID
+```php
+/bitrix/admin/iblock_redirect_entity.php
+```
 
 ## Редерект
 ```php
