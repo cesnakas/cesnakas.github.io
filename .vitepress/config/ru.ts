@@ -63,6 +63,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
     {
       items: [
         { text: 'Bash', link: '/bash' },
+        { text: 'Bitrix', base: '/bitrix', link: '/' },
         { text: 'Browser', link: '/browser' },
         { text: 'Git', link: '/git' },
         { text: 'Gulp', link: '/gulp' },
