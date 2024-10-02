@@ -103,13 +103,11 @@ features:
       alt: Sass / SCSS
 
   - title: TypeScript
-    #details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     icon:
       src: /images/typescript.svg
       alt: TypeScript
 
   - title: Laravel
-    #details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     icon:
       src: /images/laravel.svg
       alt: Laravel
@@ -122,13 +120,11 @@ features:
   #      alt: BEM
 
   - title: Figma
-    #details: Онлайн-сервис для разработки интерфейсов и прототипирования.
     icon:
       src: /images/figma.svg
       alt: Figma
 
   - title: Bootstrap
-    #details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     icon:
       src: /images/bootstrap.svg
       alt: Bootstrap
