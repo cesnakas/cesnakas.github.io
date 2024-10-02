@@ -80,6 +80,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         {
           text: 'SSH', link: '/ssh', collapsed: true,
           items: [
+            { text: 'SSH команды', link: '/ssh-commands' },
             { text: 'Подключение к серверу', link: '/ssh#подключение-к-серверу' },
           ]
         },
