@@ -80,27 +80,23 @@ features:
       alt: Webpack
 
   - title: JavaScript
-    #details: Динамический язык программирования
     link: /javascript/
     icon:
       src: /images/javascript.svg
       alt: JavaScript
 
   - title: Vue.js
-    #details: Фреймворк для создания пользовательских интерфейсов
     link: /vue/
     icon:
       src: /images/vue.svg
       alt: Vue.js
 
   - title: React
-    #details: JavaScript-библиотека для создания пользовательских интерфейсов (UI)
     icon:
       src: /images/react.svg
       alt: React
 
   - title: Sass/SCSS
-    #details: Метаязык, который упрощает и ускоряет написание CSS-кода
     link: /sass/
     icon:
       src: /images/sass.svg
