@@ -61,11 +61,11 @@ function nav(): DefaultTheme.NavItem[] {
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
     {
+      text: null, collapsed: false,
       items: [
         { text: 'Bash', link: '/bash' },
         { text: 'Bitrix', base: '/bitrix', link: '/' },
         { text: 'Browser', link: '/browser' },
-        { text: 'Git', link: '/git' },
         { text: 'Gulp', link: '/gulp' },
         { text: 'macOS', link: '/mac-os' },
         { text: 'MAMP', link: '/mamp' },
@@ -77,15 +77,26 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         },
         { text: 'PhpStorm', link: '/phpstorm' },
         { text: 'RegExp', link: '/regexp' },
-        {
-          text: 'SSH', link: '/ssh', collapsed: true,
-          items: [
-            { text: 'SSH команды', link: '/ssh-commands' },
-            { text: 'Подключение к серверу', link: '/ssh#подключение-к-серверу' },
-          ]
-        },
         { text: 'Vite', link: '/vite' },
         { text: 'Webpack', link: '/webpack' },
+      ]
+    },
+    {
+      text: null, collapsed: false,
+      items: [
+        {
+          text: 'SSH', link: '/ssh', collapsed: false,
+          items: [
+            { text: 'SSH команды', link: '/ssh-commands' },
+            { text: 'SSH ключи', link: '/ssh-key' },
+          ]
+        },
+        {
+          text: 'Git', link: '/git', collapsed: false,
+          items: [
+            { text: 'Git', link: '/git' },
+          ]
+        },
       ]
     }
   ]
