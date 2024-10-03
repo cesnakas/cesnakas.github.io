@@ -61,42 +61,54 @@ function nav(): DefaultTheme.NavItem[] {
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
     {
+      text: 'Bash', collapsed: false,
+      items: [
+        { text: 'Документация', link: '/bash' },
+        { text: 'Команды', link: '/bash' },
+      ]
+    },
+    {
+      text: 'SSH', collapsed: false,
+      items: [
+        { text: 'Общие сведения', link: '/ssh' },
+        { text: 'Команды', link: '/ssh-commands' },
+        { text: 'Работа с ключами', link: '/ssh-key' },
+      ]
+    },
+    {
+      text: 'Git', collapsed: false,
+      items: [
+        { text: 'Общие сведения', link: '/git' },
+        { text: 'Подходы', link: '/git#подходы' },
+      ]
+    },
+    {
+      text: 'Node', collapsed: false,
+      items: [
+        { text: 'Описание', link: '/node' },
+        { text: 'Node Version Manager (NVM)', link: '/node-nvm' },
+      ]
+    },
+    {
+      text: 'MAMP', collapsed: false,
+      items: [
+        { text: 'Описание', link: '/mamp' },
+        { text: 'Установка', link: '/mamp-install' },
+        { text: 'Настройка доменов', link: '/mamp-domains' },
+      ]
+    },
+
+    {
       text: null, collapsed: false,
       items: [
-        { text: 'Bash', link: '/bash' },
         { text: 'Bitrix', base: '/bitrix', link: '/' },
         { text: 'Browser', link: '/browser' },
         { text: 'Gulp', link: '/gulp' },
         { text: 'macOS', link: '/mac-os' },
-        { text: 'MAMP', link: '/mamp' },
-        {
-          text: 'Node', link: '/node', collapsed: true,
-          items: [
-            { text: 'NVM', link: '/node#nvm' },
-          ]
-        },
         { text: 'PhpStorm', link: '/phpstorm' },
         { text: 'RegExp', link: '/regexp' },
         { text: 'Vite', link: '/vite' },
         { text: 'Webpack', link: '/webpack' },
-      ]
-    },
-    {
-      text: null, collapsed: false,
-      items: [
-        {
-          text: 'SSH', link: '/ssh', collapsed: false,
-          items: [
-            { text: 'SSH команды', link: '/ssh-commands' },
-            { text: 'SSH ключи', link: '/ssh-key' },
-          ]
-        },
-        {
-          text: 'Git', link: '/git', collapsed: false,
-          items: [
-            { text: 'Git', link: '/git' },
-          ]
-        },
       ]
     }
   ]
