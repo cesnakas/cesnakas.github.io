@@ -66,6 +66,8 @@ features:
       
   - title: RegExp
     link: /guide/regexp
+    icon:
+      src: /images/regexp.svg
     
   - title: SSH
     link: /guide/ssh
