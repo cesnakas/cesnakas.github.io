@@ -45,6 +45,9 @@ features:
       
   - title: MAMP
     link: /guide/mamp
+    icon:
+      src: /images/mamp.svg
+      alt: MAMP
     
   - title: Node.js
     link: /guide/node
