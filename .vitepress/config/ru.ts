@@ -103,6 +103,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       items: [
         { text: 'Bitrix', base: '/bitrix', link: '/' },
         { text: 'Browser', link: '/browser' },
+        { text: 'Calc', link: '/calc' },
         { text: 'Gulp', link: '/gulp' },
         { text: 'macOS', link: '/mac-os' },
         { text: 'PhpStorm', link: '/phpstorm' },
