@@ -7,6 +7,7 @@ import DefaultTheme from 'vitepress/theme'
 import WorkList from './WorkList.vue'
 // @ts-ignore
 import TimeCalculator from './TimeCalculator.vue'
+import TaskTracker from './TaskTracker.vue'
 
 import './style.scss'
 
@@ -21,5 +22,6 @@ export default {
     // ...
     app.component('work', WorkList)
     app.component('TimeCalculator', TimeCalculator)
+    app.component('TaskTracker', TaskTracker)
   }
 } satisfies Theme
