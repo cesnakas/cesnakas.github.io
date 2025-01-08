@@ -39,19 +39,7 @@ export const ru = defineConfig({
 /** Navigation */
 function nav(): DefaultTheme.NavItem[] {
   return [
-    {
-      text: 'Гайды',
-      link: '/guide/',
-      items: [
-        { text: 'Bash', link: '/guide/bash' },
-        { text: 'SSH', link: '/guide/ssh' },
-        { text: 'Sass/SCSS', link: '/sass/' },
-        { text: 'JavaScript', link: '/javascript/' },
-        { text: 'PHP', link: '/php/' },
-        { text: 'Vue', link: '/vue/' },
-        { text: 'Bitrix', link: '/bitrix/' },
-      ]
-    },
+    { text: 'Гайды', link: '/guide/' },
     {
       text: 'Референсы',
       items: [
@@ -60,6 +48,13 @@ function nav(): DefaultTheme.NavItem[] {
         { text: 'JavaScript', link: '/reference/js' },
         { text: 'Vue', link: '/reference/vue' },
         { text: 'PHP', link: '/reference/php' },
+      ]
+    },
+    {
+      text: 'Фреймворки',
+      items: [
+        { text: 'Bitrix', link: '/bitrix/' },
+        { text: 'Vue', link: '/vue/' },
       ]
     },
     { text: 'Работы', link: '/work/' },
