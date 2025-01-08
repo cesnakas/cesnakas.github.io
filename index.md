@@ -53,9 +53,9 @@ features:
       src: /images/nodejs.svg
       alt: Node.js
       
-  - title: Sass/SCSS
+  - title: Sass / SCSS
     #details: Метаязык, который упрощает и ускоряет написание CSS-кода
-    link: /sass/
+    link: /reference/scss
     icon:
       src: /images/sass.svg
       alt: Sass / SCSS

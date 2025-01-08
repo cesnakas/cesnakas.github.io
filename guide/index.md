@@ -101,11 +101,11 @@ features:
       src: /images/react.svg
       alt: React
 
-  - title: Sass/SCSS
-    link: /sass/
+  - title: Sass / SCSS
+    link: /reference/scss
     icon:
       src: /images/sass.svg
-      alt: Sass / SCSS
+      alt: Sass
 
   - title: TypeScript
     icon:
