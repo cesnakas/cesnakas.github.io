@@ -35,8 +35,7 @@ features:
       alt: Bitrix
 
   - title: Git
-    #details: Система контроля версий с распределенной архитектурой
-    link: /git/
+    link: /reference/git
     icon:
       src: /images/git.svg
       alt: Git

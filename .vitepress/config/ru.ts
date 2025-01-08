@@ -1,4 +1,4 @@
-import { defineConfig, type DefaultTheme } from 'vitepress'
+import {defineConfig, type DefaultTheme} from 'vitepress'
 
 export const ru = defineConfig({
   lang: 'ru',
@@ -7,8 +7,8 @@ export const ru = defineConfig({
 
     sidebar: {
       '/guide/': { base: '/guide', items: sidebarGuide() },
-      '/git/': { base: '/git', items: sidebarGit() },
-      '/sass/': { base: '/sass', items: sidebarSass() },
+      '/reference/git': { base: '/reference', items: sidebarReferenceGit() },
+      '/reference/scss': { base: '/reference', items: sidebarReferenceScss() },
       '/javascript/': { base: '/javascript', items: sidebarJavascript() },
       '/vue/': { base: '/vue', items: sidebarVue() },
       '/php/': { base: '/php', items: sidebarPhp() },
@@ -42,12 +42,12 @@ function nav(): DefaultTheme.NavItem[] {
     { text: 'Гайды', link: '/guide/' },
     {
       text: 'Референсы',
+      activeMatch: '/reference/.*',
       items: [
-        { text: 'Git', link: '/reference/git' },
-        { text: 'SCSS', link: '/reference/scss' },
-        { text: 'JavaScript', link: '/reference/js' },
-        { text: 'Vue', link: '/reference/vue' },
-        { text: 'PHP', link: '/reference/php' },
+        { text: 'Git', link: '/reference/git', activeMatch: '/reference/git.*' },
+        { text: 'SCSS', link: '/reference/scss', activeMatch: '/reference/scss.*' },
+        { text: 'JavaScript', link: '/reference/js', activeMatch: '/reference/js.*' },
+        { text: 'PHP', link: '/reference/php', activeMatch: '/reference/php.*' },
       ]
     },
     {
@@ -119,37 +119,30 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
   ]
 }
 
-function sidebarGit(): DefaultTheme.SidebarItem[] {
+function sidebarReferenceGit(): DefaultTheme.SidebarItem[] {
   return [
     {
-      text: 'General',
+      text: 'Справочник:',
       items: [
-        { text: 'Git', link: '/' },
-      ]
-    },
-    {
-      text: 'Command',
-      items: [
-        { text: 'Git Add', link: '/add' },
-        { text: 'Git Branch', link: '/branch' },
-        { text: 'Git Checkout', link: '/checkout' },
-        { text: 'Git Commit', link: '/commit' },
+        { text: 'Git', link: '/git' },
+        { text: 'Git Add', link: '/git-add' },
+        // { text: 'Git SSH', link: '/git-ssh' },
       ]
     }
   ]
 }
 
-function sidebarSass(): DefaultTheme.SidebarItem[] {
+function sidebarReferenceScss(): DefaultTheme.SidebarItem[] {
   return [
     {
-      text: 'Sass/SCSS', link: '/', items: [
-        { text: 'Переменные', link: '/variables' },
-        { text: 'Миксины', link: '/mixins' }
+      text: 'Sass/SCSS', link: '/scss', items: [
+        { text: 'Переменные', link: '/scss-variables' },
+        { text: 'Миксины', link: '/scss-mixins' }
       ]
     },
     {
-      text: 'Паттерн 7-1', link: '/7-1/', items: [
-        { text: 'Base', link: '/7-1/base' },
+      text: 'Паттерн 7-1', link: '/scss-7-1', items: [
+        { text: 'Base', link: '/scss-7-1-base' },
       ]
     },
   ]
