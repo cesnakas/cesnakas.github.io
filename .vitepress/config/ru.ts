@@ -9,9 +9,9 @@ export const ru = defineConfig({
       '/guide/': { base: '/guide', items: sidebarGuide() },
       '/reference/git': { base: '/reference', items: sidebarReferenceGit() },
       '/reference/scss': { base: '/reference', items: sidebarReferenceScss() },
+      '/reference/php': { base: '/reference', items: sidebarReferencePhp() },
       '/javascript/': { base: '/javascript', items: sidebarJavascript() },
       '/vue/': { base: '/vue', items: sidebarVue() },
-      '/php/': { base: '/php', items: sidebarPhp() },
       '/bitrix/': { base: '/bitrix', items: sidebarBitrix() },
     },
 
@@ -67,7 +67,6 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
     {
       text: 'Bash', collapsed: false,
       items: [
-        { text: 'Документация', link: '/bash' },
         { text: 'Команды', link: '/bash' },
       ]
     },
@@ -105,7 +104,6 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
     {
       text: null, collapsed: false,
       items: [
-        { text: 'Bitrix', base: '/bitrix', link: '/' },
         { text: 'Browser', link: '/browser' },
         { text: 'Calc', link: '/calc' },
         { text: 'Gulp', link: '/gulp' },
@@ -129,6 +127,16 @@ function sidebarReferenceGit(): DefaultTheme.SidebarItem[] {
         // { text: 'Git SSH', link: '/git-ssh' },
       ]
     }
+  ]
+}
+
+function sidebarReferencePhp(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'PHP', link: '/php', items: [
+        { text: 'Массивы', link: '/php-arrays' }
+      ]
+    },
   ]
 }
 
@@ -171,16 +179,6 @@ function sidebarVue(): DefaultTheme.SidebarItem[] {
             { text: 'Local state', link: null }
           ]
         }
-      ]
-    },
-  ]
-}
-
-function sidebarPhp(): DefaultTheme.SidebarItem[] {
-  return [
-    {
-      text: 'PHP', link: '/', items: [
-        { text: 'Массивы', link: '/arrays' }
       ]
     },
   ]

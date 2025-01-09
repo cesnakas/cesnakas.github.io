@@ -61,8 +61,7 @@ features:
       alt: Sass / SCSS
       
   - title: PHP
-    #details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /php/
+    link: /reference/php
     icon:
       src: /images/php.svg
       alt: PHP

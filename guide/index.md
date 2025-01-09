@@ -15,12 +15,6 @@ hero:
 features:
   - title: Bash
     link: /guide/bash
-    
-  - title: Bitrix
-    link: /bitrix/
-    icon:
-      src: /images/bitrix.svg
-      alt: Bitrix
 
   - title: Browser
     link: /guide/browser
@@ -54,13 +48,7 @@ features:
     icon:
       src: /images/nodejs.svg
       alt: Node.js
-      
-  - title: PHP
-    link: /php/
-    icon:
-      src: /images/php.svg
-      alt: PHP
-      
+
   - title: PhpStorm
     link: /guide/phpstorm
     icon:
@@ -128,11 +116,6 @@ features:
     icon:
       src: /images/figma.svg
       alt: Figma
-
-  - title: Bootstrap
-    icon:
-      src: /images/bootstrap.svg
-      alt: Bootstrap
 
 #  - title: Axios
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
