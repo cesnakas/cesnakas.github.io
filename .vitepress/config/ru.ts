@@ -57,7 +57,7 @@ function nav(): DefaultTheme.NavItem[] {
         { text: 'Vue', link: '/vue/' },
       ]
     },
-    { text: 'Работы', link: '/work/' },
+    { text: 'Кейсы', link: '/cases/' },
   ]
 }
 
