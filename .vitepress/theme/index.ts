@@ -3,11 +3,10 @@ import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
-// @ts-ignore
-import WorkList from './WorkList.vue'
-// @ts-ignore
-import TimeCalculator from './TimeCalculator.vue'
-import TaskTracker from './TaskTracker.vue'
+import CasesApp from './components/CasesApp.vue'
+import WorkList from './components/WorkList.vue'
+import TimeCalculator from './components/TimeCalculator.vue'
+import TaskTracker from './components/TaskTracker.vue'
 
 import './style.scss'
 
@@ -19,7 +18,7 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    // ...
+    app.component('CasesApp', CasesApp)
     app.component('work', WorkList)
     app.component('TimeCalculator', TimeCalculator)
     app.component('TaskTracker', TaskTracker)
