@@ -5,6 +5,11 @@ titleTemplate: false
 description: 'Work — Sergei Česnakas'
 
 features:
+  - title: ch1ef.ru
+    details: '&nbsp;'
+    link: https://ch1ef.ru
+    linkText: Подробнее
+      
   - title: nevametal.com
     details: '&nbsp;'
     link: https://nevametal.com
