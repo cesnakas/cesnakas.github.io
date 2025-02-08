@@ -129,5 +129,10 @@ features:
     details: '&nbsp;'
     link: https://makfa.ru
     linkText: Подробнее
+
+  - title: sagitta-stk.ru
+    details: '&nbsp;'
+    link: https://sagitta-stk.ru
+    linkText: Подробнее
 ---
 
