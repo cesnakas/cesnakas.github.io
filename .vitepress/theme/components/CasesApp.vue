@@ -36,7 +36,7 @@ export default {
   data() {
     return {
       filter: 'all',
-      items,
+      items: items as Item[],
     }
   },
   computed: {
