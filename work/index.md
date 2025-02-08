@@ -131,22 +131,3 @@ features:
     linkText: Подробнее
 ---
 
-<script setup>
-import {
-  VPHomeFeatures, VPHomeHero,
-  VPTeamPage, VPTeamPageTitle, VPTeamMembers
-} from 'vitepress/theme';
-</script>
-
-<VPTeamPage>
-
-  <VPTeamPageTitle>
-    <template #title>Work</template>
-    <template #lead>
-      My work & projects...
-    </template>
-  </VPTeamPageTitle>
-
-  <VPHomeFeatures />
-
-</VPTeamPage>
