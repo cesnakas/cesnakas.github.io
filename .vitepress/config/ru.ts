@@ -9,7 +9,9 @@ export const ru = defineConfig({
       '/guide/': { base: '/guide', items: sidebarGuide() },
       '/reference/git': { base: '/reference', items: sidebarReferenceGit() },
       '/reference/scss': { base: '/reference', items: sidebarReferenceScss() },
+      '/reference/js': { base: '/reference', items: sidebarReferenceJs() },
       '/reference/php': { base: '/reference', items: sidebarReferencePhp() },
+      '/reference/sql': { base: '/reference', items: sidebarReferenceSql() },
       '/javascript/': { base: '/javascript', items: sidebarJavascript() },
       '/vue/': { base: '/vue', items: sidebarVue() },
       '/bitrix/': { base: '/bitrix', items: sidebarBitrix() },
@@ -48,6 +50,7 @@ function nav(): DefaultTheme.NavItem[] {
         { text: 'SCSS', link: '/reference/scss', activeMatch: '/reference/scss.*' },
         { text: 'JavaScript', link: '/reference/js', activeMatch: '/reference/js.*' },
         { text: 'PHP', link: '/reference/php', activeMatch: '/reference/php.*' },
+        { text: 'SQL', link: '/reference/sql', activeMatch: '/reference/sql.*' },
       ]
     },
     {
@@ -130,16 +133,6 @@ function sidebarReferenceGit(): DefaultTheme.SidebarItem[] {
   ]
 }
 
-function sidebarReferencePhp(): DefaultTheme.SidebarItem[] {
-  return [
-    {
-      text: 'PHP', link: '/php', items: [
-        { text: 'Массивы', link: '/php-arrays' }
-      ]
-    },
-  ]
-}
-
 function sidebarReferenceScss(): DefaultTheme.SidebarItem[] {
   return [
     {
@@ -151,6 +144,38 @@ function sidebarReferenceScss(): DefaultTheme.SidebarItem[] {
     {
       text: 'Паттерн 7-1', link: '/scss-7-1', items: [
         { text: 'Base', link: '/scss-7-1-base' },
+      ]
+    },
+  ]
+}
+
+function sidebarReferenceJs(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'JavaScript', link: '/js', items: [
+        { text: 'Переменные', link: '/js-variables' },
+        { text: 'Условия', link: '/js-conditions' },
+        { text: 'Циклы', link: '/js-loops' },
+      ]
+    },
+  ]
+}
+
+function sidebarReferencePhp(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'PHP', link: '/php', items: [
+        { text: 'Массивы', link: '/php-arrays' }
+      ]
+    },
+  ]
+}
+
+function sidebarReferenceSql(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'SQL', link: '/sql', items: [
+        { text: 'SQL команды', link: '/sql-commands' },
       ]
     },
   ]
