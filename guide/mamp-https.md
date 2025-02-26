@@ -80,3 +80,29 @@ openssl genrsa -out localhost.key 2048
 ```shell
 openssl req -new -x509 -key localhost.key -out localhost.crt -days 3650 -subj "/CN=*.localhost"
 ```
+
+## Создание сертификатов с помощью `mkcert`
+
+Устанавливаем `mkcert`
+
+```shell
+brew install mkcert
+```
+
+Если используем Firefox, то устанавливаем `nss`
+
+```shell
+brew install nss
+```
+
+Для установки корневой сертификат (можно использовать только один раз):
+
+```shell
+mkcert -install
+```
+
+Для установки сертификатов для всех доменов `*.test`
+
+```shell
+mkcert "*.test"
+```
