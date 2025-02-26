@@ -68,3 +68,49 @@ description: 'MAMP — Комплект решений, используемых
    ```
    
 8. Переносим файлы `server.crt` и `server.key` в папку `/Applications/MAMP/conf/apache/`.
+
+## SSL для локальных доменов
+
+1. Создаем файл `domain.csr.cnf`
+
+   ```txt
+   [req]
+   default_bits = 2048
+   prompt = no
+   default_md = sha256
+   distinguished_name = dn
+
+   [dn]
+   C=US
+   ST=RandomState
+   L=RandomCity
+   O=RandomOrganization
+   OU=RandomOrganizationUnit
+   emailAddress=hello@example.com
+   CN = *.test
+   ```
+   
+2. Создаем файл `v3.ext`
+
+   ```txt
+   authorityKeyIdentifier=keyid,issuer
+   basicConstraints=CA:FALSE
+   keyUsage = digitalSignature, nonRepudiation, keyEncipherment, dataEncipherment
+   subjectAltName = @alt_names
+
+   [alt_names]
+   DNS.1 = *.test
+   DNS.2 = test
+   ```
+   
+3. Создаем ключ `domain.key`
+
+   ```shell
+   openssl req -new -sha256 -nodes -out domain.csr -newkey rsa:2048 -keyout domain.key -config <( cat domain.csr.cnf )
+   ```
+   
+4. Создаем сертификат `domain.crs`
+
+   ```shell
+   openssl x509 -req -in domain.csr -CA rootCA.pem -CAkey rootCA.key -CAcreateserial -out domain.crt -days 500 -sha256 -extfile v3.ext
+   ```
