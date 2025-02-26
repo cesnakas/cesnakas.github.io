@@ -3,11 +3,16 @@ import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
+// @ts-ignore
 import CasesApp from './components/CasesApp.vue'
+// @ts-ignore
 import WorkList from './components/WorkList.vue'
+// @ts-ignore
 import TimeCalculator from './components/TimeCalculator.vue'
+// @ts-ignore
 import TaskTracker from './components/TaskTracker.vue'
 
+import 'virtual:group-icons.css'
 import './style.scss'
 
 export default {

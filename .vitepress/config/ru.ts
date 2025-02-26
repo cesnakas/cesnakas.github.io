@@ -6,12 +6,19 @@ export const ru = defineConfig({
     nav: nav(),
 
     sidebar: {
-      '/guide/': { base: '/guide', items: sidebarGuide() },
+      // Guides
+      '/guide': { base: '/guide', items: sidebarGuide() },
+      // Servers
+      '/guide/apache': { base: '/guide', items: sidebarGuideServer() },
+      '/guide/nginx': { base: '/guide', items: sidebarGuideServer() },
+      '/guide/mamp': { base: '/guide', items: sidebarGuideServer() },
+
       '/reference/git': { base: '/reference', items: sidebarReferenceGit() },
       '/reference/scss': { base: '/reference', items: sidebarReferenceScss() },
       '/reference/js': { base: '/reference', items: sidebarReferenceJs() },
       '/reference/php': { base: '/reference', items: sidebarReferencePhp() },
       '/reference/sql': { base: '/reference', items: sidebarReferenceSql() },
+
       '/javascript/': { base: '/javascript', items: sidebarJavascript() },
       '/vue/': { base: '/vue', items: sidebarVue() },
       '/bitrix/': { base: '/bitrix', items: sidebarBitrix() },
@@ -84,8 +91,6 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       text: 'Node', link: '/node'
     },
     { text: ' ' },
-    { text: 'MAMP', link: '/mamp' },
-    { text: ' ' },
     { text: 'Browser', link: '/browser' },
     { text: 'Calc', link: '/calc' },
     { text: 'Gulp', link: '/gulp' },
@@ -94,6 +99,30 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
     { text: 'RegExp', link: '/regexp' },
     { text: 'Vite', link: '/vite' },
     { text: 'Webpack', link: '/webpack' },
+  ]
+}
+
+function sidebarGuideServer(): DefaultTheme.SidebarItem[] {
+  return [
+    {
+      text: 'Apache',
+      items: [
+        { text: 'Настройка', link: '/apache' },
+      ]
+    },
+    {
+      text: 'Nginx',
+      items: [
+        { text: 'Nginx', link: '/nginx' },
+      ]
+    },
+    {
+      text: 'MAMP',
+      items: [
+        { text: 'Установка и настройка', link: '/mamp' },
+        { text: 'Настройка HTTPS', link: '/mamp-https' }
+      ]
+    },
   ]
 }
 

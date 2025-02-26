@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+
 import { shared } from './shared'
 import { ru } from './ru'
 import { en } from './en'

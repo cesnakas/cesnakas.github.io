@@ -1,7 +1,12 @@
 import { defineConfig } from 'vitepress'
+import {groupIconMdPlugin, groupIconVitePlugin, localIconLoader} from 'vitepress-plugin-group-icons'
+
 import { search as ruSearch } from './ru'
 import { search as enSearch } from './en'
 
+// @ts-ignore
+// @ts-ignore
+// @ts-ignore
 export const shared = defineConfig({
     title: 'Sergei Česnakas',
     titleTemplate: false,
@@ -51,11 +56,26 @@ export const shared = defineConfig({
     },
 
     markdown: {
-        image: { lazyLoading: true }
+        image: { lazyLoading: true },
+        config(md) {
+            md.use(groupIconMdPlugin)
+        },
     },
 
     sitemap: {
         hostname: 'https://cesnakas.com',
         lastmodDateOnly: true
+    },
+
+    vite: {
+        plugins: [
+            groupIconVitePlugin({
+                // https://vpgi.vercel.app/features.html
+                customIcon: {
+                    // @ts-ignore
+                    '.conf': localIconLoader(import.meta.url, '../../public/images/folder.svg')
+                }
+            })
+        ],
     }
 })
