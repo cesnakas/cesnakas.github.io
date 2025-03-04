@@ -6,6 +6,8 @@ import DefaultTheme from 'vitepress/theme'
 // @ts-ignore
 import CasesApp from './components/CasesApp.vue'
 // @ts-ignore
+import CasesFilter from './components/CasesFilter.vue'
+// @ts-ignore
 import WorkList from './components/WorkList.vue'
 // @ts-ignore
 import TimeCalculator from './components/TimeCalculator.vue'
@@ -24,6 +26,7 @@ export default {
   },
   enhanceApp({ app, router, siteData }) {
     app.component('CasesApp', CasesApp)
+    app.component('CasesFilter', CasesFilter)
     app.component('work', WorkList)
     app.component('TimeCalculator', TimeCalculator)
     app.component('TaskTracker', TaskTracker)
