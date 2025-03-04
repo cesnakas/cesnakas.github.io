@@ -38,14 +38,21 @@ export default {
     return {
       filter: 'all',
       items: items as Item[],
+      visibleItems: 12,
     }
+  },
+  mounted() {
+    window.addEventListener('scroll', this.handleScroll);
+  },
+  beforeUnmount() {
+    window.removeEventListener('scroll', this.handleScroll);
   },
   computed: {
     filteredItems() {
       if (this.filter === 'all') {
-        return this.items;
+        return this.items.slice(0, this.visibleItems);
       } else {
-        return this.items.filter(item => item.type === this.filter);
+        return this.items.filter(item => item.type === this.filter).slice(0, this.visibleItems);
       }
     },
     typeCounts() {
@@ -55,6 +62,16 @@ export default {
         }
         return counts;
       }, {});
+    },
+  },
+  methods: {
+    loadMore() {
+      this.visibleItems += 3;
+    },
+    handleScroll() {
+      if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
+        this.loadMore();
+      }
     },
   },
 }
@@ -125,6 +142,7 @@ h1 {
 
 .item {
   width: 100%;
+  min-height: 140px;
   padding: 8px;
 
   @media (min-width: 640px) {
