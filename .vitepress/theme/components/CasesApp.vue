@@ -4,7 +4,10 @@
     <CasesFilter :items="items" v-model:filter="filter" @update:filter="filter = $event"/>
     <div class="items">
       <div class="item" v-for="(item, index) in filteredItems" :key="index">
-        <a class="item__link" :href="item.link" target="_blank">
+        <a class="item__link"
+           :href="item.intLink || item.extLink"
+           :target="item.intLink ? '_self' : '_blank'"
+        >
           <div class="item__box">
             <div class="item__title">{{ item.title }}</div>
           </div>
@@ -20,13 +23,14 @@ import CasesFilter from './CasesFilter.vue'
 
 interface Item {
   title: string;
-  link: string;
+  intLink?: string;
+  extLink?: string;
   type?: string;
 }
 
 export default {
   components: {
-    CasesFilter,
+    CasesFilter
   },
   data() {
     return {
@@ -133,6 +137,10 @@ h1 {
     font-size: 16px;
     font-weight: 600;
     line-height: 24px;
+  }
+
+  &__detail {
+    padding-top: 16px;
   }
 }
 </style>
