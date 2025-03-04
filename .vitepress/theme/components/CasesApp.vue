@@ -3,13 +3,13 @@
     <h1>Кейсы</h1>
 
     <div class="filter">
-      <button @click="filter='all'">Все <span class="count">{{ typeCounts.all || items.length }}</span></button>
-      <button @click="filter='web-service'">Веб-сервисы <span class="count">{{ typeCounts['web-service'] || 0 }}</span></button>
-      <button @click="filter='e-shop'">Интернет-магазины <span class="count">{{ typeCounts['e-shop'] || 0 }}</span></button>
-      <button @click="filter='catalog'">Сайты-каталоги <span class="count">{{ typeCounts['catalog'] || 0 }}</span></button>
-      <button @click="filter='portal'">Порталы <span class="count">{{ typeCounts.portal || 0 }}</span></button>
-      <button @click="filter='company'">Сайты компании <span class="count">{{ typeCounts.company || 0 }}</span></button>
-      <button @click="filter='promo'">Промо-сайты <span class="count">{{ typeCounts.promo || 0 }}</span></button>
+      <button @click="filter='all'">Все<span class="count">{{ typeCounts.all || items.length }}</span></button>
+      <button @click="filter='eComm'">E-Commerce<span class="count">{{ typeCounts['eComm'] || 0 }}</span></button>
+      <button @click="filter='company'">Сайты компании<span class="count">{{ typeCounts.company || 0 }}</span></button>
+      <button @click="filter='service'">Веб-сервисы<span class="count">{{ typeCounts['web-service'] || 0 }}</span></button>
+      <button @click="filter='catalog'">Сайты-каталоги<span class="count">{{ typeCounts['catalog'] || 0 }}</span></button>
+      <button @click="filter='portal'">Порталы<span class="count">{{ typeCounts.portal || 0 }}</span></button>
+      <button @click="filter='promo'">Промо-сайты<span class="count">{{ typeCounts.promo || 0 }}</span></button>
     </div>
 
     <div class="items">
