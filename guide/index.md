@@ -13,9 +13,6 @@ hero:
     alt: SpaceMan
 
 features:
-  - title: Bash
-    link: /guide/bash
-
   - title: Browser
     link: /guide/browser
 
