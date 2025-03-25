@@ -76,9 +76,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'Командная строка',
-      // link: '/shell',
       items: [
-        { text: 'Bash', link: '/bash' },
         { text: 'SSH', link: '/ssh' },
         { text: 'SSH команды', link: '/ssh-commands' },
         { text: 'SSH ключи', link: '/ssh-key' },
