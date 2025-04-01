@@ -15,7 +15,6 @@ export const ru = defineConfig({
 
       '/reference/git': { base: '/reference', items: sidebarReferenceGit() },
       '/reference/scss': { base: '/reference', items: sidebarReferenceScss() },
-      '/reference/js': { base: '/reference', items: sidebarReferenceJs() },
       '/reference/php': { base: '/reference', items: sidebarReferencePhp() },
 
       '/javascript/': { base: '/javascript', items: sidebarJavascript() },
@@ -54,7 +53,6 @@ function nav(): DefaultTheme.NavItem[] {
       items: [
         { text: 'Git', link: '/reference/git', activeMatch: '/reference/git.*' },
         { text: 'SCSS', link: '/reference/scss', activeMatch: '/reference/scss.*' },
-        { text: 'JavaScript', link: '/reference/js', activeMatch: '/reference/js.*' },
         { text: 'PHP', link: '/reference/php', activeMatch: '/reference/php.*' },
       ]
     },
@@ -146,18 +144,6 @@ function sidebarReferenceScss(): DefaultTheme.SidebarItem[] {
     {
       text: 'Паттерн 7-1', link: '/scss-7-1', items: [
         { text: 'Base', link: '/scss-7-1-base' },
-      ]
-    },
-  ]
-}
-
-function sidebarReferenceJs(): DefaultTheme.SidebarItem[] {
-  return [
-    {
-      text: 'JavaScript', link: '/js', items: [
-        { text: 'Переменные', link: '/js-variables' },
-        { text: 'Условия', link: '/js-conditions' },
-        { text: 'Циклы', link: '/js-loops' },
       ]
     },
   ]
