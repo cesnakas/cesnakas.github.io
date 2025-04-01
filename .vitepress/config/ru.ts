@@ -17,7 +17,6 @@ export const ru = defineConfig({
       '/reference/scss': { base: '/reference', items: sidebarReferenceScss() },
       '/reference/js': { base: '/reference', items: sidebarReferenceJs() },
       '/reference/php': { base: '/reference', items: sidebarReferencePhp() },
-      '/reference/sql': { base: '/reference', items: sidebarReferenceSql() },
 
       '/javascript/': { base: '/javascript', items: sidebarJavascript() },
       '/vue/': { base: '/vue', items: sidebarVue() },
@@ -57,7 +56,6 @@ function nav(): DefaultTheme.NavItem[] {
         { text: 'SCSS', link: '/reference/scss', activeMatch: '/reference/scss.*' },
         { text: 'JavaScript', link: '/reference/js', activeMatch: '/reference/js.*' },
         { text: 'PHP', link: '/reference/php', activeMatch: '/reference/php.*' },
-        { text: 'SQL', link: '/reference/sql', activeMatch: '/reference/sql.*' },
       ]
     },
     {
@@ -170,16 +168,6 @@ function sidebarReferencePhp(): DefaultTheme.SidebarItem[] {
     {
       text: 'PHP', link: '/php', items: [
         { text: 'Массивы', link: '/php-arrays' }
-      ]
-    },
-  ]
-}
-
-function sidebarReferenceSql(): DefaultTheme.SidebarItem[] {
-  return [
-    {
-      text: 'SQL', link: '/sql', items: [
-        { text: 'SQL команды', link: '/sql-commands' },
       ]
     },
   ]
