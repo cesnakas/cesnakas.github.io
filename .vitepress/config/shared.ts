@@ -46,7 +46,8 @@ export const shared = defineConfig({
       {
         icon: 'telegram',
         link: 'https://t.me/cesnakas',
-        ariaLabel: 'Telegram'},
+        ariaLabel: 'Telegram',
+      },
       {
         icon: 'github',
         link: 'https://github.com/cesnakas',
