@@ -5,6 +5,11 @@ titleTemplate: false
 description: 'Work — Sergei Česnakas'
 
 features:
+  - title: coralclub.ru
+    details: '&nbsp;'
+    link: https://coralclub.ru
+    linkText: Подробнее
+
   - title: ch1ef.ru
     details: '&nbsp;'
     link: https://ch1ef.ru
