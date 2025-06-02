@@ -63,6 +63,7 @@ function nav(): DefaultTheme.NavItem[] {
         { text: 'Vue', link: '/vue/' },
       ]
     },
+    { text: 'Экспириенс', link: '/experience/', activeMatch: '/experience.*' },
     { text: 'Кейсы', link: '/cases/' },
   ]
 }
