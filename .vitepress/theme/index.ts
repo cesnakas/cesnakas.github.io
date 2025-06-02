@@ -15,6 +15,10 @@ import WorkList from './components/WorkList.vue'
 import TimeCalculator from './components/TimeCalculator.vue'
 // @ts-ignore
 import TaskTracker from './components/TaskTracker.vue'
+// @ts-ignore
+import Skills from './components/Skills.vue'
+// @ts-ignore
+import Certificates from './components/Certificates.vue'
 
 import 'virtual:group-icons.css'
 import './style.scss'
@@ -33,5 +37,7 @@ export default {
     app.component('work', WorkList)
     app.component('TimeCalculator', TimeCalculator)
     app.component('TaskTracker', TaskTracker)
+    app.component('Skills', Skills)
+    app.component('Certificates', Certificates)
   }
 } satisfies Theme
