@@ -19,6 +19,7 @@ import TaskTracker from './components/TaskTracker.vue'
 import Skills from './components/Skills.vue'
 // @ts-ignore
 import Certificates from './components/Certificates.vue'
+import Experience from './components/Experience.vue'
 
 import 'virtual:group-icons.css'
 import './style.scss'
@@ -39,5 +40,6 @@ export default {
     app.component('TaskTracker', TaskTracker)
     app.component('Skills', Skills)
     app.component('Certificates', Certificates)
+    app.component('Experience', Experience)
   }
 } satisfies Theme
