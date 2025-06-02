@@ -20,6 +20,7 @@ import Skills from './components/Skills.vue'
 // @ts-ignore
 import Certificates from './components/Certificates.vue'
 import Experience from './components/Experience.vue'
+import ExperienceStats from './components/ExperienceStats.vue'
 
 import 'virtual:group-icons.css'
 import './style.scss'
@@ -41,5 +42,6 @@ export default {
     app.component('Skills', Skills)
     app.component('Certificates', Certificates)
     app.component('Experience', Experience)
+    app.component('ExperienceStats', ExperienceStats)
   }
 } satisfies Theme

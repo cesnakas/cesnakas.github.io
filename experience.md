@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Опыт работы
+title: Экспириенс
 ---
 
 <div class="content-container">
-  <h1>Опыт работы</h1>
+  <h1>Экспириенс</h1>
 
   <script setup>
   import Experience from '.vitepress/theme/components/Experience.vue'
+  import ExperienceStats from '.vitepress/theme/components/ExperienceStats.vue'
   </script>
 
+  <ExperienceStats />
   <Experience />
 </div>
 
