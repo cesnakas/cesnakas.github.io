@@ -1,5 +1,5 @@
-<script>
-
+<script setup lang="ts">
+// Component logic here
 </script>
 
 <template>

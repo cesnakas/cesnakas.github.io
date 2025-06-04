@@ -3,24 +3,18 @@ import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
-// @ts-ignore
 import CasesApp from './components/CasesApp.vue'
-// @ts-ignore
 import CasesFilter from './components/CasesFilter.vue'
-// @ts-ignore
 import CaseDetails from './components/CaseDetails.vue'
-// @ts-ignore
 import WorkList from './components/WorkList.vue'
-// @ts-ignore
 import TimeCalculator from './components/TimeCalculator.vue'
-// @ts-ignore
 import TaskTracker from './components/TaskTracker.vue'
-// @ts-ignore
 import Skills from './components/Skills.vue'
-// @ts-ignore
 import Certificates from './components/Certificates.vue'
 import Experience from './components/Experience.vue'
 import ExperienceStats from './components/ExperienceStats.vue'
+import Breadcrumbs from './components/Breadcrumbs.vue'
+import StructuredData from './components/StructuredData.vue'
 
 import 'virtual:group-icons.css'
 import './style.scss'
@@ -29,7 +23,7 @@ export default {
   extends: DefaultTheme,
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
-      // https://vitepress.dev/guide/extending-default-theme#layout-slots
+      'doc-before': () => h(Breadcrumbs)
     })
   },
   enhanceApp({ app, router, siteData }) {
@@ -43,5 +37,7 @@ export default {
     app.component('Certificates', Certificates)
     app.component('Experience', Experience)
     app.component('ExperienceStats', ExperienceStats)
+    app.component('Breadcrumbs', Breadcrumbs)
+    app.component('StructuredData', StructuredData)
   }
 } satisfies Theme

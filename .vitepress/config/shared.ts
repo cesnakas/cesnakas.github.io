@@ -14,10 +14,21 @@ export const shared = defineConfig({
 
   head: [
     ['link', {rel: 'icon', href: '/favicon.ico'}],
-    // ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
-    // ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: ''}],
-    // ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;200;300;400;500;600;700;800&display=swap' }],
+    // Open Graph
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'Sergei Česnakas — Web Developer' }],
+    ['meta', { property: 'og:description', content: 'Разработка сайтов, Верстка, Программирование, Портфолио, Языки программирования, Гайды, Заметки, Сниппеты, Инструменты разработчика.' }],
+    ['meta', { property: 'og:image', content: 'https://cesnakas.com/images/s.cesnakas.png' }],
+    ['meta', { property: 'og:url', content: 'https://cesnakas.com' }],
+    ['meta', { property: 'og:site_name', content: 'Sergei Česnakas' }],
+    // Twitter Card
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'Sergei Česnakas — Web Developer' }],
+    ['meta', { name: 'twitter:description', content: 'Разработка сайтов, Верстка, Программирование, Портфолио, Языки программирования, Гайды, Заметки, Сниппеты, Инструменты разработчика.' }],
+    ['meta', { name: 'twitter:image', content: 'https://cesnakas.com/images/s.cesnakas.png' }],
+    // Yandex.Metrika
     ['script', {}, `(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(95915064, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true });`],
+    // Google Analytics
     ['script', {async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-5QRK48NJWG'}],
     ['script', {}, `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-5QRK48NJWG');`]
   ],
@@ -89,5 +100,13 @@ export const shared = defineConfig({
         }
       })
     ],
+    server: {
+      fs: {
+        strict: true
+      },
+      headers: {
+        'Content-Type': 'application/javascript'
+      }
+    }
   }
 })
