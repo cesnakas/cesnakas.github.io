@@ -1,0 +1,15 @@
+@use '../abstracts/utilities' as *;
+@use '../abstracts/mixins' as *;
+
+.spaceman {
+  @include flex-center;
+  justify-content: center;
+
+  &.pt-6 {
+    padding-top: $spacing-6;
+  }
+
+  &.pt-8 {
+    padding-top: $spacing-8;
+  }
+} 

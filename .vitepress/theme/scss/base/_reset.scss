@@ -1,0 +1,36 @@
+@use '../abstracts/variables' as *;
+
+:root {
+  --vp-font-family-base: #{$font-family-base};
+  --vp-font-family-mono: #{$font-family-mono};
+  
+  // Цвета по умолчанию
+  --vp-c-default-1: var(--vp-c-gray-1);
+  --vp-c-default-2: var(--vp-c-gray-2);
+  --vp-c-default-3: var(--vp-c-gray-3);
+  --vp-c-default-soft: var(--vp-c-gray-soft);
+
+  // Бренд цвета
+  --vp-c-brand-1: #{$brand-color-1};
+  --vp-c-brand-2: #{$brand-color-2};
+  --vp-c-brand-3: #{$brand-color-3};
+  --vp-c-brand-soft: #{$brand-color-soft};
+
+  // Цвета подсказок
+  --vp-c-tip-1: #{$tip-color-1};
+  --vp-c-tip-2: #{$tip-color-2};
+  --vp-c-tip-3: #{$tip-color-3};
+  --vp-c-tip-soft: #{$tip-color-soft};
+
+  // Цвета предупреждений
+  --vp-c-warning-1: #{$warning-color-1};
+  --vp-c-warning-2: #{$warning-color-2};
+  --vp-c-warning-3: #{$warning-color-3};
+  --vp-c-warning-soft: #{$warning-color-soft};
+
+  // Цвета опасности
+  --vp-c-danger-1: #{$danger-color-1};
+  --vp-c-danger-2: #{$danger-color-2};
+  --vp-c-danger-3: #{$danger-color-3};
+  --vp-c-danger-soft: #{$danger-color-soft};
+} 

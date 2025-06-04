@@ -1,0 +1,20 @@
+@use '../abstracts/utilities' as *;
+
+.img {
+  $imgHeight: auto;
+
+  &-sm {
+    width: $img-sm;
+    height: $imgHeight;
+  }
+
+  &-md {
+    width: $img-md;
+    height: $imgHeight;
+  }
+
+  &-lg {
+    width: $img-lg;
+    height: $imgHeight;
+  }
+} 
