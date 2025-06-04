@@ -26,6 +26,32 @@ export const shared = defineConfig({
     ['meta', { name: 'twitter:title', content: 'Sergei Česnakas — Web Developer' }],
     ['meta', { name: 'twitter:description', content: 'Разработка сайтов, Верстка, Программирование, Портфолио, Языки программирования, Гайды, Заметки, Сниппеты, Инструменты разработчика.' }],
     ['meta', { name: 'twitter:image', content: 'https://cesnakas.com/images/s.cesnakas.png' }],
+    // JSON-LD
+    ['script', { type: 'application/ld+json' }, JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Sergei Česnakas — Web Developer",
+      "description": "Разработка сайтов, Верстка, Программирование, Портфолио, Языки программирования, Гайды, Заметки, Сниппеты, Инструменты разработчика.",
+      "url": "https://cesnakas.com",
+      "author": {
+        "@type": "Person",
+        "name": "Sergei Česnakas",
+        "url": "https://cesnakas.com",
+        "jobTitle": "Web Developer"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Sergei Česnakas",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://cesnakas.com/images/s.cesnakas.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://cesnakas.com"
+      }
+    })],
     // Yandex.Metrika
     ['script', {}, `(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(95915064, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true });`],
     // Google Analytics
@@ -103,10 +129,8 @@ export const shared = defineConfig({
     server: {
       fs: {
         strict: true
-      },
-      headers: {
-        'Content-Type': 'application/javascript'
       }
-    }
+    },
+    publicDir: 'public'
   }
 })
