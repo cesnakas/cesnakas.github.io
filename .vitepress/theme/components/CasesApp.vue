@@ -36,7 +36,7 @@ export default {
     return {
       filter: 'all',
       items: items as Item[],
-      visibleItems: 12,
+      visibleItems: 15,
     }
   },
   mounted() {
