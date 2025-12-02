@@ -8,8 +8,8 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "sass": "latest",
-    "vitepress": "latest",
-    "vitepress-plugin-group-icons": "latest"
+    "sass": "^1.94.2",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-group-icons": "^1.6.5"
   }
 }
