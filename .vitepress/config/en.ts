@@ -6,7 +6,6 @@ export const en = defineConfig({
 
     sidebar: {
       '/guide/': { base: '/guide', items: sidebarGuide() },
-      '/sass/': { base: '/sass', items: sidebarSass() },
       '/javascript/': { base: '/javascript', items: sidebarJavascript() },
       '/php/': { base: '/php', items: sidebarPhp() },
       '/bitrix/': { base: '/bitrix', items: sidebarBitrix() },
@@ -26,7 +25,6 @@ function nav(): DefaultTheme.NavItem[] {
       items: [
         { text: 'SSH', link: '/guide/ssh' },
         { text: 'Git', link: '/guide/git' },
-        { text: 'Sass/SCSS', link: '/sass/' },
         { text: 'JavaScript', link: '/javascript/' },
         { text: 'PHP', link: '/php/' },
         { text: 'Bitrix', link: '/bitrix/' },
@@ -39,19 +37,6 @@ function nav(): DefaultTheme.NavItem[] {
 function sidebarGuide(): DefaultTheme.SidebarItem[] {
   return [
     // { text: '', link: null },
-  ]
-}
-
-function sidebarSass(): DefaultTheme.SidebarItem[] {
-  return [
-    {
-      text: 'Sass/SCSS',
-      items: [
-        { text: 'Info', link: '/', },
-        { text: 'Variables', link: '/variables' },
-        { text: 'Mixins', link: '/mixins' }
-      ]
-    }
   ]
 }
 

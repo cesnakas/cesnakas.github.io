@@ -22,12 +22,6 @@ features:
       src: /images/git.svg
       alt: Git
       
-  - title: Gulp
-    link: /guide/gulp
-    icon:
-      src: /images/gulp.svg
-      alt: Gulp
-
   - title: macOS
     link: /guide/mac-os
     icon:
@@ -51,24 +45,10 @@ features:
     icon:
       src: /images/phpstorm.svg
       alt: PhpStorm
-      
-  - title: RegExp
-    link: /guide/regexp
-    icon:
-      src: /images/regexp.svg
-    
+
   - title: SSH
     link: /guide/ssh
     
-  - title: Vite
-    link: /guide/vite
-
-  - title: Webpack
-    link: /guide/webpack
-    icon:
-      src: /images/webpack.svg
-      alt: Webpack
-
   - title: JavaScript
     link: /javascript/
     icon:
@@ -85,12 +65,6 @@ features:
     icon:
       src: /images/react.svg
       alt: React
-
-  - title: Sass / SCSS
-    link: /reference/scss
-    icon:
-      src: /images/sass.svg
-      alt: Sass
 
   - title: TypeScript
     icon:

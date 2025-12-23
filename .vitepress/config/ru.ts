@@ -14,7 +14,6 @@ export const ru = defineConfig({
       '/guide/mamp': { base: '/guide', items: sidebarGuideServer() },
 
       '/reference/git': { base: '/reference', items: sidebarReferenceGit() },
-      '/reference/scss': { base: '/reference', items: sidebarReferenceScss() },
       '/reference/php': { base: '/reference', items: sidebarReferencePhp() },
 
       '/javascript/': { base: '/javascript', items: sidebarJavascript() },
@@ -52,7 +51,6 @@ function nav(): DefaultTheme.NavItem[] {
       activeMatch: '/reference/.*',
       items: [
         { text: 'Git', link: '/reference/git', activeMatch: '/reference/git.*' },
-        { text: 'SCSS', link: '/reference/scss', activeMatch: '/reference/scss.*' },
         { text: 'PHP', link: '/reference/php', activeMatch: '/reference/php.*' },
       ]
     },
@@ -88,12 +86,8 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
     { text: ' ' },
     { text: 'Browser', link: '/browser' },
     { text: 'Calc', link: '/calc' },
-    { text: 'Gulp', link: '/gulp' },
     { text: 'macOS', link: '/mac-os' },
     { text: 'PhpStorm', link: '/phpstorm' },
-    { text: 'RegExp', link: '/regexp' },
-    { text: 'Vite', link: '/vite' },
-    { text: 'Webpack', link: '/webpack' },
   ]
 }
 
@@ -131,22 +125,6 @@ function sidebarReferenceGit(): DefaultTheme.SidebarItem[] {
         // { text: 'Git SSH', link: '/git-ssh' },
       ]
     }
-  ]
-}
-
-function sidebarReferenceScss(): DefaultTheme.SidebarItem[] {
-  return [
-    {
-      text: 'Sass/SCSS', link: '/scss', items: [
-        { text: 'Переменные', link: '/scss-variables' },
-        { text: 'Миксины', link: '/scss-mixins' }
-      ]
-    },
-    {
-      text: 'Паттерн 7-1', link: '/scss-7-1', items: [
-        { text: 'Base', link: '/scss-7-1-base' },
-      ]
-    },
   ]
 }
 

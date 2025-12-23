@@ -47,13 +47,7 @@ features:
     icon:
       src: /images/nodejs.svg
       alt: Node.js
-      
-  - title: Sass / SCSS
-    link: /reference/scss
-    icon:
-      src: /images/sass.svg
-      alt: Sass / SCSS
-      
+
   - title: PHP
     link: /reference/php
     icon:
@@ -75,22 +69,10 @@ features:
     icon:
       src: /images/laravel.svg
       alt: Laravel
-      
-  - title: Gulp
-    link: /guide/gulp
-    icon:
-      src: /images/gulp.svg
-      alt: Gulp
-
   - title: Figma
     icon:
       src: /images/figma.svg
       alt: Figma
-      
-  - title: Webpack
-    icon:
-      src: /images/webpack.svg
-      alt: Webpack
 ---
 
 <div class="spaceman pt-8">
