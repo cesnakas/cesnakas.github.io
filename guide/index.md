@@ -13,9 +13,6 @@ hero:
     alt: SpaceMan
 
 features:
-  - title: Browser
-    link: /guide/browser
-
   - title: Git
     link: /guide/git
     icon:
@@ -60,14 +57,4 @@ features:
     icon:
       src: /images/vue.svg
       alt: Vue.js
-
-  - title: React
-    icon:
-      src: /images/react.svg
-      alt: React
-
-  - title: TypeScript
-    icon:
-      src: /images/typescript.svg
-      alt: TypeScript
 ---

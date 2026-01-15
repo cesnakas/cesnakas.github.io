@@ -84,7 +84,6 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       text: 'Node', link: '/node'
     },
     { text: ' ' },
-    { text: 'Browser', link: '/browser' },
     { text: 'Calc', link: '/calc' },
     { text: 'macOS', link: '/mac-os' },
     { text: 'PhpStorm', link: '/phpstorm' },
