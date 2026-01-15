@@ -19,12 +19,6 @@ features:
       src: /images/git.svg
       alt: Git
       
-  - title: macOS
-    link: /guide/mac-os
-    icon:
-      src: /images/macos.svg
-      alt: macOS
-      
   - title: MAMP
     link: /guide/mamp
     icon:
@@ -36,12 +30,6 @@ features:
     icon:
       src: /images/nodejs.svg
       alt: Node.js
-
-  - title: PhpStorm
-    link: /guide/phpstorm
-    icon:
-      src: /images/phpstorm.svg
-      alt: PhpStorm
 
   - title: SSH
     link: /guide/ssh
