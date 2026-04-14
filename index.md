@@ -1,16 +1,17 @@
 ---
 layout: home
-title: 'Sergei Česnakas'
+title: 'Česnakas'
 titleTemplate: ':title — Web Developer'
 description: 'Разработка сайтов, Верстка, Программирование, Портфолио, Языки программирования, Гайды, Заметки, Сниппеты, Инструменты разработчика.'
 
 hero:
-  name: Sergei Česnakas
-  text: Web Developer
+  name: 
+  text: 
   tagline: Гайды, Заметки, Сниппеты и т.д.
   image:
-    src: /images/s.cesnakas.png
-    alt: Sergei Česnakas
+    light: /images/cesnakas-dark.png
+    dark: /images/cesnakas-light.png
+    alt: Česnakas
 
 features:
   - title: JavaScript

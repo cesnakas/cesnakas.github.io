@@ -170,3 +170,11 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
+
+/**
+ * Navbar logo size (default theme: --vp-nav-logo-height: 24px in vars.css)
+ * https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/components/VPNavBarTitle.vue
+ */
+:root {
+  --vp-nav-logo-height: 36px;
+}

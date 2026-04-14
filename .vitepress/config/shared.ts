@@ -60,7 +60,12 @@ export const shared = defineConfig({
   ],
 
   themeConfig: {
-    logo: 'https://github.com/cesnakas.png',
+    siteTitle: false,
+    logo: {
+      light: '/images/cesnakas-dark.svg',
+      dark: '/images/cesnakas-light.svg',
+      alt: 'Česnakas'
+    },
 
     search: {
       provider: 'local',
